@@ -328,7 +328,7 @@ WHERE s1.name='Skorupi' AND s2.name='Drapion';
 CREATE TABLE trainers (
   id         SERIAL PRIMARY KEY,
   name       TEXT NOT NULL,          -- e.g., "Rika"
-  handle     TEXT,                   -- nick/PC name
+  player     BOOLEAN NOT NULL DEFAULT FALSE, -- is this a player character?
   notes      TEXT,
   created_at TIMESTAMPTZ NOT NULL DEFAULT now()
 );
