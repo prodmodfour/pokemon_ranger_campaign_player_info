@@ -337,49 +337,107 @@ CREATE TABLE trainers (
 # Pokemon Instances
 
 ```sql
--- One row per actual Pokémon in the world
+-- One row per actual Pokémon
 CREATE TABLE pokemon_instances (
   id           UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   species_id   INTEGER NOT NULL REFERENCES species(id),
-  form_id      INTEGER REFERENCES forms(id),   -- null if you don't use forms
+  form_id      INTEGER REFERENCES forms(id),             -- null if unused
   nickname     TEXT,
-  level        INTEGER,                         -- PTU level
+  level        INTEGER,
+  xp           INTEGER DEFAULT 0,                        -- useful in PTU
   gender       TEXT CHECK (gender IN ('M','F','N/A','Unknown')) DEFAULT 'Unknown',
   nature       TEXT,
-  ability_id   INTEGER REFERENCES abilities(id),-- the *chosen* ability
   shiny        BOOLEAN NOT NULL DEFAULT FALSE,
   captured_at  TIMESTAMPTZ,
-  ball         TEXT,                            -- Poké Ball type
-  status       TEXT,                            -- Burned, etc. (optional)
-  height_m     NUMERIC(4,2),                    -- per-mon overrides (optional)
+  ball         TEXT,                                     -- caught in
+  status       TEXT,                                     -- long-lived status (optional)
+  injuries     SMALLINT DEFAULT 0,                       -- quick read; see injury log below
+  height_m     NUMERIC(4,2),
   weight_kg    NUMERIC(5,2),
   notes        TEXT
 );
+
+-- Ability can change; keep a tiny history table.
+CREATE TABLE pokemon_ability_history (
+  pokemon_id  UUID    REFERENCES pokemon_instances(id) ON DELETE CASCADE,
+  ability_id  INTEGER REFERENCES abilities(id),
+  started_at  TIMESTAMPTZ NOT NULL DEFAULT now(),
+  ended_at    TIMESTAMPTZ,
+  PRIMARY KEY (pokemon_id, started_at)
+);
+
+-- Current ability view
+CREATE VIEW current_pokemon_ability AS
+SELECT DISTINCT ON (pokemon_id) pokemon_id, ability_id
+FROM pokemon_ability_history
+WHERE ended_at IS NULL
+ORDER BY pokemon_id, started_at DESC;
+
 ```
 
 ## Known Moves
 
 ```sql
+CREATE TYPE move_source AS ENUM ('level','tm','tutor','egg','other');
+
 CREATE TABLE pokemon_known_moves (
-  pokemon_id UUID REFERENCES pokemon_instances(id) ON DELETE CASCADE,
-  move_id    INTEGER REFERENCES moves(id),
-  how_learned TEXT,                -- level/tm/tutor/egg/other
+  pokemon_id       UUID REFERENCES pokemon_instances(id) ON DELETE CASCADE,
+  move_id          INTEGER REFERENCES moves(id),
+  how_learned      move_source NOT NULL,
   learned_at_level INTEGER,
-  PRIMARY KEY (pokemon_id, move_id)
+  learned_at       TIMESTAMPTZ NOT NULL DEFAULT now(),
+  forgotten_at     TIMESTAMPTZ,              -- null = currently known
+  PRIMARY KEY (pokemon_id, move_id, learned_at)
 );
+
+-- Convenience view: only the moves currently known
+CREATE VIEW current_pokemon_moves AS
+SELECT pokemon_id, move_id, how_learned, learned_at_level
+FROM pokemon_known_moves
+WHERE forgotten_at IS NULL;
+
 ```
 
 ## Capability mods (edges, items, GM rulings)
 
 ```sql
+CREATE TYPE cap_mod_source AS ENUM ('item','feature','edge','training','gm','other');
+
 CREATE TABLE pokemon_capability_mods (
-  pokemon_id    UUID REFERENCES pokemon_instances(id) ON DELETE CASCADE,
-  capability_id INTEGER REFERENCES capabilities(id),
-  delta_val1    NUMERIC,
+  id            BIGSERIAL PRIMARY KEY,
+  pokemon_id    UUID    NOT NULL REFERENCES pokemon_instances(id) ON DELETE CASCADE,
+  capability_id INTEGER NOT NULL REFERENCES capabilities(id),
+  delta_val1    NUMERIC,                  -- additive; null = no change
   delta_val2    NUMERIC,
-  text_note     TEXT,
-  PRIMARY KEY (pokemon_id, capability_id)
+  text_note     TEXT,                     -- e.g., "Naturewalk +Desert from Feature X"
+  source_type   cap_mod_source NOT NULL DEFAULT 'other',
+  source_ref    TEXT,                     -- item name, feature id, etc.
+  started_at    TIMESTAMPTZ NOT NULL DEFAULT now(),
+  ended_at      TIMESTAMPTZ
 );
+
+-- Optional: avoid duplicate *active* rows from the same source
+CREATE UNIQUE INDEX uniq_active_cap_mod_per_source
+  ON pokemon_capability_mods(pokemon_id, capability_id, source_type, COALESCE(source_ref,''))
+  WHERE ended_at IS NULL;
+
+-- Effective capabilities = base (from species/form) + sum(active deltas)
+CREATE VIEW v_effective_capabilities AS
+SELECT
+  p.id AS pokemon_id,
+  c.id AS capability_id,
+  c.name,
+  (sc.val1
+   + COALESCE(SUM(CASE WHEN pcm.ended_at IS NULL THEN pcm.delta_val1 ELSE 0 END),0)) AS val1,
+  (sc.val2
+   + COALESCE(SUM(CASE WHEN pcm.ended_at IS NULL THEN pcm.delta_val2 ELSE 0 END),0)) AS val2,
+  STRING_AGG(DISTINCT CASE WHEN pcm.ended_at IS NULL THEN pcm.text_note END, '; ' ORDER BY pcm.started_at) AS notes
+FROM pokemon_instances p
+JOIN species_capabilities sc ON sc.species_id = p.species_id
+JOIN capabilities c ON c.id = sc.capability_id
+LEFT JOIN pokemon_capability_mods pcm ON pcm.pokemon_id = p.id AND pcm.capability_id = c.id
+GROUP BY p.id, c.id, c.name, sc.val1, sc.val2;
+
 ```
 
 # Links between Pokémon and trainers (many-to-many, with time)
@@ -400,6 +458,43 @@ CREATE UNIQUE INDEX uniq_active_link
   ON pokemon_trainer_links(pokemon_id, trainer_id)
   WHERE ended_at IS NULL;
 
+```
+
+# Held Items and Conditions
+
+```sql
+CREATE TABLE items (
+  id SERIAL PRIMARY KEY,
+  name TEXT UNIQUE NOT NULL
+);
+
+CREATE TABLE pokemon_held_item_history (
+  pokemon_id UUID REFERENCES pokemon_instances(id) ON DELETE CASCADE,
+  item_id    INTEGER REFERENCES items(id),
+  started_at TIMESTAMPTZ NOT NULL DEFAULT now(),
+  ended_at   TIMESTAMPTZ,
+  PRIMARY KEY (pokemon_id, started_at)
+);
+
+CREATE TABLE pokemon_conditions (
+  pokemon_id UUID REFERENCES pokemon_instances(id) ON DELETE CASCADE,
+  condition  TEXT NOT NULL,                  -- Burned, Poisoned, Asleep, etc.
+  started_at TIMESTAMPTZ NOT NULL DEFAULT now(),
+  ended_at   TIMESTAMPTZ,
+  PRIMARY KEY (pokemon_id, condition, started_at)
+);
+```
+
+# Injury log
+
+```sql
+CREATE TABLE pokemon_injuries (
+  pokemon_id UUID REFERENCES pokemon_instances(id) ON DELETE CASCADE,
+  at_time    TIMESTAMPTZ NOT NULL DEFAULT now(),
+  amount     SMALLINT NOT NULL DEFAULT 1,
+  cause      TEXT,
+  PRIMARY KEY (pokemon_id, at_time)
+);
 ```
 
 # Handy Views and Queries
