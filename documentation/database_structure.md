@@ -357,6 +357,31 @@ CREATE TABLE pokemon_instances (
 );
 ```
 
+## Known Moves
+
+```sql
+CREATE TABLE pokemon_known_moves (
+  pokemon_id UUID REFERENCES pokemon_instances(id) ON DELETE CASCADE,
+  move_id    INTEGER REFERENCES moves(id),
+  how_learned TEXT,                -- level/tm/tutor/egg/other
+  learned_at_level INTEGER,
+  PRIMARY KEY (pokemon_id, move_id)
+);
+```
+
+## Capability mods (edges, items, GM rulings)
+
+```sql
+CREATE TABLE pokemon_capability_mods (
+  pokemon_id    UUID REFERENCES pokemon_instances(id) ON DELETE CASCADE,
+  capability_id INTEGER REFERENCES capabilities(id),
+  delta_val1    NUMERIC,
+  delta_val2    NUMERIC,
+  text_note     TEXT,
+  PRIMARY KEY (pokemon_id, capability_id)
+);
+```
+
 # Links between Pokémon and trainers (many-to-many, with time)
 
 ```sql
@@ -375,9 +400,59 @@ CREATE UNIQUE INDEX uniq_active_link
   ON pokemon_trainer_links(pokemon_id, trainer_id)
   WHERE ended_at IS NULL;
 
--- Optional: allow only one active primary owner per Pokémon
-CREATE UNIQUE INDEX uniq_one_primary_owner
-  ON pokemon_trainer_links(pokemon_id)
-  WHERE is_primary = TRUE AND ended_at IS NULL;
 ```
 
+# Handy Views and Queries
+
+```sql
+-- Current ownership view
+CREATE VIEW current_pokemon_trainers AS
+SELECT *
+FROM pokemon_trainer_links
+WHERE ended_at IS NULL;
+
+-- All Pokémon a trainer currently has
+SELECT p.*
+FROM pokemon_instances p
+JOIN current_pokemon_trainers l ON l.pokemon_id = p.id
+WHERE l.trainer_id = $1;
+
+-- All trainers for a given Pokémon right now
+SELECT t.*
+FROM trainers t
+JOIN current_pokemon_trainers l ON l.trainer_id = t.id
+WHERE l.pokemon_id = $1;
+
+-- Pokémon with no current trainer (wild/PC box/NPC storage)
+SELECT p.*
+FROM pokemon_instances p
+LEFT JOIN current_pokemon_trainers l ON l.pokemon_id = p.id
+WHERE l.pokemon_id IS NULL;
+
+-- Transfer to a new sole owner (example):
+-- 1) end all active links
+UPDATE pokemon_trainer_links
+SET ended_at = now()
+WHERE pokemon_id = $pokemon AND ended_at IS NULL;
+
+-- 2) add the new owner
+INSERT INTO pokemon_trainer_links (pokemon_id, trainer_id, role, is_primary)
+VALUES ($pokemon, $trainer, 'owner', TRUE);
+```
+
+# Example Inserts
+
+```sql
+-- A Skorupi instance (ties back to your species table)
+INSERT INTO pokemon_instances (species_id, nickname, level, gender)
+SELECT s.id, 'Pinchy', 15, 'F' FROM species s WHERE s.name='Skorupi'
+RETURNING id;  -- save this as :pinchy
+
+-- Two trainers
+INSERT INTO trainers (name) VALUES ('Jules'), ('Mina') RETURNING id;
+
+-- Co-ownership (many trainers at once)
+INSERT INTO pokemon_trainer_links (pokemon_id, trainer_id, role, is_primary)
+VALUES (:pinchy, :jules, 'owner', TRUE),
+       (:pinchy, :mina,  'owner', FALSE);
+```
