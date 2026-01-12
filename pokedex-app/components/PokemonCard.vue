@@ -21,14 +21,14 @@ const totalStats = computed(() => {
          (stats.special_attack || 0) + (stats.special_defense || 0) + (stats.speed || 0)
 })
 
-// Generate sprite URL from Pokemon name
+// Generate sprite URL from Pokemon name (Black 2/White 2 animated sprites)
 const spriteUrl = computed(() => {
   const name = props.pokemon.name
     .toLowerCase()
     .replace(/[^a-z0-9-]/g, '') // Remove special chars
     .replace(/♀/g, '-f')
     .replace(/♂/g, '-m')
-  return `https://img.pokemondb.net/sprites/home/normal/${name}.png`
+  return `https://img.pokemondb.net/sprites/black-white/anim/normal/${name}.gif`
 })
 
 const imgError = ref(false)

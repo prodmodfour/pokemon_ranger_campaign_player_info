@@ -111,16 +111,48 @@ const typeInfo = computed(() => {
 
             <!-- Move Definition -->
             <template v-else-if="currentDefinition.type === 'move'">
-              <div class="space-y-2">
-                <div v-if="currentDefinition.moveType" class="flex items-center gap-2">
-                  <span class="text-sm text-gray-400">Type:</span>
+              <div class="space-y-4">
+                <!-- Move Type Badge -->
+                <div v-if="currentDefinition.moveType" class="flex items-center gap-3">
                   <span
-                    class="px-2 py-0.5 rounded text-xs font-semibold text-white"
+                    class="px-4 py-2 rounded-lg text-sm font-bold text-white"
                     :style="{ backgroundColor: getTypeColor(currentDefinition.moveType) }"
                   >{{ currentDefinition.moveType }}</span>
                 </div>
-                <p class="text-gray-400 text-sm">
-                  Move from the Pokemon Tabletop United system.
+
+                <!-- Move Stats (if available) -->
+                <div v-if="currentDefinition.moveClass || currentDefinition.frequency || currentDefinition.ac || currentDefinition.db" class="bg-gray-700/50 rounded-lg p-3 space-y-2">
+                  <div v-if="currentDefinition.moveClass" class="flex justify-between">
+                    <span class="text-gray-400 text-sm">Class:</span>
+                    <span class="text-gray-200 text-sm font-medium">{{ currentDefinition.moveClass }}</span>
+                  </div>
+                  <div v-if="currentDefinition.frequency" class="flex justify-between">
+                    <span class="text-gray-400 text-sm">Frequency:</span>
+                    <span class="text-gray-200 text-sm font-medium">{{ currentDefinition.frequency }}</span>
+                  </div>
+                  <div v-if="currentDefinition.ac" class="flex justify-between">
+                    <span class="text-gray-400 text-sm">AC:</span>
+                    <span class="text-gray-200 text-sm font-medium">{{ currentDefinition.ac }}</span>
+                  </div>
+                  <div v-if="currentDefinition.db" class="flex justify-between">
+                    <span class="text-gray-400 text-sm">Damage Base:</span>
+                    <span class="text-gray-200 text-sm font-medium">{{ currentDefinition.db }}</span>
+                  </div>
+                  <div v-if="currentDefinition.range" class="flex justify-between">
+                    <span class="text-gray-400 text-sm">Range:</span>
+                    <span class="text-gray-200 text-sm font-medium">{{ currentDefinition.range }}</span>
+                  </div>
+                </div>
+
+                <!-- Move Effect -->
+                <div v-if="currentDefinition.effect" class="bg-gray-700/50 rounded-lg p-3">
+                  <div class="text-xs text-gray-400 mb-1 font-medium">Effect</div>
+                  <p class="text-gray-200 text-sm leading-relaxed">{{ currentDefinition.effect }}</p>
+                </div>
+
+                <!-- Fallback message when no detailed data -->
+                <p v-else class="text-gray-500 text-sm italic">
+                  Refer to the PTU Core Rulebook for full move details.
                 </p>
               </div>
             </template>

@@ -7,7 +7,15 @@ export interface Definition {
   type: 'ability' | 'move' | 'capability' | 'type' | 'pokemon'
   name: string
   description?: string
+  // Move fields
   moveType?: string
+  moveClass?: string
+  frequency?: string
+  ac?: string
+  db?: string
+  range?: string
+  effect?: string
+  // Ability fields
   abilityType?: string
   abilityTrigger?: string
   abilityEffect?: string
@@ -38,7 +46,18 @@ const typeChart: Record<string, { strong: string[]; weak: string[]; immune: stri
 
 // Shared state - defined outside function so all components share the same refs
 const abilities = ref(abilitiesData as { name: string; type?: string; trigger?: string; effect?: string }[])
-const moves = ref(movesData as { name: string; type?: string }[])
+const moves = ref(movesData as {
+  name: string
+  type?: string
+  category?: string
+  damageBase?: string
+  frequency?: string
+  ac?: string
+  range?: string
+  effects?: string
+  contestStats?: string
+  abilityInteractions?: string[]
+}[])
 const capabilities = ref(capabilitiesData as { name: string; description?: string }[])
 const types = ref(typesData as Record<string, string>)
 const currentDefinition = ref<Definition | null>(null)
@@ -68,6 +87,12 @@ export function useDefinitions() {
         type: 'move',
         name: move.name,
         moveType: move.type,
+        moveClass: move.category,
+        frequency: move.frequency,
+        ac: move.ac,
+        db: move.damageBase,
+        range: move.range,
+        effect: move.effects,
         color: move.type ? types.value[move.type] : undefined
       }
     }
