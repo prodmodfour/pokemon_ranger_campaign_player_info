@@ -9,6 +9,8 @@ export interface Definition {
   description?: string
   moveType?: string
   abilityType?: string
+  abilityTrigger?: string
+  abilityEffect?: string
   color?: string
 }
 
@@ -35,7 +37,7 @@ const typeChart: Record<string, { strong: string[]; weak: string[]; immune: stri
 }
 
 export function useDefinitions() {
-  const abilities = ref(abilitiesData as { name: string; type?: string }[])
+  const abilities = ref(abilitiesData as { name: string; type?: string; trigger?: string; effect?: string }[])
   const moves = ref(movesData as { name: string; type?: string }[])
   const capabilities = ref(capabilitiesData as { name: string; description?: string }[])
   const types = ref(typesData as Record<string, string>)
@@ -50,7 +52,9 @@ export function useDefinitions() {
         type: 'ability',
         name: ability.name,
         abilityType: ability.type,
-        description: `${ability.type ? ability.type.charAt(0).toUpperCase() + ability.type.slice(1) : 'Unknown'} Ability`
+        abilityTrigger: ability.trigger,
+        abilityEffect: ability.effect,
+        description: ability.effect || `${ability.type ? ability.type.charAt(0).toUpperCase() + ability.type.slice(1) : 'Unknown'} Ability`
       }
     }
     return null

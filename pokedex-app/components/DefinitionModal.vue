@@ -127,9 +127,10 @@ const typeInfo = computed(() => {
 
             <!-- Ability Definition -->
             <template v-else-if="currentDefinition.type === 'ability'">
-              <div class="space-y-2">
-                <div v-if="currentDefinition.abilityType">
+              <div class="space-y-3">
+                <div class="flex flex-wrap gap-2">
                   <span
+                    v-if="currentDefinition.abilityType"
                     class="inline-block px-2 py-1 rounded text-xs font-medium"
                     :class="{
                       'bg-green-900/50 text-green-300': currentDefinition.abilityType === 'basic',
@@ -139,9 +140,21 @@ const typeInfo = computed(() => {
                   >
                     {{ currentDefinition.abilityType.charAt(0).toUpperCase() + currentDefinition.abilityType.slice(1) }} Ability
                   </span>
+                  <span
+                    v-if="currentDefinition.abilityTrigger"
+                    class="inline-block px-2 py-1 rounded text-xs font-medium bg-yellow-900/50 text-yellow-300"
+                  >
+                    {{ currentDefinition.abilityTrigger }}
+                  </span>
                 </div>
-                <p class="text-gray-400 text-sm">
-                  {{ currentDefinition.description }}
+                <div v-if="currentDefinition.abilityEffect" class="bg-gray-700/50 rounded-lg p-3">
+                  <div class="text-xs text-gray-400 mb-1 font-medium">Effect</div>
+                  <p class="text-gray-200 text-sm leading-relaxed">
+                    {{ currentDefinition.abilityEffect }}
+                  </p>
+                </div>
+                <p v-else class="text-gray-400 text-sm italic">
+                  No definition available for this ability.
                 </p>
               </div>
             </template>
