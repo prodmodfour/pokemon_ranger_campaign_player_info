@@ -1,0 +1,9703 @@
+[
+  {
+    "name": "Misc. Species specific Information"
+  },
+  {
+    "name": "How to Read:"
+  },
+  {
+    "name": "Pokedex Entries"
+  },
+  {
+    "name": "Tackle"
+  },
+  {
+    "name": "Growl",
+    "type": "Normal"
+  },
+  {
+    "name": "Leech Seed",
+    "type": "Grass"
+  },
+  {
+    "name": "Vine Whip",
+    "type": "Grass"
+  },
+  {
+    "name": "Poison Powder",
+    "type": "Poison"
+  },
+  {
+    "name": "Sleep Powder",
+    "type": "Grass"
+  },
+  {
+    "name": "Take Down",
+    "type": "Normal"
+  },
+  {
+    "name": "Razor Leaf",
+    "type": "Grass"
+  },
+  {
+    "name": "Sweet Scent",
+    "type": "Normal"
+  },
+  {
+    "name": "Growth",
+    "type": "Normal"
+  },
+  {
+    "name": "Double-Edge",
+    "type": "Normal"
+  },
+  {
+    "name": "Worry Seed"
+  },
+  {
+    "name": "Synthesis"
+  },
+  {
+    "name": "Seed Bomb"
+  },
+  {
+    "name": "A1 Cut"
+  },
+  {
+    "name": "A4 Strength"
+  },
+  {
+    "name": "Toxic"
+  },
+  {
+    "name": "Venoshock",
+    "type": "Poison"
+  },
+  {
+    "name": "Hidden Power"
+  },
+  {
+    "name": "Sunny Day"
+  },
+  {
+    "name": "Light Screen"
+  },
+  {
+    "name": "Protect"
+  },
+  {
+    "name": "Safeguard"
+  },
+  {
+    "name": "Frustration"
+  },
+  {
+    "name": "So­"
+  },
+  {
+    "name": "lar Beam"
+  },
+  {
+    "name": "Return"
+  },
+  {
+    "name": "Double Team"
+  },
+  {
+    "name": "Sludge",
+    "type": "Poison"
+  },
+  {
+    "name": "Bomb"
+  },
+  {
+    "name": "Facade"
+  },
+  {
+    "name": "Rest"
+  },
+  {
+    "name": "Attract",
+    "type": "Normal"
+  },
+  {
+    "name": "Round"
+  },
+  {
+    "name": "Echoed Voice"
+  },
+  {
+    "name": "Energy Ball"
+  },
+  {
+    "name": "Flash"
+  },
+  {
+    "name": "Swords"
+  },
+  {
+    "name": "Dance"
+  },
+  {
+    "name": "Grass Knot",
+    "type": "Grass"
+  },
+  {
+    "name": "Swagger"
+  },
+  {
+    "name": "Sleep Talk"
+  },
+  {
+    "name": "Substitute"
+  },
+  {
+    "name": "Rock Smash"
+  },
+  {
+    "name": "Nature Power"
+  },
+  {
+    "name": "Confide",
+    "type": "Normal"
+  },
+  {
+    "name": "Amnesia",
+    "type": "Psychic"
+  },
+  {
+    "name": "Charm",
+    "type": "Fairy"
+  },
+  {
+    "name": "Curse"
+  },
+  {
+    "name": "Endure"
+  },
+  {
+    "name": "Giga"
+  },
+  {
+    "name": "Drain"
+  },
+  {
+    "name": "Grass Whistle"
+  },
+  {
+    "name": "Grassy Terrain"
+  },
+  {
+    "name": "Ingrain",
+    "type": "Grass"
+  },
+  {
+    "name": "Leaf"
+  },
+  {
+    "name": "Storm"
+  },
+  {
+    "name": "Magical Leaf",
+    "type": "Grass"
+  },
+  {
+    "name": "Petal Dance",
+    "type": "Grass"
+  },
+  {
+    "name": "Power Whip",
+    "type": "Grass"
+  },
+  {
+    "name": "Skull Bash"
+  },
+  {
+    "name": "Bind",
+    "type": "Normal"
+  },
+  {
+    "name": "Body Slam"
+  },
+  {
+    "name": "Bullet Seed"
+  },
+  {
+    "name": "Defense Curl"
+  },
+  {
+    "name": "Fury Cutter"
+  },
+  {
+    "name": "Giga Drain"
+  },
+  {
+    "name": "Grass Pledge"
+  },
+  {
+    "name": "Knock Off"
+  },
+  {
+    "name": "Mud"
+  },
+  {
+    "name": "Natural Gift",
+    "type": "Normal"
+  },
+  {
+    "name": "Secret Power"
+  },
+  {
+    "name": "Snore"
+  },
+  {
+    "name": "String Shot",
+    "type": "Bug"
+  },
+  {
+    "name": "Worry"
+  },
+  {
+    "name": "Seed"
+  },
+  {
+    "name": "Solar Beam",
+    "type": "Grass"
+  },
+  {
+    "name": "Sludge Bomb"
+  },
+  {
+    "name": "Fa­"
+  },
+  {
+    "name": "cade"
+  },
+  {
+    "name": "Swords Dance",
+    "type": "Normal"
+  },
+  {
+    "name": "Grass"
+  },
+  {
+    "name": "Knot"
+  },
+  {
+    "name": "Tutor Move List"
+  },
+  {
+    "name": "String"
+  },
+  {
+    "name": "Shot"
+  },
+  {
+    "name": "## Page 14"
+  },
+  {
+    "name": "Petal Blizzard",
+    "type": "Grass"
+  },
+  {
+    "name": "Roar"
+  },
+  {
+    "name": "Veno­"
+  },
+  {
+    "name": "shock"
+  },
+  {
+    "name": "Hyper"
+  },
+  {
+    "name": "Beam"
+  },
+  {
+    "name": "Earthquake"
+  },
+  {
+    "name": "Re­"
+  },
+  {
+    "name": "turn"
+  },
+  {
+    "name": "Giga Impact"
+  },
+  {
+    "name": "Bulldoze"
+  },
+  {
+    "name": "Nature"
+  },
+  {
+    "name": "Power"
+  },
+  {
+    "name": "Block"
+  },
+  {
+    "name": "Defense"
+  },
+  {
+    "name": "Curl"
+  },
+  {
+    "name": "Frenzy Plant"
+  },
+  {
+    "name": "Pledge"
+  },
+  {
+    "name": "Outrage"
+  },
+  {
+    "name": "Mega Evolution"
+  },
+  {
+    "name": "Type: Unchanged"
+  },
+  {
+    "name": "Ability: Thick Fat"
+  },
+  {
+    "name": "Stats: +2 Atk"
+  },
+  {
+    "name": "+4 Def"
+  },
+  {
+    "name": "+2 Sp. Atk"
+  },
+  {
+    "name": "+2 Sp. Def"
+  },
+  {
+    "name": "## Page 15"
+  },
+  {
+    "name": "Reflect",
+    "type": "Psychic"
+  },
+  {
+    "name": "Aromatherapy",
+    "type": "Grass"
+  },
+  {
+    "name": "Frus­"
+  },
+  {
+    "name": "tration"
+  },
+  {
+    "name": "Sleep"
+  },
+  {
+    "name": "Talk"
+  },
+  {
+    "name": "Ancient Power"
+  },
+  {
+    "name": "Counter",
+    "type": "Fighting"
+  },
+  {
+    "name": "Flail",
+    "type": "Normal"
+  },
+  {
+    "name": "Heal"
+  },
+  {
+    "name": "Pulse"
+  },
+  {
+    "name": "Leaf Storm",
+    "type": "Grass"
+  },
+  {
+    "name": "Refresh",
+    "type": "Normal"
+  },
+  {
+    "name": "Wring Out",
+    "type": "Normal"
+  },
+  {
+    "name": "Double"
+  },
+  {
+    "name": "Iron Tail"
+  },
+  {
+    "name": "Magic Coat"
+  },
+  {
+    "name": "Role Play"
+  },
+  {
+    "name": "Team"
+  },
+  {
+    "name": "Synthe­"
+  },
+  {
+    "name": "sis"
+  },
+  {
+    "name": "## Page 17"
+  },
+  {
+    "name": "Hyper Beam"
+  },
+  {
+    "name": "Solar"
+  },
+  {
+    "name": "Dragon"
+  },
+  {
+    "name": "Tail"
+  },
+  {
+    "name": "Mud-"
+  },
+  {
+    "name": "Slap"
+  },
+  {
+    "name": "## Page 18"
+  },
+  {
+    "name": "Pound",
+    "type": "Normal"
+  },
+  {
+    "name": "Leer",
+    "type": "Normal"
+  },
+  {
+    "name": "Absorb",
+    "type": "Grass"
+  },
+  {
+    "name": "Quick Attack",
+    "type": "Normal"
+  },
+  {
+    "name": "Mega Drain",
+    "type": "Grass"
+  },
+  {
+    "name": "Pursuit",
+    "type": "Dark"
+  },
+  {
+    "name": "Agility",
+    "type": "Psychic"
+  },
+  {
+    "name": "Slam",
+    "type": "Normal"
+  },
+  {
+    "name": "Detect",
+    "type": "Fighting"
+  },
+  {
+    "name": "Quick Guard",
+    "type": "Fighting"
+  },
+  {
+    "name": "Endeavor"
+  },
+  {
+    "name": "Screech",
+    "type": "Normal"
+  },
+  {
+    "name": "Hidden"
+  },
+  {
+    "name": "Dig",
+    "type": "Ground"
+  },
+  {
+    "name": "Brick Break"
+  },
+  {
+    "name": "Rock Tomb"
+  },
+  {
+    "name": "Aerial Ace"
+  },
+  {
+    "name": "Fling"
+  },
+  {
+    "name": "Acrobatics",
+    "type": "Flying"
+  },
+  {
+    "name": "Rock Slide"
+  },
+  {
+    "name": "Power-Up Punch"
+  },
+  {
+    "name": "Crunch"
+  },
+  {
+    "name": "Crush Claw",
+    "type": "Normal"
+  },
+  {
+    "name": "Dou­"
+  },
+  {
+    "name": "ble Kick"
+  },
+  {
+    "name": "Dragon Breath"
+  },
+  {
+    "name": "Magical"
+  },
+  {
+    "name": "Mud Sport",
+    "type": "Ground"
+  },
+  {
+    "name": "Razor Wind",
+    "type": "Normal"
+  },
+  {
+    "name": "Punch"
+  },
+  {
+    "name": "Dynamic Punch"
+  },
+  {
+    "name": "Focus Punch"
+  },
+  {
+    "name": "Low Kick"
+  },
+  {
+    "name": "Mega Kick"
+  },
+  {
+    "name": "Mega Punch"
+  },
+  {
+    "name": "Secret"
+  },
+  {
+    "name": "Seismic Toss",
+    "type": "Fighting"
+  },
+  {
+    "name": "Swift"
+  },
+  {
+    "name": "Thunder Punch"
+  },
+  {
+    "name": "Leaf Blade",
+    "type": "Grass"
+  },
+  {
+    "name": "X-Scissor",
+    "type": "Bug"
+  },
+  {
+    "name": "False Swipe"
+  },
+  {
+    "name": "Low Sweep"
+  },
+  {
+    "name": "False"
+  },
+  {
+    "name": "Swipe"
+  },
+  {
+    "name": "Rock"
+  },
+  {
+    "name": "Smash"
+  },
+  {
+    "name": "Drain Punch"
+  },
+  {
+    "name": "## Page 20"
+  },
+  {
+    "name": "Dual Chop"
+  },
+  {
+    "name": "Hone Claws"
+  },
+  {
+    "name": "Claw"
+  },
+  {
+    "name": "Aerial"
+  },
+  {
+    "name": "Ace"
+  },
+  {
+    "name": "Focus Blast"
+  },
+  {
+    "name": "Con­"
+  },
+  {
+    "name": "fide"
+  },
+  {
+    "name": "Dragon Pulse"
+  },
+  {
+    "name": "Mega"
+  },
+  {
+    "name": "Night Slash (N)"
+  },
+  {
+    "name": "Rock Climb",
+    "type": "Normal"
+  },
+  {
+    "name": "Type: Grass / Dragon"
+  },
+  {
+    "name": "Ability: Lightning"
+  },
+  {
+    "name": "Rod"
+  },
+  {
+    "name": "+1 Def"
+  },
+  {
+    "name": "+4 Sp. Atk"
+  },
+  {
+    "name": "+3 Speed"
+  },
+  {
+    "name": "## Page 21"
+  },
+  {
+    "name": "Withdraw",
+    "type": "Water"
+  },
+  {
+    "name": "Bite"
+  },
+  {
+    "name": "Earth"
+  },
+  {
+    "name": "Sand Tomb",
+    "type": "Ground"
+  },
+  {
+    "name": "Spit Up",
+    "type": "Normal"
+  },
+  {
+    "name": "Stockpile",
+    "type": "Normal"
+  },
+  {
+    "name": "Superpower"
+  },
+  {
+    "name": "Swallow",
+    "type": "Normal"
+  },
+  {
+    "name": "Thrash",
+    "type": "Normal"
+  },
+  {
+    "name": "Tickle"
+  },
+  {
+    "name": "Wide Guard",
+    "type": "Rock"
+  },
+  {
+    "name": "Earth Power"
+  },
+  {
+    "name": "Stealth Rock"
+  },
+  {
+    "name": "Climb"
+  },
+  {
+    "name": "## Page 23"
+  },
+  {
+    "name": "Frustra­"
+  },
+  {
+    "name": "tion"
+  },
+  {
+    "name": "Sandstorm"
+  },
+  {
+    "name": "Tomb"
+  },
+  {
+    "name": "Rock Polish",
+    "type": "Rock"
+  },
+  {
+    "name": "Stone Edge"
+  },
+  {
+    "name": "Bull­"
+  },
+  {
+    "name": "doze"
+  },
+  {
+    "name": "Frenzy"
+  },
+  {
+    "name": "Plant"
+  },
+  {
+    "name": "Iron"
+  },
+  {
+    "name": "Head"
+  },
+  {
+    "name": "Wood"
+  },
+  {
+    "name": "Hammer(N)"
+  },
+  {
+    "name": "## Page 24"
+  },
+  {
+    "name": "Wrap",
+    "type": "Normal"
+  },
+  {
+    "name": "Leaf Tornado",
+    "type": "Grass"
+  },
+  {
+    "name": "Coil",
+    "type": "Poison"
+  },
+  {
+    "name": "Gastro Acid"
+  },
+  {
+    "name": "Calm Mind"
+  },
+  {
+    "name": "Taunt",
+    "type": "Dark"
+  },
+  {
+    "name": "Torment",
+    "type": "Dark"
+  },
+  {
+    "name": "Substi­"
+  },
+  {
+    "name": "tute"
+  },
+  {
+    "name": "Captivate",
+    "type": "Normal"
+  },
+  {
+    "name": "Glare",
+    "type": "Normal"
+  },
+  {
+    "name": "Mean Look",
+    "type": "Normal"
+  },
+  {
+    "name": "Mirror Coat",
+    "type": "Psychic"
+  },
+  {
+    "name": "Twister"
+  },
+  {
+    "name": "Aqua Tail"
+  },
+  {
+    "name": "Snatch"
+  },
+  {
+    "name": "At­"
+  },
+  {
+    "name": "tract"
+  },
+  {
+    "name": "## Page 26"
+  },
+  {
+    "name": "Safe­"
+  },
+  {
+    "name": "guard"
+  },
+  {
+    "name": "Energy"
+  },
+  {
+    "name": "Ball"
+  },
+  {
+    "name": "Dragon Tail"
+  },
+  {
+    "name": "## Page 27"
+  },
+  {
+    "name": "Rollout",
+    "type": "Rock"
+  },
+  {
+    "name": "Pin Missile",
+    "type": "Bug"
+  },
+  {
+    "name": "Needle Arm",
+    "type": "Grass"
+  },
+  {
+    "name": "Mud Shot",
+    "type": "Ground"
+  },
+  {
+    "name": "Bulk Up"
+  },
+  {
+    "name": "Pain Split"
+  },
+  {
+    "name": "Wood Hammer",
+    "type": "Grass"
+  },
+  {
+    "name": "Pro­"
+  },
+  {
+    "name": "tect"
+  },
+  {
+    "name": "Smack Down",
+    "type": "Rock"
+  },
+  {
+    "name": "Shadow Claw"
+  },
+  {
+    "name": "Payback",
+    "type": "Dark"
+  },
+  {
+    "name": "Retaliate"
+  },
+  {
+    "name": "Gyro Ball"
+  },
+  {
+    "name": "Slide"
+  },
+  {
+    "name": "Poison Jab"
+  },
+  {
+    "name": "Belly Drum",
+    "type": "Normal"
+  },
+  {
+    "name": "Roll­"
+  },
+  {
+    "name": "out"
+  },
+  {
+    "name": "Spikes"
+  },
+  {
+    "name": "Helping Hand"
+  },
+  {
+    "name": "Iron De­"
+  },
+  {
+    "name": "fense"
+  },
+  {
+    "name": "Iron Head"
+  },
+  {
+    "name": "Super Fang"
+  },
+  {
+    "name": "Zen Headbutt"
+  },
+  {
+    "name": "## Page 29"
+  },
+  {
+    "name": "Spiky Shield",
+    "type": "Grass"
+  },
+  {
+    "name": "Hammer Arm",
+    "type": "Fighting"
+  },
+  {
+    "name": "Smack"
+  },
+  {
+    "name": "Down"
+  },
+  {
+    "name": "Brick"
+  },
+  {
+    "name": "Break"
+  },
+  {
+    "name": "Pay­"
+  },
+  {
+    "name": "back"
+  },
+  {
+    "name": "Stone"
+  },
+  {
+    "name": "Edge"
+  },
+  {
+    "name": "Swag­"
+  },
+  {
+    "name": "ger"
+  },
+  {
+    "name": "Belly Drum (N)"
+  },
+  {
+    "name": "Feint (N)"
+  },
+  {
+    "name": "(N)"
+  },
+  {
+    "name": "Iron Defense"
+  },
+  {
+    "name": "Super"
+  },
+  {
+    "name": "Fang"
+  },
+  {
+    "name": "## Page 30"
+  },
+  {
+    "name": "Scratch",
+    "type": "Normal"
+  },
+  {
+    "name": "Ember",
+    "type": "Fire"
+  },
+  {
+    "name": "Smokescreen",
+    "type": "Normal"
+  },
+  {
+    "name": "Dragon Rage",
+    "type": "Dragon"
+  },
+  {
+    "name": "Scary Face"
+  },
+  {
+    "name": "Fire Fang",
+    "type": "Fire"
+  },
+  {
+    "name": "Flame Burst",
+    "type": "Fire"
+  },
+  {
+    "name": "Slash"
+  },
+  {
+    "name": "Flamethrower"
+  },
+  {
+    "name": "Fire Spin",
+    "type": "Fire"
+  },
+  {
+    "name": "Inferno"
+  },
+  {
+    "name": "Dragon Claw"
+  },
+  {
+    "name": "Sunny"
+  },
+  {
+    "name": "Day"
+  },
+  {
+    "name": "Fire Blast"
+  },
+  {
+    "name": "Flame Charge",
+    "type": "Fire"
+  },
+  {
+    "name": "Overheat"
+  },
+  {
+    "name": "Incinerate"
+  },
+  {
+    "name": "Will-O",
+    "type": "Wisp"
+  },
+  {
+    "name": "Air Cutter",
+    "type": "Flying"
+  },
+  {
+    "name": "Beat Up",
+    "type": "Dark"
+  },
+  {
+    "name": "Belly"
+  },
+  {
+    "name": "Drum"
+  },
+  {
+    "name": "Dragon Dance",
+    "type": "Dragon"
+  },
+  {
+    "name": "Dragon Rush",
+    "type": "Dragon"
+  },
+  {
+    "name": "Flare Blitz",
+    "type": "Fire"
+  },
+  {
+    "name": "Metal Claw",
+    "type": "Steel"
+  },
+  {
+    "name": "Double-"
+  },
+  {
+    "name": "Fire Pledge"
+  },
+  {
+    "name": "Fire Punch"
+  },
+  {
+    "name": "Heat Wave"
+  },
+  {
+    "name": "Rage"
+  },
+  {
+    "name": "Inciner­"
+  },
+  {
+    "name": "ate"
+  },
+  {
+    "name": "Fire"
+  },
+  {
+    "name": "## Page 32"
+  },
+  {
+    "name": "Wing Attack",
+    "type": "Flying"
+  },
+  {
+    "name": "A2 Fly"
+  },
+  {
+    "name": "Roost",
+    "type": "Flying"
+  },
+  {
+    "name": "Flame"
+  },
+  {
+    "name": "Charge",
+    "type": "Electric"
+  },
+  {
+    "name": "Steel Wing"
+  },
+  {
+    "name": "Sky Drop"
+  },
+  {
+    "name": "Air Slash(N)"
+  },
+  {
+    "name": "Blast Burn"
+  },
+  {
+    "name": "Dragon Claw(N)"
+  },
+  {
+    "name": "Fury"
+  },
+  {
+    "name": "Cutter"
+  },
+  {
+    "name": "Hold Hands"
+  },
+  {
+    "name": "Ominous Wind"
+  },
+  {
+    "name": "Shadow Claw(N)"
+  },
+  {
+    "name": "Tailwind",
+    "type": "Flying"
+  },
+  {
+    "name": "Mega Evolution X"
+  },
+  {
+    "name": "Type: Fire/Dragon"
+  },
+  {
+    "name": "Ability: Tough Claws"
+  },
+  {
+    "name": "Stats: +5 Atk"
+  },
+  {
+    "name": "+3 Def"
+  },
+  {
+    "name": "Mega Evolution Y"
+  },
+  {
+    "name": "Ability: Drought"
+  },
+  {
+    "name": "+5 Sp. Atk"
+  },
+  {
+    "name": "+3 Sp. Def"
+  },
+  {
+    "name": "## Page 33"
+  },
+  {
+    "name": "Flame Wheel",
+    "type": "Fire"
+  },
+  {
+    "name": "Lava Plume",
+    "type": "Fire"
+  },
+  {
+    "name": "Eruption",
+    "type": "Fire"
+  },
+  {
+    "name": "Wild Charge"
+  },
+  {
+    "name": "Covet"
+  },
+  {
+    "name": "Double Kick",
+    "type": "Fighting"
+  },
+  {
+    "name": "Extrasensory"
+  },
+  {
+    "name": "Foresight",
+    "type": "Normal"
+  },
+  {
+    "name": "Fury Swipes",
+    "type": "Normal"
+  },
+  {
+    "name": "Howl",
+    "type": "Normal"
+  },
+  {
+    "name": "Quick"
+  },
+  {
+    "name": "Attack"
+  },
+  {
+    "name": "Reversal",
+    "type": "Fighting"
+  },
+  {
+    "name": "Sub­"
+  },
+  {
+    "name": "stitute"
+  },
+  {
+    "name": "Focus"
+  },
+  {
+    "name": "## Page 35"
+  },
+  {
+    "name": "Earth­"
+  },
+  {
+    "name": "quake"
+  },
+  {
+    "name": "Fo­"
+  },
+  {
+    "name": "cus Blast"
+  },
+  {
+    "name": "Gyro Ball(N)"
+  },
+  {
+    "name": "Kick"
+  },
+  {
+    "name": "Thunder"
+  },
+  {
+    "name": "## Page 36"
+  },
+  {
+    "name": "Sand Attack",
+    "type": "Ground"
+  },
+  {
+    "name": "Peck",
+    "type": "Flying"
+  },
+  {
+    "name": "Focus Energy"
+  },
+  {
+    "name": "Mirror Move",
+    "type": "Flying"
+  },
+  {
+    "name": "Baton Pass",
+    "type": "Normal"
+  },
+  {
+    "name": "Feather Dance",
+    "type": "Flying"
+  },
+  {
+    "name": "Feint",
+    "type": "Normal"
+  },
+  {
+    "name": "Last Resort"
+  },
+  {
+    "name": "Night Slash"
+  },
+  {
+    "name": "Smelling Salts"
+  },
+  {
+    "name": "Bounce"
+  },
+  {
+    "name": "Heat"
+  },
+  {
+    "name": "Wave"
+  },
+  {
+    "name": "Low"
+  },
+  {
+    "name": "Seismic"
+  },
+  {
+    "name": "Toss"
+  },
+  {
+    "name": "Sky Uppercut",
+    "type": "Fighting"
+  },
+  {
+    "name": "Tox­"
+  },
+  {
+    "name": "ic"
+  },
+  {
+    "name": "Blast"
+  },
+  {
+    "name": "Help­"
+  },
+  {
+    "name": "ing Hand"
+  },
+  {
+    "name": "Vacuum Wave",
+    "type": "Fighting"
+  },
+  {
+    "name": "Work Up",
+    "type": "Normal"
+  },
+  {
+    "name": "## Page 38"
+  },
+  {
+    "name": "Blaze Kick"
+  },
+  {
+    "name": "Brave Bird",
+    "type": "Flying"
+  },
+  {
+    "name": "Hy­"
+  },
+  {
+    "name": "per Beam"
+  },
+  {
+    "name": "Echoed"
+  },
+  {
+    "name": "Voice"
+  },
+  {
+    "name": "Incin­"
+  },
+  {
+    "name": "erate"
+  },
+  {
+    "name": "Punch(N)"
+  },
+  {
+    "name": "High Jump Kick (N)"
+  },
+  {
+    "name": "Mirror"
+  },
+  {
+    "name": "Move"
+  },
+  {
+    "name": "Ability: Speed Boost"
+  },
+  {
+    "name": "Stats: +4 Atk"
+  },
+  {
+    "name": "+1 Sp. Def"
+  },
+  {
+    "name": "+2 Speed"
+  },
+  {
+    "name": "## Page 39"
+  },
+  {
+    "name": "Nasty Plot",
+    "type": "Dark"
+  },
+  {
+    "name": "Slack Off",
+    "type": "Normal"
+  },
+  {
+    "name": "Flame­"
+  },
+  {
+    "name": "thrower"
+  },
+  {
+    "name": "Sweep"
+  },
+  {
+    "name": "Assist"
+  },
+  {
+    "name": "Encore",
+    "type": "Normal"
+  },
+  {
+    "name": "Fake Out",
+    "type": "Normal"
+  },
+  {
+    "name": "Submission",
+    "type": "Fighting"
+  },
+  {
+    "name": "Gunk Shot"
+  },
+  {
+    "name": "Uproar"
+  },
+  {
+    "name": "Mach Punch",
+    "type": "Fighting"
+  },
+  {
+    "name": "Close Combat",
+    "type": "Fighting"
+  },
+  {
+    "name": "Will-O-"
+  },
+  {
+    "name": "Wisp"
+  },
+  {
+    "name": "## Page 41"
+  },
+  {
+    "name": "Punishment",
+    "type": "Dark"
+  },
+  {
+    "name": "Hid­"
+  },
+  {
+    "name": "den Power"
+  },
+  {
+    "name": "ble Team"
+  },
+  {
+    "name": "In­"
+  },
+  {
+    "name": "cinerate"
+  },
+  {
+    "name": "Shadow"
+  },
+  {
+    "name": "Poison"
+  },
+  {
+    "name": "Jab"
+  },
+  {
+    "name": "Magic"
+  },
+  {
+    "name": "Coat"
+  },
+  {
+    "name": "## Page 42"
+  },
+  {
+    "name": "Tail Whip",
+    "type": "Normal"
+  },
+  {
+    "name": "Odor Sleuth",
+    "type": "Normal"
+  },
+  {
+    "name": "Smog",
+    "type": "Poison"
+  },
+  {
+    "name": "Heat Crash",
+    "type": "Fire"
+  },
+  {
+    "name": "Assurance",
+    "type": "Dark"
+  },
+  {
+    "name": "Head Smash",
+    "type": "Rock"
+  },
+  {
+    "name": "Wild"
+  },
+  {
+    "name": "Heavy"
+  },
+  {
+    "name": "Magnitude"
+  },
+  {
+    "name": "Sucker Punch",
+    "type": "Dark"
+  },
+  {
+    "name": "Super­"
+  },
+  {
+    "name": "power"
+  },
+  {
+    "name": "Yawn"
+  },
+  {
+    "name": "Arm Thrust",
+    "type": "Fighting"
+  },
+  {
+    "name": "## Page 44"
+  },
+  {
+    "name": "Scald"
+  },
+  {
+    "name": "Impact"
+  },
+  {
+    "name": "Hammer Arm(N)"
+  },
+  {
+    "name": "## Page 45"
+  },
+  {
+    "name": "Psybeam",
+    "type": "Psychic"
+  },
+  {
+    "name": "Lucky Chant",
+    "type": "Normal"
+  },
+  {
+    "name": "Psyshock",
+    "type": "Psychic"
+  },
+  {
+    "name": "Will-O-Wisp",
+    "type": "Fire"
+  },
+  {
+    "name": "Psychic"
+  },
+  {
+    "name": "Magic Room"
+  },
+  {
+    "name": "Rain"
+  },
+  {
+    "name": "Thief"
+  },
+  {
+    "name": "Over­"
+  },
+  {
+    "name": "heat"
+  },
+  {
+    "name": "Embargo"
+  },
+  {
+    "name": "Psych Up"
+  },
+  {
+    "name": "Dream Eater",
+    "type": "Psychic"
+  },
+  {
+    "name": "Hypnosis",
+    "type": "Psychic"
+  },
+  {
+    "name": "Wish"
+  },
+  {
+    "name": "Foul Play"
+  },
+  {
+    "name": "Recycle"
+  },
+  {
+    "name": "Shock Wave"
+  },
+  {
+    "name": "Skill Swap"
+  },
+  {
+    "name": "Trick"
+  },
+  {
+    "name": "Wonder Room"
+  },
+  {
+    "name": "## Page 47"
+  },
+  {
+    "name": "Mystical Fire"
+  },
+  {
+    "name": "Future Sight",
+    "type": "Psychic"
+  },
+  {
+    "name": "Rain Dance"
+  },
+  {
+    "name": "Trick Room"
+  },
+  {
+    "name": "Foul"
+  },
+  {
+    "name": "Play"
+  },
+  {
+    "name": "Future Sight (N)"
+  },
+  {
+    "name": "Roleplay"
+  },
+  {
+    "name": "Switch­"
+  },
+  {
+    "name": "eroo (N)"
+  },
+  {
+    "name": "Zen"
+  },
+  {
+    "name": "Headbutt",
+    "type": "Normal"
+  },
+  {
+    "name": "## Page 48"
+  },
+  {
+    "name": "Bubble",
+    "type": "Water"
+  },
+  {
+    "name": "Water Gun",
+    "type": "Water"
+  },
+  {
+    "name": "Rapid Spin",
+    "type": "Normal"
+  },
+  {
+    "name": "Water Pulse"
+  },
+  {
+    "name": "Hydro Pump"
+  },
+  {
+    "name": "A3 Surf"
+  },
+  {
+    "name": "A5 Waterfall"
+  },
+  {
+    "name": "A6 Dive"
+  },
+  {
+    "name": "Hail"
+  },
+  {
+    "name": "Ice Beam"
+  },
+  {
+    "name": "Blizzard"
+  },
+  {
+    "name": "Aqua Jet",
+    "type": "Water"
+  },
+  {
+    "name": "Aqua Ring"
+  },
+  {
+    "name": "Aura Sphere",
+    "type": "Fighting"
+  },
+  {
+    "name": "Brine"
+  },
+  {
+    "name": "Haze",
+    "type": "Ice"
+  },
+  {
+    "name": "Mir­"
+  },
+  {
+    "name": "ror Coat"
+  },
+  {
+    "name": "Mist",
+    "type": "Ice"
+  },
+  {
+    "name": "Muddy Water",
+    "type": "Water"
+  },
+  {
+    "name": "Water Spout",
+    "type": "Water"
+  },
+  {
+    "name": "Dive"
+  },
+  {
+    "name": "Ice Punch"
+  },
+  {
+    "name": "Icy Wind"
+  },
+  {
+    "name": "Water Pledge"
+  },
+  {
+    "name": "Water"
+  },
+  {
+    "name": "## Page 50"
+  },
+  {
+    "name": "Ice"
+  },
+  {
+    "name": "Flash Cannon"
+  },
+  {
+    "name": "Dark Pulse"
+  },
+  {
+    "name": "Avalanche"
+  },
+  {
+    "name": "Flash Cannon(N)"
+  },
+  {
+    "name": "Hydro Cannon"
+  },
+  {
+    "name": "Out­"
+  },
+  {
+    "name": "rage"
+  },
+  {
+    "name": "Signal Beam"
+  },
+  {
+    "name": "Ability: Mega"
+  },
+  {
+    "name": "Launcher"
+  },
+  {
+    "name": "+2 Def"
+  },
+  {
+    "name": "## Page 51"
+  },
+  {
+    "name": "Ice Fang",
+    "type": "Ice"
+  },
+  {
+    "name": "Chip Away",
+    "type": "Normal"
+  },
+  {
+    "name": "Flatter",
+    "type": "Dark"
+  },
+  {
+    "name": "Sport"
+  },
+  {
+    "name": "Spite"
+  },
+  {
+    "name": "cus Punch"
+  },
+  {
+    "name": "## Page 53"
+  },
+  {
+    "name": "## Page 54"
+  },
+  {
+    "name": "Mud-Slap",
+    "type": "Ground"
+  },
+  {
+    "name": "Bide",
+    "type": "Normal"
+  },
+  {
+    "name": "Rock Throw",
+    "type": "Rock"
+  },
+  {
+    "name": "Whirlpool"
+  },
+  {
+    "name": "Barrier",
+    "type": "Psychic"
+  },
+  {
+    "name": "Ice Ball"
+  },
+  {
+    "name": "Mud Bomb"
+  },
+  {
+    "name": "Stomp",
+    "type": "Normal"
+  },
+  {
+    "name": "Whirl­"
+  },
+  {
+    "name": "pool"
+  },
+  {
+    "name": "Icy"
+  },
+  {
+    "name": "Wind"
+  },
+  {
+    "name": "Sludge Wave"
+  },
+  {
+    "name": "## Page 56"
+  },
+  {
+    "name": "Hydro"
+  },
+  {
+    "name": "Cannon"
+  },
+  {
+    "name": "Ability: Swift Swim"
+  },
+  {
+    "name": "+1 Sp. Atk"
+  },
+  {
+    "name": "+1 Speed"
+  },
+  {
+    "name": "## Page 57"
+  },
+  {
+    "name": "Water Sport",
+    "type": "Water"
+  },
+  {
+    "name": "Bubble Beam",
+    "type": "Water"
+  },
+  {
+    "name": "Fury Attack",
+    "type": "Normal"
+  },
+  {
+    "name": "Drill Peck",
+    "type": "Flying"
+  },
+  {
+    "name": "Quash"
+  },
+  {
+    "name": "Double Hit",
+    "type": "Normal"
+  },
+  {
+    "name": "Supersonic"
+  },
+  {
+    "name": "Pluck",
+    "type": "Flying"
+  },
+  {
+    "name": "## Page 59"
+  },
+  {
+    "name": "## Page 60"
+  },
+  {
+    "name": "Razor Shell",
+    "type": "Water"
+  },
+  {
+    "name": "Revenge",
+    "type": "Fighting"
+  },
+  {
+    "name": "Air Slash",
+    "type": "Flying"
+  },
+  {
+    "name": "Copycat",
+    "type": "Normal"
+  },
+  {
+    "name": "Trump Card",
+    "type": "Normal"
+  },
+  {
+    "name": "## Page 62"
+  },
+  {
+    "name": "Megahorn(N)"
+  },
+  {
+    "name": "## Page 63"
+  },
+  {
+    "name": "Lick",
+    "type": "Ghost"
+  },
+  {
+    "name": "Bestow"
+  },
+  {
+    "name": "Camouflage"
+  },
+  {
+    "name": "Mind Reader",
+    "type": "Normal"
+  },
+  {
+    "name": "Wa­"
+  },
+  {
+    "name": "ter Sport"
+  },
+  {
+    "name": "Toxic Spikes",
+    "type": "Poison"
+  },
+  {
+    "name": "Power-"
+  },
+  {
+    "name": "Up Punch"
+  },
+  {
+    "name": "## Page 65"
+  },
+  {
+    "name": "Shadow Sneak",
+    "type": "Ghost"
+  },
+  {
+    "name": "Water Shuriken",
+    "type": "Water"
+  },
+  {
+    "name": "Feint Attack",
+    "type": "Dark"
+  },
+  {
+    "name": "Mat Block (N)"
+  },
+  {
+    "name": "Role Play (N)"
+  },
+  {
+    "name": "## Page 66"
+  },
+  {
+    "name": "Bug Bite"
+  },
+  {
+    "name": "Electroweb"
+  },
+  {
+    "name": "Harden",
+    "type": "Normal"
+  },
+  {
+    "name": "Confusion",
+    "type": "Psychic"
+  },
+  {
+    "name": "Stun Spore",
+    "type": "Grass"
+  },
+  {
+    "name": "Gust",
+    "type": "Flying"
+  },
+  {
+    "name": "Whirlwind"
+  },
+  {
+    "name": "Silver Wind",
+    "type": "Bug"
+  },
+  {
+    "name": "Rage Powder"
+  },
+  {
+    "name": "Bug Buzz",
+    "type": "Bug"
+  },
+  {
+    "name": "Quiver Dance",
+    "type": "Bug"
+  },
+  {
+    "name": "Shadow Ball",
+    "type": "Ghost"
+  },
+  {
+    "name": "Struggle"
+  },
+  {
+    "name": "Bug"
+  },
+  {
+    "name": "Infestation",
+    "type": "Bug"
+  },
+  {
+    "name": "## Page 69"
+  },
+  {
+    "name": "Poison Sting",
+    "type": "Poison"
+  },
+  {
+    "name": "Twineedle"
+  },
+  {
+    "name": "Fell Stinger"
+  },
+  {
+    "name": "Struggle Bug",
+    "type": "Bug"
+  },
+  {
+    "name": "Drill"
+  },
+  {
+    "name": "Run"
+  },
+  {
+    "name": "Ability: Adaptability"
+  },
+  {
+    "name": "Stats: +6 Atk"
+  },
+  {
+    "name": "-3 Sp."
+  },
+  {
+    "name": "Atk"
+  },
+  {
+    "name": "+7 Speed"
+  },
+  {
+    "name": "## Page 72"
+  },
+  {
+    "name": "Me First",
+    "type": "Normal"
+  },
+  {
+    "name": "Silver"
+  },
+  {
+    "name": "## Page 74"
+  },
+  {
+    "name": "Entrainment",
+    "type": "Normal"
+  },
+  {
+    "name": "Bug Bite (N)"
+  },
+  {
+    "name": "False Swipe(N)"
+  },
+  {
+    "name": "Heal Bell"
+  },
+  {
+    "name": "## Page 75"
+  },
+  {
+    "name": "Poison Tail",
+    "type": "Poison"
+  },
+  {
+    "name": "Steamroller",
+    "type": "Bug"
+  },
+  {
+    "name": "Poi­"
+  },
+  {
+    "name": "son Jab"
+  },
+  {
+    "name": "Rollout(N)"
+  },
+  {
+    "name": "## Page 77"
+  },
+  {
+    "name": "Megahorn"
+  },
+  {
+    "name": "## Page 78"
+  },
+  {
+    "name": "Morning Sun"
+  },
+  {
+    "name": "Acrobat­"
+  },
+  {
+    "name": "ics"
+  },
+  {
+    "name": "Defog",
+    "type": "Flying"
+  },
+  {
+    "name": "## Page 81"
+  },
+  {
+    "name": "Moonlight",
+    "type": "Fairy"
+  },
+  {
+    "name": "U-"
+  },
+  {
+    "name": "Turn"
+  },
+  {
+    "name": "## Page 83"
+  },
+  {
+    "name": "None"
+  },
+  {
+    "name": "## Page 85"
+  },
+  {
+    "name": "Draining Kiss"
+  },
+  {
+    "name": "Hurricane",
+    "type": "Flying"
+  },
+  {
+    "name": "Powder"
+  },
+  {
+    "name": "Psych"
+  },
+  {
+    "name": "Up"
+  },
+  {
+    "name": "Light Screen (N)"
+  },
+  {
+    "name": "Powder (N)"
+  },
+  {
+    "name": "Sleep Powder (N)"
+  },
+  {
+    "name": "Stun Spore (N)"
+  },
+  {
+    "name": "## Page 86"
+  },
+  {
+    "name": "Sky Attack",
+    "type": "Flying"
+  },
+  {
+    "name": "Sky At­"
+  },
+  {
+    "name": "tack"
+  },
+  {
+    "name": "## Page 88"
+  },
+  {
+    "name": "Twist­"
+  },
+  {
+    "name": "er"
+  },
+  {
+    "name": "Ability: No Guard"
+  },
+  {
+    "name": "Stats: +7 Sp. Atk"
+  },
+  {
+    "name": "+1"
+  },
+  {
+    "name": "Sp. Def"
+  },
+  {
+    "name": "## Page 89"
+  },
+  {
+    "name": "Final Gambit",
+    "type": "Fighting"
+  },
+  {
+    "name": "Astonish"
+  },
+  {
+    "name": "Feather"
+  },
+  {
+    "name": "## Page 91"
+  },
+  {
+    "name": "## Page 92"
+  },
+  {
+    "name": "Aer­"
+  },
+  {
+    "name": "ial Ace"
+  },
+  {
+    "name": "Morning"
+  },
+  {
+    "name": "Sun"
+  },
+  {
+    "name": "## Page 94"
+  },
+  {
+    "name": "## Page 95"
+  },
+  {
+    "name": "## Page 97"
+  },
+  {
+    "name": "Brave Bird (N)"
+  },
+  {
+    "name": "Flare Blitz (N)"
+  },
+  {
+    "name": "## Page 98"
+  },
+  {
+    "name": "Poison Fang"
+  },
+  {
+    "name": "Thunderbolt"
+  },
+  {
+    "name": "Dis­"
+  },
+  {
+    "name": "able"
+  },
+  {
+    "name": "Venom Drench",
+    "type": "Poison"
+  },
+  {
+    "name": "Thun­"
+  },
+  {
+    "name": "der"
+  },
+  {
+    "name": "## Page 100"
+  },
+  {
+    "name": "Double Kick(N)"
+  },
+  {
+    "name": "Drag­"
+  },
+  {
+    "name": "on Pulse"
+  },
+  {
+    "name": "Poison Sting(N)"
+  },
+  {
+    "name": "Superpower (N)"
+  },
+  {
+    "name": "## Page 101"
+  },
+  {
+    "name": "Horn Attack",
+    "type": "Normal"
+  },
+  {
+    "name": "Horn Drill"
+  },
+  {
+    "name": "Disable",
+    "type": "Ghost"
+  },
+  {
+    "name": "Drill Run"
+  },
+  {
+    "name": "Shock"
+  },
+  {
+    "name": "Sucker"
+  },
+  {
+    "name": "## Page 103"
+  },
+  {
+    "name": "De­"
+  },
+  {
+    "name": "fense Curl"
+  },
+  {
+    "name": "Focus Energy(N)"
+  },
+  {
+    "name": "Helping"
+  },
+  {
+    "name": "Hand"
+  },
+  {
+    "name": "Megahorn (N)"
+  },
+  {
+    "name": "Peck(N)"
+  },
+  {
+    "name": "## Page 104"
+  },
+  {
+    "name": "Leech Life",
+    "type": "Bug"
+  },
+  {
+    "name": "Confuse Ray",
+    "type": "Ghost"
+  },
+  {
+    "name": "Shad­"
+  },
+  {
+    "name": "ow Ball"
+  },
+  {
+    "name": "Tail­"
+  },
+  {
+    "name": "wind"
+  },
+  {
+    "name": "## Page 106"
+  },
+  {
+    "name": "Ac­"
+  },
+  {
+    "name": "robatics"
+  },
+  {
+    "name": "Cross Poison(N)"
+  },
+  {
+    "name": "Ominous"
+  },
+  {
+    "name": "## Page 107"
+  },
+  {
+    "name": "Sing",
+    "type": "Normal"
+  },
+  {
+    "name": "Sweet Kiss",
+    "type": "Fairy"
+  },
+  {
+    "name": "Thunder Wave"
+  },
+  {
+    "name": "Fake Tears",
+    "type": "Dark"
+  },
+  {
+    "name": "Gravity"
+  },
+  {
+    "name": "Heal Pulse",
+    "type": "Psychic"
+  },
+  {
+    "name": "Misty Terrain",
+    "type": "Fairy"
+  },
+  {
+    "name": "Per­"
+  },
+  {
+    "name": "ish Song"
+  },
+  {
+    "name": "Present"
+  },
+  {
+    "name": "Hyper Voice"
+  },
+  {
+    "name": "Mimic",
+    "type": "Normal"
+  },
+  {
+    "name": "Play Nice",
+    "type": "Normal"
+  },
+  {
+    "name": "Disarming Voice",
+    "type": "Fairy"
+  },
+  {
+    "name": "Double Slap",
+    "type": "Normal"
+  },
+  {
+    "name": "Wake-Up Slap"
+  },
+  {
+    "name": "Light"
+  },
+  {
+    "name": "Screen"
+  },
+  {
+    "name": "Charge Beam"
+  },
+  {
+    "name": "Bell"
+  },
+  {
+    "name": "## Page 109"
+  },
+  {
+    "name": "derbolt"
+  },
+  {
+    "name": "Defense Curl(N)"
+  },
+  {
+    "name": "Disable(N)"
+  },
+  {
+    "name": "Slap(N)"
+  },
+  {
+    "name": "Signal"
+  },
+  {
+    "name": "Sing(N)"
+  },
+  {
+    "name": "Stealth"
+  },
+  {
+    "name": "Work"
+  },
+  {
+    "name": "## Page 110"
+  },
+  {
+    "name": "Metronome"
+  },
+  {
+    "name": "Last"
+  },
+  {
+    "name": "Resort"
+  },
+  {
+    "name": "Soft-Boiled",
+    "type": "Normal"
+  },
+  {
+    "name": "Minimize",
+    "type": "Normal"
+  },
+  {
+    "name": "Egg Bomb",
+    "type": "Normal"
+  },
+  {
+    "name": "Healing Wish",
+    "type": "Psychic"
+  },
+  {
+    "name": "Dazzling Gleam"
+  },
+  {
+    "name": "## Page 112"
+  },
+  {
+    "name": "Skill"
+  },
+  {
+    "name": "Swap"
+  },
+  {
+    "name": "## Page 113"
+  },
+  {
+    "name": "Synchronoise",
+    "type": "Psychic"
+  },
+  {
+    "name": "Circle Throw"
+  },
+  {
+    "name": "Smelling"
+  },
+  {
+    "name": "Salts"
+  },
+  {
+    "name": "## Page 115"
+  },
+  {
+    "name": "Boomburst",
+    "type": "Normal"
+  },
+  {
+    "name": "Boomburst (N)"
+  },
+  {
+    "name": "Fire Fang(N)"
+  },
+  {
+    "name": "Ice Fang(N)"
+  },
+  {
+    "name": "Thunder Fang(N)"
+  },
+  {
+    "name": "## Page 116"
+  },
+  {
+    "name": "Baby-Doll Eyes"
+  },
+  {
+    "name": "Play Rough"
+  },
+  {
+    "name": "Retali­"
+  },
+  {
+    "name": "Snarl"
+  },
+  {
+    "name": "After You",
+    "type": "Normal"
+  },
+  {
+    "name": "Thunder Fang"
+  },
+  {
+    "name": "## Page 118"
+  },
+  {
+    "name": "Thunder­"
+  },
+  {
+    "name": "bolt"
+  },
+  {
+    "name": "## Page 119"
+  },
+  {
+    "name": "Conversion",
+    "type": "Normal"
+  },
+  {
+    "name": "Sharpen",
+    "type": "Normal"
+  },
+  {
+    "name": "Recover",
+    "type": "Normal"
+  },
+  {
+    "name": "Magnet Rise"
+  },
+  {
+    "name": "Discharge",
+    "type": "Electric"
+  },
+  {
+    "name": "Lock-On",
+    "type": "Normal"
+  },
+  {
+    "name": "Tri Attack",
+    "type": "Normal"
+  },
+  {
+    "name": "Zap Cannon",
+    "type": "Electric"
+  },
+  {
+    "name": "der Wave"
+  },
+  {
+    "name": "Magnet"
+  },
+  {
+    "name": "Rise"
+  },
+  {
+    "name": "## Page 120"
+  },
+  {
+    "name": "PORYGON2"
+  },
+  {
+    "name": "Base Stats:"
+  },
+  {
+    "name": "HP:"
+  },
+  {
+    "name": "Attack:"
+  },
+  {
+    "name": "Defense:"
+  },
+  {
+    "name": "Special Attack:"
+  },
+  {
+    "name": "Special Defense:"
+  },
+  {
+    "name": "Speed:"
+  },
+  {
+    "name": "Basic Information"
+  },
+  {
+    "name": "Type : Normal"
+  },
+  {
+    "name": "Basic Ability 1: Download"
+  },
+  {
+    "name": "Basic Ability 2: Trace"
+  },
+  {
+    "name": "Adv Ability 1: Analytic"
+  },
+  {
+    "name": "Adv Ability 2: Tolerance"
+  },
+  {
+    "name": "High Ability: Targeting System"
+  },
+  {
+    "name": "Evolution:"
+  },
+  {
+    "name": "- Porygon2 Holding UpGrade Minimum 10"
+  },
+  {
+    "name": "- Porygon-Z Holding Dubious Disc Minimum 25"
+  },
+  {
+    "name": "Size Information"
+  },
+  {
+    "name": "Height : 2’ 0” / 0.6m (Small)"
+  },
+  {
+    "name": "Weight : 71.7 lbs. / 32.5kg (3)"
+  },
+  {
+    "name": "Breeding Information"
+  },
+  {
+    "name": "Gender Ratio  : No Gender"
+  },
+  {
+    "name": "Egg Group : None"
+  },
+  {
+    "name": "Diet : Nullivore"
+  },
+  {
+    "name": "Habitat  : Urban"
+  },
+  {
+    "name": "Capability List"
+  },
+  {
+    "name": "Overland 2"
+  },
+  {
+    "name": "Swim 2"
+  },
+  {
+    "name": "Levitate 6"
+  },
+  {
+    "name": "Jump 1/1"
+  },
+  {
+    "name": "Power 2"
+  },
+  {
+    "name": "Wired"
+  },
+  {
+    "name": "Skill List"
+  },
+  {
+    "name": "Athl 2d6"
+  },
+  {
+    "name": "Acro 2d6"
+  },
+  {
+    "name": "Combat 3d6"
+  },
+  {
+    "name": "Stealth 2d6"
+  },
+  {
+    "name": "Percep"
+  },
+  {
+    "name": "d6+2"
+  },
+  {
+    "name": "Focus 4d6"
+  },
+  {
+    "name": "Edu: Tech 4d6+1"
+  },
+  {
+    "name": "Move List"
+  },
+  {
+    "name": "Level Up Move List"
+  },
+  {
+    "name": "TM/HM Move List"
+  },
+  {
+    "name": "Conversion(N)"
+  },
+  {
+    "name": "Conversion2(N)"
+  },
+  {
+    "name": "Mag­"
+  },
+  {
+    "name": "net Rise"
+  },
+  {
+    "name": "## Page 121"
+  },
+  {
+    "name": "Nasty Plot(N)"
+  },
+  {
+    "name": "Role"
+  },
+  {
+    "name": "Trick Room(N)"
+  },
+  {
+    "name": "## Page 122"
+  },
+  {
+    "name": "Gunk"
+  },
+  {
+    "name": "Reversal (N)"
+  },
+  {
+    "name": "## Page 124"
+  },
+  {
+    "name": "Aeri­"
+  },
+  {
+    "name": "al Ace"
+  },
+  {
+    "name": "Ham­"
+  },
+  {
+    "name": "mer Arm (N)"
+  },
+  {
+    "name": "Slack"
+  },
+  {
+    "name": "Off (N)"
+  },
+  {
+    "name": "## Page 125"
+  },
+  {
+    "name": "Acid",
+    "type": "Poison"
+  },
+  {
+    "name": "Moonblast",
+    "type": "Fairy"
+  },
+  {
+    "name": "Infesta­"
+  },
+  {
+    "name": "Teeter Dance",
+    "type": "Normal"
+  },
+  {
+    "name": "Gastro"
+  },
+  {
+    "name": "Dazzling"
+  },
+  {
+    "name": "Gleam"
+  },
+  {
+    "name": "## Page 127"
+  },
+  {
+    "name": "Aromatherapy(N)"
+  },
+  {
+    "name": "Body"
+  },
+  {
+    "name": "Gas­"
+  },
+  {
+    "name": "tro Acid"
+  },
+  {
+    "name": "Mega Drain(N)"
+  },
+  {
+    "name": "Poison Powder(N)"
+  },
+  {
+    "name": "Stun Spore(N)"
+  },
+  {
+    "name": "## Page 128"
+  },
+  {
+    "name": "festation"
+  },
+  {
+    "name": "Leaf Blade(N)"
+  },
+  {
+    "name": "Natural"
+  },
+  {
+    "name": "Gift"
+  },
+  {
+    "name": "Sunny Day(N)"
+  },
+  {
+    "name": "Sweet"
+  },
+  {
+    "name": "Scent(N)"
+  },
+  {
+    "name": "## Page 129"
+  },
+  {
+    "name": "Acid Spray",
+    "type": "Poison"
+  },
+  {
+    "name": "Belch",
+    "type": "Poison"
+  },
+  {
+    "name": "Clear Smog",
+    "type": "Poison"
+  },
+  {
+    "name": "Weather Ball",
+    "type": "Normal"
+  },
+  {
+    "name": "## Page 131"
+  },
+  {
+    "name": "Razor Leaf(N)"
+  },
+  {
+    "name": "Sleep Talk(N)"
+  },
+  {
+    "name": "Spit Up(N)"
+  },
+  {
+    "name": "Stockpile(N)"
+  },
+  {
+    "name": "Swallow(N)"
+  },
+  {
+    "name": "## Page 132"
+  },
+  {
+    "name": "Splash",
+    "type": "Normal"
+  },
+  {
+    "name": "Fairy Wind",
+    "type": "Fairy"
+  },
+  {
+    "name": "Cotton Spore",
+    "type": "Grass"
+  },
+  {
+    "name": "U-Turn",
+    "type": "Bug"
+  },
+  {
+    "name": "Memento",
+    "type": "Dark"
+  },
+  {
+    "name": "Cotton"
+  },
+  {
+    "name": "Guard"
+  },
+  {
+    "name": "Grassy Ter­"
+  },
+  {
+    "name": "rain"
+  },
+  {
+    "name": "## Page 134"
+  },
+  {
+    "name": "## Page 135"
+  },
+  {
+    "name": "Razor"
+  },
+  {
+    "name": "Up­"
+  },
+  {
+    "name": "roar"
+  },
+  {
+    "name": "## Page 137"
+  },
+  {
+    "name": "Astonish(N)"
+  },
+  {
+    "name": "Nature Power(N)"
+  },
+  {
+    "name": "## Page 138"
+  },
+  {
+    "name": "Explosion",
+    "type": "Normal"
+  },
+  {
+    "name": "Nasty"
+  },
+  {
+    "name": "Plot"
+  },
+  {
+    "name": "Power Swap",
+    "type": "Psychic"
+  },
+  {
+    "name": "Take"
+  },
+  {
+    "name": "Explo­"
+  },
+  {
+    "name": "sion"
+  },
+  {
+    "name": "## Page 140"
+  },
+  {
+    "name": "Attack(N)"
+  },
+  {
+    "name": "Whirlwind(N)"
+  },
+  {
+    "name": "## Page 141"
+  },
+  {
+    "name": "## Page 143"
+  },
+  {
+    "name": "Grassy Terrain (N)"
+  },
+  {
+    "name": "Magi­"
+  },
+  {
+    "name": "cal Leaf(N)"
+  },
+  {
+    "name": "Sweet Scent(N)"
+  },
+  {
+    "name": "Weather"
+  },
+  {
+    "name": "Ball(N)"
+  },
+  {
+    "name": "Venom Drench (N)"
+  },
+  {
+    "name": "## Page 144"
+  },
+  {
+    "name": "Thunder Shock",
+    "type": "Electric"
+  },
+  {
+    "name": "Volt"
+  },
+  {
+    "name": "Switch"
+  },
+  {
+    "name": "Lucky"
+  },
+  {
+    "name": "Chant"
+  },
+  {
+    "name": "Volt Tackle"
+  },
+  {
+    "name": "Electro Ball",
+    "type": "Electric"
+  },
+  {
+    "name": "Spark",
+    "type": "Electric"
+  },
+  {
+    "name": "Nuzzle"
+  },
+  {
+    "name": "Volt Switch"
+  },
+  {
+    "name": "## Page 146"
+  },
+  {
+    "name": "Thunderbolt(N)"
+  },
+  {
+    "name": "## Page 147"
+  },
+  {
+    "name": "Sonic Boom",
+    "type": "Normal"
+  },
+  {
+    "name": "Magnet Bomb",
+    "type": "Steel"
+  },
+  {
+    "name": "Mirror Shot",
+    "type": "Steel"
+  },
+  {
+    "name": "Metal Sound",
+    "type": "Steel"
+  },
+  {
+    "name": "Fore­"
+  },
+  {
+    "name": "sight"
+  },
+  {
+    "name": "Sonic  Boom",
+    "type": "Normal"
+  },
+  {
+    "name": "Electric Terrain (N)"
+  },
+  {
+    "name": "Elec­"
+  },
+  {
+    "name": "troweb"
+  },
+  {
+    "name": "Sonic"
+  },
+  {
+    "name": "Boom (N)"
+  },
+  {
+    "name": "Tri"
+  },
+  {
+    "name": "Zap Cannon (N)"
+  },
+  {
+    "name": "## Page 149"
+  },
+  {
+    "name": "Barrier(N)"
+  },
+  {
+    "name": "Electric Terrain",
+    "type": "Electric"
+  },
+  {
+    "name": "Magnetic Flux (N)"
+  },
+  {
+    "name": "Metal"
+  },
+  {
+    "name": "Mirror Coat (N)"
+  },
+  {
+    "name": "## Page 150"
+  },
+  {
+    "name": "Power Gem"
+  },
+  {
+    "name": "Cotton Guard",
+    "type": "Grass"
+  },
+  {
+    "name": "Eerie Impulse"
+  },
+  {
+    "name": "## Page 152"
+  },
+  {
+    "name": "Dragon Pulse (N)"
+  },
+  {
+    "name": "Dynamic"
+  },
+  {
+    "name": "Fire Punch(N)"
+  },
+  {
+    "name": "Ion"
+  },
+  {
+    "name": "Deluge (N)"
+  },
+  {
+    "name": "Magnetic Flux",
+    "type": "Electric"
+  },
+  {
+    "name": "Type: Electric/Dragon"
+  },
+  {
+    "name": "Ability: Mold Breaker"
+  },
+  {
+    "name": "-1 Speed"
+  },
+  {
+    "name": "## Page 153"
+  },
+  {
+    "name": "## Page 155"
+  },
+  {
+    "name": "## Page 156"
+  },
+  {
+    "name": "Charge Beam(N)"
+  },
+  {
+    "name": "Headbutt (N)"
+  },
+  {
+    "name": "Spark(N)"
+  },
+  {
+    "name": "Thunder Wave (N)"
+  },
+  {
+    "name": "## Page 158"
+  },
+  {
+    "name": "Acid(N)"
+  },
+  {
+    "name": "Beam(N)"
+  },
+  {
+    "name": "Coil (N)"
+  },
+  {
+    "name": "Crunch(N)"
+  },
+  {
+    "name": "Crush Claw(N)"
+  },
+  {
+    "name": "Discharge(N)"
+  },
+  {
+    "name": "Headbutt(N)"
+  },
+  {
+    "name": "Ion Deluge (N)"
+  },
+  {
+    "name": "Superpow­"
+  },
+  {
+    "name": "Thunder Wave(N)"
+  },
+  {
+    "name": "## Page 159"
+  },
+  {
+    "name": "Cross Chop"
+  },
+  {
+    "name": "Karate Chop",
+    "type": "Fighting"
+  },
+  {
+    "name": "Meditate",
+    "type": "Psychic"
+  },
+  {
+    "name": "Rolling Kick",
+    "type": "Fighting"
+  },
+  {
+    "name": "## Page 161"
+  },
+  {
+    "name": "Low Kick(N)"
+  },
+  {
+    "name": "## Page 162"
+  },
+  {
+    "name": "## Page 164"
+  },
+  {
+    "name": "Smog(N)"
+  },
+  {
+    "name": "Thunder Punch(N)"
+  },
+  {
+    "name": "## Page 165"
+  },
+  {
+    "name": "## Page 167"
+  },
+  {
+    "name": "Bubble Beam(N)"
+  },
+  {
+    "name": "Double Slap(N)"
+  },
+  {
+    "name": "En­"
+  },
+  {
+    "name": "deavor"
+  },
+  {
+    "name": "Hypnosis(N)"
+  },
+  {
+    "name": "Met­"
+  },
+  {
+    "name": "ronome"
+  },
+  {
+    "name": "Submission(N)"
+  },
+  {
+    "name": "## Page 168"
+  },
+  {
+    "name": "Perish Song(N)"
+  },
+  {
+    "name": "## Page 169"
+  },
+  {
+    "name": "Perish Song",
+    "type": "Normal"
+  },
+  {
+    "name": "Soak"
+  },
+  {
+    "name": "## Page 171"
+  },
+  {
+    "name": "## Page 172"
+  },
+  {
+    "name": "## Page 174"
+  },
+  {
+    "name": "## Page 175"
+  },
+  {
+    "name": "Aurora Beam",
+    "type": "Ice"
+  },
+  {
+    "name": "Octazoo­"
+  },
+  {
+    "name": "ka"
+  },
+  {
+    "name": "Bliz­"
+  },
+  {
+    "name": "zard"
+  },
+  {
+    "name": "Hydro Pump (N)"
+  },
+  {
+    "name": "## Page 177"
+  },
+  {
+    "name": "Draco Me­"
+  },
+  {
+    "name": "teor"
+  },
+  {
+    "name": "Yawn(N)"
+  },
+  {
+    "name": "## Page 178"
+  },
+  {
+    "name": "Powder Snow",
+    "type": "Ice"
+  },
+  {
+    "name": "Sheer Cold",
+    "type": "Ice"
+  },
+  {
+    "name": "Frost Breath"
+  },
+  {
+    "name": "Fissure",
+    "type": "Ground"
+  },
+  {
+    "name": "Frost"
+  },
+  {
+    "name": "Breath"
+  },
+  {
+    "name": "## Page 180"
+  },
+  {
+    "name": "Encore (N)"
+  },
+  {
+    "name": "## Page 181"
+  },
+  {
+    "name": "Icicle Spear"
+  },
+  {
+    "name": "Acid Armor",
+    "type": "Poison"
+  },
+  {
+    "name": "Autotomize",
+    "type": "Steel"
+  },
+  {
+    "name": "Ice Shard",
+    "type": "Ice"
+  },
+  {
+    "name": "Imprison"
+  },
+  {
+    "name": "## Page 183"
+  },
+  {
+    "name": "Freeze-Dry (N)"
+  },
+  {
+    "name": "Sheer Cold (N)"
+  },
+  {
+    "name": "Weather Ball(N)"
+  },
+  {
+    "name": "## Page 184"
+  },
+  {
+    "name": "Teleport"
+  },
+  {
+    "name": "Stored Power",
+    "type": "Psychic"
+  },
+  {
+    "name": "Ally Switch"
+  },
+  {
+    "name": "Destiny Bond",
+    "type": "Ghost"
+  },
+  {
+    "name": "Grudge",
+    "type": "Ghost"
+  },
+  {
+    "name": "Misty Ter­"
+  },
+  {
+    "name": "Will-"
+  },
+  {
+    "name": "Pain"
+  },
+  {
+    "name": "Split"
+  },
+  {
+    "name": "Telekinesis"
+  },
+  {
+    "name": "Psy­"
+  },
+  {
+    "name": "chic"
+  },
+  {
+    "name": "Room"
+  },
+  {
+    "name": "der Punch"
+  },
+  {
+    "name": "## Page 186"
+  },
+  {
+    "name": "Healing Wish(N)"
+  },
+  {
+    "name": "Misty"
+  },
+  {
+    "name": "Terrain (N)"
+  },
+  {
+    "name": "Moonblast (N)"
+  },
+  {
+    "name": "Stored Power (N)"
+  },
+  {
+    "name": "Ability: Pixilate"
+  },
+  {
+    "name": "## Page 187"
+  },
+  {
+    "name": "Psycho Cut",
+    "type": "Psychic"
+  },
+  {
+    "name": "Tor­"
+  },
+  {
+    "name": "ment"
+  },
+  {
+    "name": "Close Combat (N)"
+  },
+  {
+    "name": "Stored"
+  },
+  {
+    "name": "Power (N)"
+  },
+  {
+    "name": "Won­"
+  },
+  {
+    "name": "der Room"
+  },
+  {
+    "name": "Ability: Inner Focus"
+  },
+  {
+    "name": "## Page 188"
+  },
+  {
+    "name": "Dream"
+  },
+  {
+    "name": "Eater"
+  },
+  {
+    "name": "Guard Split",
+    "type": "Psychic"
+  },
+  {
+    "name": "Guard Swap",
+    "type": "Psychic"
+  },
+  {
+    "name": "Power Trick",
+    "type": "Psychic"
+  },
+  {
+    "name": "Psycho Shift",
+    "type": "Psychic"
+  },
+  {
+    "name": "Miracle Eye",
+    "type": "Psychic"
+  },
+  {
+    "name": "Kine­"
+  },
+  {
+    "name": "sis (N)"
+  },
+  {
+    "name": "Recy­"
+  },
+  {
+    "name": "cle"
+  },
+  {
+    "name": "## Page 190"
+  },
+  {
+    "name": "Kinesis(N)"
+  },
+  {
+    "name": "Knock"
+  },
+  {
+    "name": "Off"
+  },
+  {
+    "name": "Ability: Trace"
+  },
+  {
+    "name": "Stats: +2 Def"
+  },
+  {
+    "name": "## Page 191"
+  },
+  {
+    "name": "Heal Block"
+  },
+  {
+    "name": "Mean"
+  },
+  {
+    "name": "Look"
+  },
+  {
+    "name": "Play Nice (N)"
+  },
+  {
+    "name": "## Page 193"
+  },
+  {
+    "name": "Embar­"
+  },
+  {
+    "name": "go"
+  },
+  {
+    "name": "## Page 194"
+  },
+  {
+    "name": "Psywave",
+    "type": "Psychic"
+  },
+  {
+    "name": "Night Shade",
+    "type": "Ghost"
+  },
+  {
+    "name": "Wonder"
+  },
+  {
+    "name": "## Page 196"
+  },
+  {
+    "name": "Dizzy Punch",
+    "type": "Normal"
+  },
+  {
+    "name": "## Page 197"
+  },
+  {
+    "name": "Vital Throw",
+    "type": "Fighting"
+  },
+  {
+    "name": "Bullet Punch",
+    "type": "Steel"
+  },
+  {
+    "name": "Heavy Slam",
+    "type": "Steel"
+  },
+  {
+    "name": "Dual"
+  },
+  {
+    "name": "Chop"
+  },
+  {
+    "name": "## Page 199"
+  },
+  {
+    "name": "Wide Guard(N)"
+  },
+  {
+    "name": "## Page 200"
+  },
+  {
+    "name": "Comet Punch",
+    "type": "Normal"
+  },
+  {
+    "name": "Force Palm",
+    "type": "Fighting"
+  },
+  {
+    "name": "Wise Guard"
+  },
+  {
+    "name": "## Page 202"
+  },
+  {
+    "name": "## Page 203"
+  },
+  {
+    "name": "Self-Destruct",
+    "type": "Normal"
+  },
+  {
+    "name": "Rock Blast",
+    "type": "Rock"
+  },
+  {
+    "name": "Sand­"
+  },
+  {
+    "name": "storm"
+  },
+  {
+    "name": "Gyro"
+  },
+  {
+    "name": "## Page 205"
+  },
+  {
+    "name": "Heavy Slam (N)"
+  },
+  {
+    "name": "## Page 206"
+  },
+  {
+    "name": "Lock"
+  },
+  {
+    "name": "## Page 208"
+  },
+  {
+    "name": "## Page 209"
+  },
+  {
+    "name": "Rush"
+  },
+  {
+    "name": "Metal Burst",
+    "type": "Steel"
+  },
+  {
+    "name": "Rototiller",
+    "type": "Ground"
+  },
+  {
+    "name": "## Page 211"
+  },
+  {
+    "name": "Poison Jab (N)"
+  },
+  {
+    "name": "Rock Wrecker (N)"
+  },
+  {
+    "name": "## Page 212"
+  },
+  {
+    "name": "Freeze"
+  },
+  {
+    "name": "Icicle"
+  },
+  {
+    "name": "Crash"
+  },
+  {
+    "name": "Ancient Power(N)"
+  },
+  {
+    "name": "Peck (N)"
+  },
+  {
+    "name": "## Page 214"
+  },
+  {
+    "name": "Ancient Power (N)"
+  },
+  {
+    "name": "## Page 215"
+  },
+  {
+    "name": "## Page 217"
+  },
+  {
+    "name": "Outrage (N)"
+  },
+  {
+    "name": "Rage (N)"
+  },
+  {
+    "name": "## Page 218"
+  },
+  {
+    "name": "Polish"
+  },
+  {
+    "name": "## Page 220"
+  },
+  {
+    "name": "Dark"
+  },
+  {
+    "name": "Dy­"
+  },
+  {
+    "name": "namic Punch"
+  },
+  {
+    "name": "Type: Steel"
+  },
+  {
+    "name": "Ability: Filter"
+  },
+  {
+    "name": "Stats: +3 Atk"
+  },
+  {
+    "name": "+5 Def"
+  },
+  {
+    "name": "## Page 221"
+  },
+  {
+    "name": "Vice Grip",
+    "type": "Normal"
+  },
+  {
+    "name": "Gear Grind",
+    "type": "Steel"
+  },
+  {
+    "name": "Shift Gear",
+    "type": "Steel"
+  },
+  {
+    "name": "## Page 223"
+  },
+  {
+    "name": "## Page 224"
+  },
+  {
+    "name": "Sacred Sword",
+    "type": "Fighting"
+  },
+  {
+    "name": "Wide"
+  },
+  {
+    "name": "## Page 226"
+  },
+  {
+    "name": "King’s Shield"
+  },
+  {
+    "name": "## Page 227"
+  },
+  {
+    "name": "Hex",
+    "type": "Ghost"
+  },
+  {
+    "name": "Nightmare"
+  },
+  {
+    "name": "Reflect Type",
+    "type": "Normal"
+  },
+  {
+    "name": "Spite(N)"
+  },
+  {
+    "name": "Shadow Punch",
+    "type": "Ghost"
+  },
+  {
+    "name": "## Page 229"
+  },
+  {
+    "name": "Ability: Shadow Tag"
+  },
+  {
+    "name": "## Page 230"
+  },
+  {
+    "name": "Astonish (N)"
+  },
+  {
+    "name": "Metro­"
+  },
+  {
+    "name": "nome"
+  },
+  {
+    "name": "## Page 232"
+  },
+  {
+    "name": "Bind (N)"
+  },
+  {
+    "name": "Coun­"
+  },
+  {
+    "name": "ter"
+  },
+  {
+    "name": "Punch (N)"
+  },
+  {
+    "name": "Grav­"
+  },
+  {
+    "name": "ity (N)"
+  },
+  {
+    "name": "Ice Punch (N)"
+  },
+  {
+    "name": "## Page 233"
+  },
+  {
+    "name": "Power Split",
+    "type": "Psychic"
+  },
+  {
+    "name": "## Page 235"
+  },
+  {
+    "name": "Confuse Ray(N)"
+  },
+  {
+    "name": "Hex (N)"
+  },
+  {
+    "name": "Burst (N)"
+  },
+  {
+    "name": "Pain Split (N)"
+  },
+  {
+    "name": "Smog (N)"
+  },
+  {
+    "name": "## Page 236"
+  },
+  {
+    "name": "Terrain"
+  },
+  {
+    "name": "Soft"
+  },
+  {
+    "name": "Follow Me",
+    "type": "Normal"
+  },
+  {
+    "name": "Cosmic Power",
+    "type": "Psychic"
+  },
+  {
+    "name": "Meteor Mash",
+    "type": "Steel"
+  },
+  {
+    "name": "Daz­"
+  },
+  {
+    "name": "zling Gleam"
+  },
+  {
+    "name": "After You (N)"
+  },
+  {
+    "name": "Disarming Voice (N)"
+  },
+  {
+    "name": "Healing"
+  },
+  {
+    "name": "Wish (N)"
+  },
+  {
+    "name": "## Page 238"
+  },
+  {
+    "name": "Metronome(N)"
+  },
+  {
+    "name": "Minimize(N)"
+  },
+  {
+    "name": "## Page 239"
+  },
+  {
+    "name": "Magical Leaf(N)"
+  },
+  {
+    "name": "Seis­"
+  },
+  {
+    "name": "mic Toss"
+  },
+  {
+    "name": "Sky"
+  },
+  {
+    "name": "Sweet Kiss (N)"
+  },
+  {
+    "name": "## Page 241"
+  },
+  {
+    "name": "An­"
+  },
+  {
+    "name": "cient Power"
+  },
+  {
+    "name": "Aura Sphere(N)"
+  },
+  {
+    "name": "Endeav­"
+  },
+  {
+    "name": "or"
+  },
+  {
+    "name": "Extreme Speed(N)"
+  },
+  {
+    "name": "Se­"
+  },
+  {
+    "name": "cret Power"
+  },
+  {
+    "name": "Sky Attack(N)"
+  },
+  {
+    "name": "Steel"
+  },
+  {
+    "name": "Wing"
+  },
+  {
+    "name": "## Page 242"
+  },
+  {
+    "name": "FLABÉBÉ"
+  },
+  {
+    "name": "Type : Fairy"
+  },
+  {
+    "name": "Basic Ability 1: Flower Power"
+  },
+  {
+    "name": "Adv Ability 1: Flower Veil"
+  },
+  {
+    "name": "Adv Ability 2: Overgrow"
+  },
+  {
+    "name": "Adv Ability 3: Perception"
+  },
+  {
+    "name": "High Ability: Symbiosis"
+  },
+  {
+    "name": "- Flabébé"
+  },
+  {
+    "name": "- Floette Minimum 15"
+  },
+  {
+    "name": "- Florges Shiny Stone Minimum 30"
+  },
+  {
+    "name": "Height : 0’ 04” / 0.1m (Small)"
+  },
+  {
+    "name": "Weight : 0.2 lbs. / .1 kg (1)"
+  },
+  {
+    "name": "Gender Ratio  : 0% M / 100% F"
+  },
+  {
+    "name": "Egg Group : Fairy"
+  },
+  {
+    "name": "Average Hatch Rate: 10 Days"
+  },
+  {
+    "name": "Diet : Herbivore"
+  },
+  {
+    "name": "Habitat  : Forest"
+  },
+  {
+    "name": "Grassland"
+  },
+  {
+    "name": "Levitate 4"
+  },
+  {
+    "name": "Jump 0/1"
+  },
+  {
+    "name": "Power 1"
+  },
+  {
+    "name": "Alluring"
+  },
+  {
+    "name": "Naturewalk (Grassland"
+  },
+  {
+    "name": "Forest)"
+  },
+  {
+    "name": "Underdog"
+  },
+  {
+    "name": "Athl 1d6"
+  },
+  {
+    "name": "Acro 3d6"
+  },
+  {
+    "name": "Combat 1d6"
+  },
+  {
+    "name": "Stealth 3d6+2"
+  },
+  {
+    "name": "cep 3d6"
+  },
+  {
+    "name": "Focus 2d6+2"
+  },
+  {
+    "name": "Light of Ruin"
+  },
+  {
+    "name": "## Page 244"
+  },
+  {
+    "name": "Flower Shield (N)"
+  },
+  {
+    "name": "Grass Knot (N)"
+  },
+  {
+    "name": "## Page 245"
+  },
+  {
+    "name": "Fissure (N)"
+  },
+  {
+    "name": "Fury Cut­"
+  },
+  {
+    "name": "Draco Meteor"
+  },
+  {
+    "name": "## Page 247"
+  },
+  {
+    "name": "on Claw"
+  },
+  {
+    "name": "## Page 248"
+  },
+  {
+    "name": "Double Chop",
+    "type": "Dragon"
+  },
+  {
+    "name": "Guillotine",
+    "type": "Normal"
+  },
+  {
+    "name": "## Page 250"
+  },
+  {
+    "name": "Hone"
+  },
+  {
+    "name": "Claws"
+  },
+  {
+    "name": "## Page 251"
+  },
+  {
+    "name": "Hyper Fang"
+  },
+  {
+    "name": "Su­"
+  },
+  {
+    "name": "per Fang"
+  },
+  {
+    "name": "Swords Dance(N)"
+  },
+  {
+    "name": "## Page 253"
+  },
+  {
+    "name": "## Page 255"
+  },
+  {
+    "name": "Simple Beam",
+    "type": "Normal"
+  },
+  {
+    "name": "Double Edge",
+    "type": "Normal"
+  },
+  {
+    "name": "Play Rough (N)"
+  },
+  {
+    "name": "Rototiller (N)"
+  },
+  {
+    "name": "Switcheroo(N)"
+  },
+  {
+    "name": "## Page 257"
+  },
+  {
+    "name": "## Page 259"
+  },
+  {
+    "name": "## Page 261"
+  },
+  {
+    "name": "Bulldoze (N)"
+  },
+  {
+    "name": "Hammer Arm (N)"
+  },
+  {
+    "name": "Dance (N)"
+  },
+  {
+    "name": "## Page 263"
+  },
+  {
+    "name": "Pay Day",
+    "type": "Normal"
+  },
+  {
+    "name": "## Page 265"
+  },
+  {
+    "name": "Fake"
+  },
+  {
+    "name": "Out"
+  },
+  {
+    "name": "Attract(N)"
+  },
+  {
+    "name": "Fake Out(N)"
+  },
+  {
+    "name": "## Page 267"
+  },
+  {
+    "name": "Wake-"
+  },
+  {
+    "name": "Up Slap"
+  },
+  {
+    "name": "## Page 269"
+  },
+  {
+    "name": "Tail Slap",
+    "type": "Normal"
+  },
+  {
+    "name": "Bullet Seed(N)"
+  },
+  {
+    "name": "Helping Hand(N)"
+  },
+  {
+    "name": "Rock Blast(N)"
+  },
+  {
+    "name": "Tail Slap(N)"
+  },
+  {
+    "name": "Tickle(N)"
+  },
+  {
+    "name": "## Page 271"
+  },
+  {
+    "name": "Jump Kick",
+    "type": "Fighting"
+  },
+  {
+    "name": "Cosmic"
+  },
+  {
+    "name": "Switcheroo"
+  },
+  {
+    "name": "High Jump Kick"
+  },
+  {
+    "name": "taliate"
+  },
+  {
+    "name": "Bounce (N)"
+  },
+  {
+    "name": "Magic Coat(N)"
+  },
+  {
+    "name": "Coat(N)"
+  },
+  {
+    "name": "Type: Normal / Fight­"
+  },
+  {
+    "name": "ing"
+  },
+  {
+    "name": "Ability: Scrappy"
+  },
+  {
+    "name": "## Page 273"
+  },
+  {
+    "name": "Tears"
+  },
+  {
+    "name": "Fire Fang (N)"
+  },
+  {
+    "name": "Fang (N)"
+  },
+  {
+    "name": "Thunder Fang (N)"
+  },
+  {
+    "name": "Charm(N)"
+  },
+  {
+    "name": "rage (N)"
+  },
+  {
+    "name": "Scary Face(N)"
+  },
+  {
+    "name": "## Page 275"
+  },
+  {
+    "name": "venge"
+  },
+  {
+    "name": "## Page 277"
+  },
+  {
+    "name": "Horn Leech",
+    "type": "Grass"
+  },
+  {
+    "name": "## Page 279"
+  },
+  {
+    "name": "Baby-Doll Eyes (N)"
+  },
+  {
+    "name": "Covet(N)"
+  },
+  {
+    "name": "Fake Tears(N)"
+  },
+  {
+    "name": "Fling (N)"
+  },
+  {
+    "name": "Tears (N)"
+  },
+  {
+    "name": "Focus Punch(N)"
+  },
+  {
+    "name": "## Page 281"
+  },
+  {
+    "name": "Ex­"
+  },
+  {
+    "name": "plosion"
+  },
+  {
+    "name": "Wring Out (N)"
+  },
+  {
+    "name": "## Page 283"
+  },
+  {
+    "name": "Self"
+  },
+  {
+    "name": "Resort (N)"
+  },
+  {
+    "name": "Lick (N)"
+  },
+  {
+    "name": "Recycle (N)"
+  },
+  {
+    "name": "Snatch (N)"
+  },
+  {
+    "name": "## Page 285"
+  },
+  {
+    "name": "## Page 287"
+  },
+  {
+    "name": "WORMADAM  Sandy Cloak Form"
+  },
+  {
+    "name": "Type : Bug / Ground"
+  },
+  {
+    "name": "Basic Ability 1: Anticipation"
+  },
+  {
+    "name": "Adv Ability 1: Overcoat"
+  },
+  {
+    "name": "Adv Ability 2: Adaptation"
+  },
+  {
+    "name": "Adv Ability 3: Tolerance"
+  },
+  {
+    "name": "High Ability: Sand Veil"
+  },
+  {
+    "name": "- Wormadam Minimum 20 Female"
+  },
+  {
+    "name": "Height : 1’ 8” / 0.5m (Small)"
+  },
+  {
+    "name": "Weight : 14.3 lbs. / 6.5kg (1)"
+  },
+  {
+    "name": "Egg Group : Bug"
+  },
+  {
+    "name": "Habitat  : Desert"
+  },
+  {
+    "name": "Mountain"
+  },
+  {
+    "name": "Overland 4"
+  },
+  {
+    "name": "Swim 1"
+  },
+  {
+    "name": "Jump 1/2"
+  },
+  {
+    "name": "Threaded"
+  },
+  {
+    "name": "Naturewalk (Desert)"
+  },
+  {
+    "name": "Acro 3d6-1"
+  },
+  {
+    "name": "Combat 2d6"
+  },
+  {
+    "name": "Stealth 4d6"
+  },
+  {
+    "name": "cep 4d6"
+  },
+  {
+    "name": "Focus 3d6"
+  },
+  {
+    "name": "## Page 288"
+  },
+  {
+    "name": "WORMADAM  Trash Cloak Form"
+  },
+  {
+    "name": "Type : Bug / Steel"
+  },
+  {
+    "name": "High Ability: Clear Body"
+  },
+  {
+    "name": "## Page 289"
+  },
+  {
+    "name": "## Page 290"
+  },
+  {
+    "name": "X-"
+  },
+  {
+    "name": "Scissor"
+  },
+  {
+    "name": "## Page 292"
+  },
+  {
+    "name": "Phantom Force",
+    "type": "Ghost"
+  },
+  {
+    "name": "## Page 293"
+  },
+  {
+    "name": "Spore",
+    "type": "Grass"
+  },
+  {
+    "name": "Cross Poison",
+    "type": "Poison"
+  },
+  {
+    "name": "ergy Ball"
+  },
+  {
+    "name": "## Page 295"
+  },
+  {
+    "name": "Infes­"
+  },
+  {
+    "name": "tation"
+  },
+  {
+    "name": "Bug Buzz (N)"
+  },
+  {
+    "name": "Foresight (N)"
+  },
+  {
+    "name": "Quiver Dance (N)"
+  },
+  {
+    "name": "Wind (N)"
+  },
+  {
+    "name": "## Page 297"
+  },
+  {
+    "name": "Comet Punch(N)"
+  },
+  {
+    "name": "## Page 299"
+  },
+  {
+    "name": "Constrict",
+    "type": "Normal"
+  },
+  {
+    "name": "Spider Web",
+    "type": "Bug"
+  },
+  {
+    "name": "Sticky Web"
+  },
+  {
+    "name": "Fell Stinger (N)"
+  },
+  {
+    "name": "## Page 301"
+  },
+  {
+    "name": "Air Slash (N)"
+  },
+  {
+    "name": "Bite (N)"
+  },
+  {
+    "name": "Omi­"
+  },
+  {
+    "name": "nous Wind"
+  },
+  {
+    "name": "## Page 303"
+  },
+  {
+    "name": "Pin"
+  },
+  {
+    "name": "Missile"
+  },
+  {
+    "name": "Toxic Spikes(N)"
+  },
+  {
+    "name": "## Page 305"
+  },
+  {
+    "name": "Strug­"
+  },
+  {
+    "name": "gle Bug"
+  },
+  {
+    "name": "Ominous Wind (N)"
+  },
+  {
+    "name": "Whirlwind (N)"
+  },
+  {
+    "name": "## Page 307"
+  },
+  {
+    "name": "## Page 309"
+  },
+  {
+    "name": "Defend Order",
+    "type": "Bug"
+  },
+  {
+    "name": "Heal Order",
+    "type": "Bug"
+  },
+  {
+    "name": "Attack Order",
+    "type": "Bug"
+  },
+  {
+    "name": "Confuse Ray (N)"
+  },
+  {
+    "name": "Des­"
+  },
+  {
+    "name": "tiny Bond (N)"
+  },
+  {
+    "name": "## Page 311"
+  },
+  {
+    "name": "Shell Smash",
+    "type": "Normal"
+  },
+  {
+    "name": "Rock Wrecker",
+    "type": "Rock"
+  },
+  {
+    "name": "Shell Smash(N)"
+  },
+  {
+    "name": "## Page 313"
+  },
+  {
+    "name": "Double-Edge (N)"
+  },
+  {
+    "name": "## Page 315"
+  },
+  {
+    "name": "U-turn"
+  },
+  {
+    "name": "Giga Im­"
+  },
+  {
+    "name": "pact"
+  },
+  {
+    "name": "Final Gambit (N)"
+  },
+  {
+    "name": "Power Swap (N)"
+  },
+  {
+    "name": "Water Shuriken (N)"
+  },
+  {
+    "name": "## Page 317"
+  },
+  {
+    "name": "Feint At­"
+  },
+  {
+    "name": "Sticky Web (N)"
+  },
+  {
+    "name": "## Page 319"
+  },
+  {
+    "name": "Vacuum Wave(N)"
+  },
+  {
+    "name": "Bullet Punch(N)"
+  },
+  {
+    "name": "Ability: Technician"
+  },
+  {
+    "name": "## Page 321"
+  },
+  {
+    "name": "Fiery Dance",
+    "type": "Fire"
+  },
+  {
+    "name": "Amnesia (N)"
+  },
+  {
+    "name": "Fiery"
+  },
+  {
+    "name": "Flame Wheel (N)"
+  },
+  {
+    "name": "Heat Wave (N)"
+  },
+  {
+    "name": "Hurricane (N)"
+  },
+  {
+    "name": "Rage Powder (N)"
+  },
+  {
+    "name": "Thrash (N)"
+  },
+  {
+    "name": "## Page 323"
+  },
+  {
+    "name": "Pluck(N)"
+  },
+  {
+    "name": "## Page 325"
+  },
+  {
+    "name": "Acupressure",
+    "type": "Normal"
+  },
+  {
+    "name": "## Page 327"
+  },
+  {
+    "name": "## Page 329"
+  },
+  {
+    "name": "## Page 331"
+  },
+  {
+    "name": "## Page 333"
+  },
+  {
+    "name": "Draco"
+  },
+  {
+    "name": "Meteor"
+  },
+  {
+    "name": "Sky Attack (N)"
+  },
+  {
+    "name": "Type: Dragon / Fairy"
+  },
+  {
+    "name": "## Page 335"
+  },
+  {
+    "name": "ow Claw"
+  },
+  {
+    "name": "Moonlight (N)"
+  },
+  {
+    "name": "## Page 337"
+  },
+  {
+    "name": "## Page 339"
+  },
+  {
+    "name": "Poison Gas",
+    "type": "Poison"
+  },
+  {
+    "name": "## Page 341"
+  },
+  {
+    "name": "Poison Gas(N)"
+  },
+  {
+    "name": "## Page 343"
+  },
+  {
+    "name": "## Page 345"
+  },
+  {
+    "name": "Gunk Shot (N)"
+  },
+  {
+    "name": "## Page 347"
+  },
+  {
+    "name": "## Page 349"
+  },
+  {
+    "name": "Fang(N)"
+  },
+  {
+    "name": "## Page 351"
+  },
+  {
+    "name": "Cross"
+  },
+  {
+    "name": "## Page 353"
+  },
+  {
+    "name": "Venom"
+  },
+  {
+    "name": "Drench"
+  },
+  {
+    "name": "Dragon Tail (N)"
+  },
+  {
+    "name": "Twister (N)"
+  },
+  {
+    "name": "## Page 355"
+  },
+  {
+    "name": "Rapid"
+  },
+  {
+    "name": "Spin"
+  },
+  {
+    "name": "## Page 357"
+  },
+  {
+    "name": "Swipes"
+  },
+  {
+    "name": "## Page 359"
+  },
+  {
+    "name": "Bone Club",
+    "type": "Ground"
+  },
+  {
+    "name": "Bonemerang",
+    "type": "Ground"
+  },
+  {
+    "name": "Bone Rush",
+    "type": "Ground"
+  },
+  {
+    "name": "Perish"
+  },
+  {
+    "name": "Song"
+  },
+  {
+    "name": "## Page 361"
+  },
+  {
+    "name": "Sand"
+  },
+  {
+    "name": "Guillotine (N)"
+  },
+  {
+    "name": "Poison Jab(N)"
+  },
+  {
+    "name": "## Page 363"
+  },
+  {
+    "name": "Bulldoze(N)"
+  },
+  {
+    "name": "Horn At­"
+  },
+  {
+    "name": "## Page 365"
+  },
+  {
+    "name": "## Page 366"
+  },
+  {
+    "name": "cycle"
+  },
+  {
+    "name": "Teleport(N)"
+  },
+  {
+    "name": "## Page 367"
+  },
+  {
+    "name": "## Page 369"
+  },
+  {
+    "name": "## Page 371"
+  },
+  {
+    "name": "Rock Pol­"
+  },
+  {
+    "name": "ish"
+  },
+  {
+    "name": "Focus Punch (N)"
+  },
+  {
+    "name": "Phan­"
+  },
+  {
+    "name": "tom Force (N)"
+  },
+  {
+    "name": "## Page 373"
+  },
+  {
+    "name": "Kick(N)"
+  },
+  {
+    "name": "## Page 375"
+  },
+  {
+    "name": "Block(N)"
+  },
+  {
+    "name": "Gravity(N)"
+  },
+  {
+    "name": "Iron Defense(N)"
+  },
+  {
+    "name": "Magnet Rise(N)"
+  },
+  {
+    "name": "Wide Guard (N)"
+  },
+  {
+    "name": "## Page 377"
+  },
+  {
+    "name": "Ability: Sand Force"
+  },
+  {
+    "name": "## Page 379"
+  },
+  {
+    "name": "Clamp",
+    "type": "Water"
+  },
+  {
+    "name": "Skull Bash (N)"
+  },
+  {
+    "name": "Stone Edge (N)"
+  },
+  {
+    "name": "## Page 381"
+  },
+  {
+    "name": "Flash Can­"
+  },
+  {
+    "name": "non"
+  },
+  {
+    "name": "## Page 382"
+  },
+  {
+    "name": "Rain Dance(N)"
+  },
+  {
+    "name": "## Page 383"
+  },
+  {
+    "name": "## Page 385"
+  },
+  {
+    "name": "Bullet"
+  },
+  {
+    "name": "## Page 387"
+  },
+  {
+    "name": "Flower Shield",
+    "type": "Fairy"
+  },
+  {
+    "name": "## Page 389"
+  },
+  {
+    "name": "Whistle"
+  },
+  {
+    "name": "Cotton Spore(N)"
+  },
+  {
+    "name": "Growth(N)"
+  },
+  {
+    "name": "Leech"
+  },
+  {
+    "name": "Seed(N)"
+  },
+  {
+    "name": "## Page 391"
+  },
+  {
+    "name": "Leech Seed(N)"
+  },
+  {
+    "name": "Drain(N)"
+  },
+  {
+    "name": "Synthesis(N)"
+  },
+  {
+    "name": "## Page 393"
+  },
+  {
+    "name": "## Page 395"
+  },
+  {
+    "name": "## Page 397"
+  },
+  {
+    "name": "Rock Climb(N)"
+  },
+  {
+    "name": "## Page 399"
+  },
+  {
+    "name": "Destiny Bond (N)"
+  },
+  {
+    "name": "Revenge(N)"
+  },
+  {
+    "name": "## Page 401"
+  },
+  {
+    "name": "Barrage"
+  },
+  {
+    "name": "Confusion(N)"
+  },
+  {
+    "name": "Bomb(N)"
+  },
+  {
+    "name": "Stomp(N)"
+  },
+  {
+    "name": "## Page 403"
+  },
+  {
+    "name": "Ice Punch(N)"
+  },
+  {
+    "name": "Ability: Snow Warning"
+  },
+  {
+    "name": "-3 Speed"
+  },
+  {
+    "name": "## Page 405"
+  },
+  {
+    "name": "Na­"
+  },
+  {
+    "name": "ture Power"
+  },
+  {
+    "name": "Milk Drink",
+    "type": "Normal"
+  },
+  {
+    "name": "Aerial Ace (N)"
+  },
+  {
+    "name": "## Page 407"
+  },
+  {
+    "name": "Flamethrow­"
+  },
+  {
+    "name": "Flamethrower (N)"
+  },
+  {
+    "name": "Imprison (N)"
+  },
+  {
+    "name": "Safeguard(N)"
+  },
+  {
+    "name": "## Page 409"
+  },
+  {
+    "name": "Extreme Speed",
+    "type": "Normal"
+  },
+  {
+    "name": "## Page 411"
+  },
+  {
+    "name": "## Page 413"
+  },
+  {
+    "name": "flect"
+  },
+  {
+    "name": "Earth Power (N)"
+  },
+  {
+    "name": "## Page 415"
+  },
+  {
+    "name": "Eruption (N)"
+  },
+  {
+    "name": "Ability: Sheer Force"
+  },
+  {
+    "name": "-2 Speed"
+  },
+  {
+    "name": "## Page 417"
+  },
+  {
+    "name": "fire Punch"
+  },
+  {
+    "name": "perpower"
+  },
+  {
+    "name": "DARMANITAN Zen Mode"
+  },
+  {
+    "name": "Type : Fire / Psychic"
+  },
+  {
+    "name": "Telekinetic"
+  },
+  {
+    "name": "Telepath"
+  },
+  {
+    "name": "Firestarter"
+  },
+  {
+    "name": "## Page 419"
+  },
+  {
+    "name": "Noble Roar"
+  },
+  {
+    "name": "Beam (N)"
+  },
+  {
+    "name": "## Page 421"
+  },
+  {
+    "name": "## Page 424"
+  },
+  {
+    "name": "Heal Pulse (N)"
+  },
+  {
+    "name": "Telekine­"
+  },
+  {
+    "name": "Ability: Shell Armor"
+  },
+  {
+    "name": "Stats: +7 Def"
+  },
+  {
+    "name": "+3 Sp."
+  },
+  {
+    "name": "## Page 426"
+  },
+  {
+    "name": "Hidden Power(N)"
+  },
+  {
+    "name": "Gem(N)"
+  },
+  {
+    "name": "## Page 427"
+  },
+  {
+    "name": "Waterfall"
+  },
+  {
+    "name": "## Page 429"
+  },
+  {
+    "name": "Pump"
+  },
+  {
+    "name": "Zen Headbutt(N)"
+  },
+  {
+    "name": "## Page 431"
+  },
+  {
+    "name": "Kiss"
+  },
+  {
+    "name": "Gust (N)"
+  },
+  {
+    "name": "Soak (N)"
+  },
+  {
+    "name": "## Page 433"
+  },
+  {
+    "name": "Ion Deluge",
+    "type": "Electric"
+  },
+  {
+    "name": "Eerie Impulse (N)"
+  },
+  {
+    "name": "Electro Ball (N)"
+  },
+  {
+    "name": "## Page 435"
+  },
+  {
+    "name": "Feint(N)"
+  },
+  {
+    "name": "Ability: Strong Jaw"
+  },
+  {
+    "name": "## Page 437"
+  },
+  {
+    "name": "Soak(N)"
+  },
+  {
+    "name": "Water Sport(N)"
+  },
+  {
+    "name": "## Page 439"
+  },
+  {
+    "name": "Me"
+  },
+  {
+    "name": "First"
+  },
+  {
+    "name": "## Page 441"
+  },
+  {
+    "name": "Reflect Type (N)"
+  },
+  {
+    "name": "## Page 443"
+  },
+  {
+    "name": "Water Spout (N)"
+  },
+  {
+    "name": "## Page 445"
+  },
+  {
+    "name": "Spike Cannon",
+    "type": "Normal"
+  },
+  {
+    "name": "Icicle Crash",
+    "type": "Ice"
+  },
+  {
+    "name": "Aurora Beam(N)"
+  },
+  {
+    "name": "Protect(N)"
+  },
+  {
+    "name": "Shell Smash (N)"
+  },
+  {
+    "name": "Supersonic(N)"
+  },
+  {
+    "name": "Spikes(N)"
+  },
+  {
+    "name": "Withdraw(N)"
+  },
+  {
+    "name": "## Page 447"
+  },
+  {
+    "name": "Crabhammer",
+    "type": "Water"
+  },
+  {
+    "name": "X-Scis­"
+  },
+  {
+    "name": "sor"
+  },
+  {
+    "name": "## Page 449"
+  },
+  {
+    "name": "Chip"
+  },
+  {
+    "name": "Away"
+  },
+  {
+    "name": "## Page 451"
+  },
+  {
+    "name": "## Page 452"
+  },
+  {
+    "name": "Rapid Spin(N)"
+  },
+  {
+    "name": "Recover(N)"
+  },
+  {
+    "name": "Swift(N)"
+  },
+  {
+    "name": "Water Gun(N)"
+  },
+  {
+    "name": "## Page 453"
+  },
+  {
+    "name": "core"
+  },
+  {
+    "name": "Zen Head­"
+  },
+  {
+    "name": "butt"
+  },
+  {
+    "name": "Aqua Jet(N)"
+  },
+  {
+    "name": "## Page 455"
+  },
+  {
+    "name": "## Page 457"
+  },
+  {
+    "name": "Icy Wind(N)"
+  },
+  {
+    "name": "Signal Beam(N)"
+  },
+  {
+    "name": "## Page 459"
+  },
+  {
+    "name": "Trump"
+  },
+  {
+    "name": "Card"
+  },
+  {
+    "name": "## Page 461"
+  },
+  {
+    "name": "eroo"
+  },
+  {
+    "name": "## Page 463"
+  },
+  {
+    "name": "Octazooka",
+    "type": "Water"
+  },
+  {
+    "name": "Gunk Shot(N)"
+  },
+  {
+    "name": "## Page 465"
+  },
+  {
+    "name": "Psybeam(N)"
+  },
+  {
+    "name": "## Page 467"
+  },
+  {
+    "name": "Thrash(N)"
+  },
+  {
+    "name": "Type: Water/Dark"
+  },
+  {
+    "name": "## Page 469"
+  },
+  {
+    "name": "Wrap(N)"
+  },
+  {
+    "name": "## Page 471"
+  },
+  {
+    "name": "## Page 473"
+  },
+  {
+    "name": "Aura Sphere (N)"
+  },
+  {
+    "name": "Dark Pulse (N)"
+  },
+  {
+    "name": "## Page 475"
+  },
+  {
+    "name": "Freeze-Dry",
+    "type": "Ice"
+  },
+  {
+    "name": "Sheer"
+  },
+  {
+    "name": "Cold (N)"
+  },
+  {
+    "name": "Ability: Refrigerate"
+  },
+  {
+    "name": "+4 Sp."
+  },
+  {
+    "name": "## Page 477"
+  },
+  {
+    "name": "## Page 478"
+  },
+  {
+    "name": "Superpower(N)"
+  },
+  {
+    "name": "## Page 480"
+  },
+  {
+    "name": "Crunch (N)"
+  },
+  {
+    "name": "fense (N)"
+  },
+  {
+    "name": "## Page 482"
+  },
+  {
+    "name": "## Page 483"
+  },
+  {
+    "name": "Magnet­"
+  },
+  {
+    "name": "ic Flux (N)"
+  },
+  {
+    "name": "## Page 484"
+  },
+  {
+    "name": "Ability: Intimidate"
+  },
+  {
+    "name": "+3 Sp. Atk"
+  },
+  {
+    "name": "## Page 486"
+  },
+  {
+    "name": "## Page 488"
+  },
+  {
+    "name": "Parabolic Charge",
+    "type": "Electric"
+  },
+  {
+    "name": "Electrify",
+    "type": "Electric"
+  },
+  {
+    "name": "Fire­"
+  },
+  {
+    "name": "## Page 490"
+  },
+  {
+    "name": "Night"
+  },
+  {
+    "name": "Shade (N)"
+  },
+  {
+    "name": "Tailwind (N)"
+  },
+  {
+    "name": "Teleport (N)"
+  },
+  {
+    "name": "## Page 492"
+  },
+  {
+    "name": "Heart Stamp"
+  },
+  {
+    "name": "## Page 494"
+  },
+  {
+    "name": "## Page 496"
+  },
+  {
+    "name": "Lucky Chant(N)"
+  },
+  {
+    "name": "## Page 498"
+  },
+  {
+    "name": "Wonder Room (N)"
+  },
+  {
+    "name": "## Page 500"
+  },
+  {
+    "name": "Teleki­"
+  },
+  {
+    "name": "nesis"
+  },
+  {
+    "name": "Nightmare(N)"
+  },
+  {
+    "name": "Sig­"
+  },
+  {
+    "name": "nal Beam"
+  },
+  {
+    "name": "## Page 502"
+  },
+  {
+    "name": "Lovely Kiss",
+    "type": "Normal"
+  },
+  {
+    "name": "Draining Kiss (N)"
+  },
+  {
+    "name": "Perish Song (N)"
+  },
+  {
+    "name": "## Page 504"
+  },
+  {
+    "name": "MIME JR."
+  },
+  {
+    "name": "Type : Psychic / Fairy"
+  },
+  {
+    "name": "Basic Ability 1: Soundproof"
+  },
+  {
+    "name": "Basic Ability 2: Filter"
+  },
+  {
+    "name": "Adv Ability 1: Technician"
+  },
+  {
+    "name": "Adv Ability 2: Copy Master"
+  },
+  {
+    "name": "High Ability: Wallmaster"
+  },
+  {
+    "name": "- Mime Jr."
+  },
+  {
+    "name": "- Mr. Mime Learn Mimic"
+  },
+  {
+    "name": "Weight : 28.7 lbs. / 13kg (2)"
+  },
+  {
+    "name": "Gender Ratio  : 50% M / 50% F"
+  },
+  {
+    "name": "Egg Group : Humanshape"
+  },
+  {
+    "name": "Average Hatch Rate: 13 Days"
+  },
+  {
+    "name": "Diet : Omnivore"
+  },
+  {
+    "name": "Overland 3"
+  },
+  {
+    "name": "Athl 2d6+1"
+  },
+  {
+    "name": "Acro 3d6+1"
+  },
+  {
+    "name": "Stealth 2d6+1"
+  },
+  {
+    "name": "Percep 2d6"
+  },
+  {
+    "name": "Focus 3d6+1"
+  },
+  {
+    "name": "Teeter"
+  },
+  {
+    "name": "Healing Wish (N)"
+  },
+  {
+    "name": "Synchronoise (N)"
+  },
+  {
+    "name": "## Page 508"
+  },
+  {
+    "name": "Hidden Pow­"
+  },
+  {
+    "name": "(M) Helping Hand (N)"
+  },
+  {
+    "name": "(M) Mean Look (N)"
+  },
+  {
+    "name": "(M)"
+  },
+  {
+    "name": "Quick Guard (N)"
+  },
+  {
+    "name": "(F) Magical Leaf (N)"
+  },
+  {
+    "name": "(F) Me First"
+  },
+  {
+    "name": "(F) Stored Power (N)"
+  },
+  {
+    "name": "## Page 512"
+  },
+  {
+    "name": "Hi Jump Kick",
+    "type": "Fighting"
+  },
+  {
+    "name": "Mind"
+  },
+  {
+    "name": "Reader"
+  },
+  {
+    "name": "Mega Kick (N)"
+  },
+  {
+    "name": "Rever­"
+  },
+  {
+    "name": "sal (N)"
+  },
+  {
+    "name": "## Page 514"
+  },
+  {
+    "name": "Comet"
+  },
+  {
+    "name": "Counter (N)"
+  },
+  {
+    "name": "## Page 515"
+  },
+  {
+    "name": "Triple Kick",
+    "type": "Fighting"
+  },
+  {
+    "name": "Endeavor (N)"
+  },
+  {
+    "name": "Rolling Kick(N)"
+  },
+  {
+    "name": "## Page 516"
+  },
+  {
+    "name": "Fling(N)"
+  },
+  {
+    "name": "## Page 518"
+  },
+  {
+    "name": "## Page 520"
+  },
+  {
+    "name": "Brine(N)"
+  },
+  {
+    "name": "## Page 522"
+  },
+  {
+    "name": "Zen Headbutt (N)"
+  },
+  {
+    "name": "Ability: Pure Power"
+  },
+  {
+    "name": "## Page 524"
+  },
+  {
+    "name": "Circle"
+  },
+  {
+    "name": "Throw"
+  },
+  {
+    "name": "Dark Pulse(N)"
+  },
+  {
+    "name": "Detect(N)"
+  },
+  {
+    "name": "Extreme Speed (N)"
+  },
+  {
+    "name": "Metal Claw(N)"
+  },
+  {
+    "name": "## Page 526"
+  },
+  {
+    "name": "Parting Shot"
+  },
+  {
+    "name": "## Page 528"
+  },
+  {
+    "name": "Psycho"
+  },
+  {
+    "name": "Shift"
+  },
+  {
+    "name": "Haze(N)"
+  },
+  {
+    "name": "Pursuit(N)"
+  },
+  {
+    "name": "Sucker Punch (N)"
+  },
+  {
+    "name": "Wing Attack(N)"
+  },
+  {
+    "name": "## Page 530"
+  },
+  {
+    "name": "Bone Rush (N)"
+  },
+  {
+    "name": "Mirror Move (N)"
+  },
+  {
+    "name": "## Page 532"
+  },
+  {
+    "name": "## Page 534"
+  },
+  {
+    "name": "Inferno (N)"
+  },
+  {
+    "name": "Plot (N)"
+  },
+  {
+    "name": "Ability: Solar Power"
+  },
+  {
+    "name": "Stats: +4 Def"
+  },
+  {
+    "name": "## Page 536"
+  },
+  {
+    "name": "Em­"
+  },
+  {
+    "name": "bargo"
+  },
+  {
+    "name": "Thief (N)"
+  },
+  {
+    "name": "## Page 538"
+  },
+  {
+    "name": "## Page 540"
+  },
+  {
+    "name": "Hit"
+  },
+  {
+    "name": "Assurance(N)"
+  },
+  {
+    "name": "Embargo(N)"
+  },
+  {
+    "name": "Taunt(N)"
+  },
+  {
+    "name": "## Page 542"
+  },
+  {
+    "name": "Iron Head (N)"
+  },
+  {
+    "name": "## Page 544"
+  },
+  {
+    "name": "Night Daze",
+    "type": "Dark"
+  },
+  {
+    "name": "Night Daze (N)"
+  },
+  {
+    "name": "U-turn(N)"
+  },
+  {
+    "name": "## Page 546"
+  },
+  {
+    "name": "Topsy-Turvy",
+    "type": "Dark"
+  },
+  {
+    "name": "Sim­"
+  },
+  {
+    "name": "ple Beam"
+  },
+  {
+    "name": "power (N)"
+  },
+  {
+    "name": "## Page 548"
+  },
+  {
+    "name": "Lucky Chant (N)"
+  },
+  {
+    "name": "Mystical Fire (N)"
+  },
+  {
+    "name": "Phantom Force (N)"
+  },
+  {
+    "name": "Power Gem (N)"
+  },
+  {
+    "name": "Psywave (N)"
+  },
+  {
+    "name": "## Page 550"
+  },
+  {
+    "name": "Sneak"
+  },
+  {
+    "name": "Ability: Prankster"
+  },
+  {
+    "name": "## Page 552"
+  },
+  {
+    "name": "Destiny"
+  },
+  {
+    "name": "Bond"
+  },
+  {
+    "name": "## Page 554"
+  },
+  {
+    "name": "Night­"
+  },
+  {
+    "name": "mare"
+  },
+  {
+    "name": "## Page 556"
+  },
+  {
+    "name": "Horn"
+  },
+  {
+    "name": "Leech (N)"
+  },
+  {
+    "name": "## Page 558"
+  },
+  {
+    "name": "Trick-or-Treat",
+    "type": "Ghost"
+  },
+  {
+    "name": "charge"
+  },
+  {
+    "name": "Will-o"
+  },
+  {
+    "name": "Small"
+  },
+  {
+    "name": "Average"
+  },
+  {
+    "name": "Large"
+  },
+  {
+    "name": "Super Size"
+  },
+  {
+    "name": "Flame charge"
+  },
+  {
+    "name": "Explosion (N)"
+  },
+  {
+    "name": "## Page 560"
+  },
+  {
+    "name": "Aromatic Mist (N)"
+  },
+  {
+    "name": "## Page 562"
+  },
+  {
+    "name": "## Page 564"
+  },
+  {
+    "name": "Disarming"
+  },
+  {
+    "name": "Fury Swipes(N)"
+  },
+  {
+    "name": "Leer(N)"
+  },
+  {
+    "name": "Lick(N)"
+  },
+  {
+    "name": "Seed Bomb(N)"
+  },
+  {
+    "name": "Syn­"
+  },
+  {
+    "name": "thesis"
+  },
+  {
+    "name": "## Page 566"
+  },
+  {
+    "name": "Burst(N)"
+  },
+  {
+    "name": "## Page 568"
+  },
+  {
+    "name": "Scald(N)"
+  },
+  {
+    "name": "## Page 570"
+  },
+  {
+    "name": "FARFETCH’D"
+  },
+  {
+    "name": "Type : Normal / Flying"
+  },
+  {
+    "name": "Basic Ability 1: Keen Eye"
+  },
+  {
+    "name": "Basic Ability 2: Inner Focus"
+  },
+  {
+    "name": "Adv Ability 1: Defiant"
+  },
+  {
+    "name": "Adv Ability 2: Super Luck"
+  },
+  {
+    "name": "High Ability: Leek Mastery"
+  },
+  {
+    "name": "- Farfetch’d"
+  },
+  {
+    "name": "Height : 2’ 7” / 0.8m (Small)"
+  },
+  {
+    "name": "Weight : 33.1 lbs. / 15kg (2)"
+  },
+  {
+    "name": "Egg Group : Flying / Field"
+  },
+  {
+    "name": "Habitat  : Freshwater"
+  },
+  {
+    "name": "Marsh"
+  },
+  {
+    "name": "Sky 7"
+  },
+  {
+    "name": "Jump 2/2"
+  },
+  {
+    "name": "Power 3"
+  },
+  {
+    "name": "Un­"
+  },
+  {
+    "name": "derdog"
+  },
+  {
+    "name": "Wielder"
+  },
+  {
+    "name": "Athl 4d6+1"
+  },
+  {
+    "name": "Acro 4d6+2"
+  },
+  {
+    "name": "Combat 4d6"
+  },
+  {
+    "name": "Stealth 4d6+2"
+  },
+  {
+    "name": "Percep 4d6+2"
+  },
+  {
+    "name": "Focus 3d6+2"
+  },
+  {
+    "name": "Chatter",
+    "type": "Flying"
+  },
+  {
+    "name": "Chatter (N)"
+  },
+  {
+    "name": "Hyper Voice (N)"
+  },
+  {
+    "name": "Taunt (N)"
+  },
+  {
+    "name": "sal"
+  },
+  {
+    "name": "## Page 575"
+  },
+  {
+    "name": "Head Charge",
+    "type": "Normal"
+  },
+  {
+    "name": "First (N)"
+  },
+  {
+    "name": "Last Resort (N)"
+  },
+  {
+    "name": "Misty Terrain (N)"
+  },
+  {
+    "name": "Type: Normal / Fairy"
+  },
+  {
+    "name": "Ability: Healer"
+  },
+  {
+    "name": "+2 Sp."
+  },
+  {
+    "name": "+4 Sp. Def"
+  },
+  {
+    "name": "Thief(N)"
+  },
+  {
+    "name": "Sun­"
+  },
+  {
+    "name": "ny Day"
+  },
+  {
+    "name": "Sketch",
+    "type": "Normal"
+  },
+  {
+    "name": "Ability: Parental Bond"
+  },
+  {
+    "name": "Metal Sound (N)"
+  },
+  {
+    "name": "Storm Throw",
+    "type": "Fighting"
+  },
+  {
+    "name": "Type: Bug/Flying"
+  },
+  {
+    "name": "Ability: Aerilate"
+  },
+  {
+    "name": "Arm Thrust (N)"
+  },
+  {
+    "name": "Bullet Seed (N)"
+  },
+  {
+    "name": "Endure(N)"
+  },
+  {
+    "name": "Slash (N)"
+  },
+  {
+    "name": "Ability: Skill Link"
+  },
+  {
+    "name": "Grassy"
+  },
+  {
+    "name": "Hammer"
+  },
+  {
+    "name": "Cotton Guard (N)"
+  },
+  {
+    "name": "Spiky Shield (N)"
+  },
+  {
+    "name": "Bestow (N)"
+  },
+  {
+    "name": "Leaf Storm (N)"
+  },
+  {
+    "name": "Natural Gift (N)"
+  },
+  {
+    "name": "Protect (N)"
+  },
+  {
+    "name": "Hone Claws (N)"
+  },
+  {
+    "name": "Flail (N)"
+  },
+  {
+    "name": "Zen Heabutt"
+  },
+  {
+    "name": "Calm"
+  },
+  {
+    "name": "Skull"
+  },
+  {
+    "name": "Bash"
+  },
+  {
+    "name": "Head Smash (N)"
+  },
+  {
+    "name": "Pump (N)"
+  },
+  {
+    "name": "Mud Sport (N)"
+  },
+  {
+    "name": "Water Gun (N)"
+  },
+  {
+    "name": "ter Pulse"
+  },
+  {
+    "name": "grain"
+  },
+  {
+    "name": "sonic"
+  },
+  {
+    "name": "Shard"
+  },
+  {
+    "name": "Haze (N)"
+  },
+  {
+    "name": "Ice Shard (N)"
+  },
+  {
+    "name": "Mist (N)"
+  },
+  {
+    "name": "Guard Swap(N)"
+  },
+  {
+    "name": "Power Swap(N)"
+  },
+  {
+    "name": "Fairy Wind (N)"
+  },
+  {
+    "name": "Ability: Huge Power"
+  },
+  {
+    "name": "Fairy Lock",
+    "type": "Fairy"
+  },
+  {
+    "name": "Crafty Shield",
+    "type": "Fairy"
+  },
+  {
+    "name": "Pun­"
+  },
+  {
+    "name": "ishment"
+  },
+  {
+    "name": "Detect (N)"
+  },
+  {
+    "name": "Me First (N)"
+  },
+  {
+    "name": "Ability: Magic Bounce"
+  },
+  {
+    "name": "+4 Speed"
+  },
+  {
+    "name": "Mean Look (N)"
+  },
+  {
+    "name": "Stats: +1 Atk"
+  },
+  {
+    "name": "+5 Sp. Def"
+  },
+  {
+    "name": "Entrainment (N)"
+  },
+  {
+    "name": "Nasty Plot (N)"
+  },
+  {
+    "name": "Tail Glow",
+    "type": "Bug"
+  },
+  {
+    "name": "Confuse"
+  },
+  {
+    "name": "Ray"
+  },
+  {
+    "name": "Magic Room (N)"
+  },
+  {
+    "name": "Rock Throw (N)"
+  },
+  {
+    "name": "## Page 624"
+  },
+  {
+    "name": "Room (N)"
+  },
+  {
+    "name": "## Page 625"
+  },
+  {
+    "name": "Flying Press",
+    "type": "Fighting"
+  },
+  {
+    "name": "Transform",
+    "type": "Normal"
+  },
+  {
+    "name": "dure"
+  },
+  {
+    "name": "## Page 633"
+  },
+  {
+    "name": "## Page 634"
+  },
+  {
+    "name": "## Page 635"
+  },
+  {
+    "name": "## Page 636"
+  },
+  {
+    "name": "## Page 637"
+  },
+  {
+    "name": "## Page 638"
+  },
+  {
+    "name": "## Page 639"
+  },
+  {
+    "name": "## Page 640"
+  },
+  {
+    "name": "## Page 642"
+  },
+  {
+    "name": "sTutor Move List"
+  },
+  {
+    "name": "## Page 644"
+  },
+  {
+    "name": "Spit Up (N)"
+  },
+  {
+    "name": "Stockpile (N)"
+  },
+  {
+    "name": "Swallow (N)"
+  },
+  {
+    "name": "## Page 646"
+  },
+  {
+    "name": "Crush Claw (N)"
+  },
+  {
+    "name": "## Page 648"
+  },
+  {
+    "name": "on Tail"
+  },
+  {
+    "name": "## Page 650"
+  },
+  {
+    "name": "## Page 652"
+  },
+  {
+    "name": "## Page 654"
+  },
+  {
+    "name": "## Page 656"
+  },
+  {
+    "name": "## Page 660"
+  },
+  {
+    "name": "Twister(N)"
+  },
+  {
+    "name": "## Page 663"
+  },
+  {
+    "name": "Roost(N)"
+  },
+  {
+    "name": "## Page 664"
+  },
+  {
+    "name": "## Page 666"
+  },
+  {
+    "name": "Ability: Sand Stream"
+  },
+  {
+    "name": "## Page 667"
+  },
+  {
+    "name": "## Page 669"
+  },
+  {
+    "name": "Fly",
+    "type": "Flying"
+  },
+  {
+    "name": "## Page 670"
+  },
+  {
+    "name": "## Page 672"
+  },
+  {
+    "name": "## Page 673"
+  },
+  {
+    "name": "## Page 675"
+  },
+  {
+    "name": "## Page 676"
+  },
+  {
+    "name": "Double Hit(N)"
+  },
+  {
+    "name": "## Page 678"
+  },
+  {
+    "name": "Tri Attack(N)"
+  },
+  {
+    "name": "## Page 679"
+  },
+  {
+    "name": "## Page 681"
+  },
+  {
+    "name": "## Page 682"
+  },
+  {
+    "name": "Legendary Pokémon are incredibly rare and powerful Pokémon. The difference in rar­"
+  },
+  {
+    "name": "ity may differ"
+  },
+  {
+    "name": "for example an Articuno"
+  },
+  {
+    "name": "which usually will have at least one per major body of"
+  },
+  {
+    "name": "land"
+  },
+  {
+    "name": "can be found more then once while Palkia and Dialga"
+  },
+  {
+    "name": "the rulers of Time and Space"
+  },
+  {
+    "name": "are"
+  },
+  {
+    "name": "found only once as they are the sole Pokémon who have majority dominion over Time and"
+  },
+  {
+    "name": "Space. It is unlikely that you meet more then one to three Legendary Pokémon during a cam­"
+  },
+  {
+    "name": "paign unless your campagin is specifically about them."
+  },
+  {
+    "name": "The following entries are merely suggestions as to the power level of each Legendary"
+  },
+  {
+    "name": "Pokémon if they are even able to be captured in the campaign you are playing. The default"
+  },
+  {
+    "name": "assumption here is that Legendary Pokémon are merely very rare and powerful rather than"
+  },
+  {
+    "name": "divinity"
+  },
+  {
+    "name": "and the Capabilities and Skills here reflect that. It is entirely possible that a captured"
+  },
+  {
+    "name": "Legendary Pokémon has completely different"
+  },
+  {
+    "name": "unique-to-your-campaign Skills"
+  },
+  {
+    "name": "Capabilities"
+  },
+  {
+    "name": "Abilities or Moves. The Blessed and the Damned Legendary splatbook provides some ideas"
+  },
+  {
+    "name": "and options toward this end if you wish to portray Legendary Pokémon as divine creatures."
+  },
+  {
+    "name": "(Legendary Pokémon have signature Moves. They are marked with a “§” symbol. These Moves are not"
+  },
+  {
+    "name": "always unique to the Legendary"
+  },
+  {
+    "name": "but are used often"
+  },
+  {
+    "name": "as a favorite"
+  },
+  {
+    "name": "of the Legendary.)"
+  },
+  {
+    "name": "Legendary Pokémon"
+  },
+  {
+    "name": "## Page 683"
+  },
+  {
+    "name": "Mew can learn any TM/HM"
+  },
+  {
+    "name": "Mew can be Tutored to learn any Move"
+  },
+  {
+    "name": "## Page 684"
+  },
+  {
+    "name": "Psystrike",
+    "type": "Psychic"
+  },
+  {
+    "name": "Type: Psychic/Fighting"
+  },
+  {
+    "name": "Ability: Steadfast"
+  },
+  {
+    "name": "Stats: +8 Atk"
+  },
+  {
+    "name": "Ability: Insomnia"
+  },
+  {
+    "name": "-2"
+  },
+  {
+    "name": "Def"
+  },
+  {
+    "name": "+3"
+  },
+  {
+    "name": "## Page 685"
+  },
+  {
+    "name": "Techno Blast",
+    "type": "Normal"
+  },
+  {
+    "name": "## Page 686"
+  },
+  {
+    "name": "Magma Storm"
+  },
+  {
+    "name": "Fire Spin (N)"
+  },
+  {
+    "name": "## Page 687"
+  },
+  {
+    "name": "## Page 688"
+  },
+  {
+    "name": "Drill Peck (N)"
+  },
+  {
+    "name": "## Page 689"
+  },
+  {
+    "name": "## Page 690"
+  },
+  {
+    "name": "Discharge (N)"
+  },
+  {
+    "name": "Extrasensory (N)"
+  },
+  {
+    "name": "Zap"
+  },
+  {
+    "name": "## Page 691"
+  },
+  {
+    "name": "Lava Plume (N)"
+  },
+  {
+    "name": "Sacred Fire (N)"
+  },
+  {
+    "name": "## Page 692"
+  },
+  {
+    "name": "## Page 693"
+  },
+  {
+    "name": "Arm (N)"
+  },
+  {
+    "name": "Lock-"
+  },
+  {
+    "name": "On (N)"
+  },
+  {
+    "name": "## Page 694"
+  },
+  {
+    "name": "Lock-On (N)"
+  },
+  {
+    "name": "## Page 695"
+  },
+  {
+    "name": "## Page 696"
+  },
+  {
+    "name": "Crush Grip",
+    "type": "Normal"
+  },
+  {
+    "name": "Crush"
+  },
+  {
+    "name": "Grip (N)"
+  },
+  {
+    "name": "Knock Off (N)"
+  },
+  {
+    "name": "## Page 697"
+  },
+  {
+    "name": "Work Up (N)"
+  },
+  {
+    "name": "## Page 698"
+  },
+  {
+    "name": "## Page 699"
+  },
+  {
+    "name": "Leaf Blade (N)"
+  },
+  {
+    "name": "## Page 700"
+  },
+  {
+    "name": "## Page 701"
+  },
+  {
+    "name": "Memento (N)"
+  },
+  {
+    "name": "## Page 702"
+  },
+  {
+    "name": "Copycat (N)"
+  },
+  {
+    "name": "## Page 703"
+  },
+  {
+    "name": "## Page 704"
+  },
+  {
+    "name": "TORNADUS      Incarnate Forme"
+  },
+  {
+    "name": "Type : Flying"
+  },
+  {
+    "name": "Basic Ability 1: Prankster"
+  },
+  {
+    "name": "Adv Ability 1: Frisk"
+  },
+  {
+    "name": "Adv Ability 2: Pride"
+  },
+  {
+    "name": "Adv Ability 3: Windveiled"
+  },
+  {
+    "name": "High Ability: Drizzle"
+  },
+  {
+    "name": "Height : 4’ 11” / 1.5m (Large)"
+  },
+  {
+    "name": "Weight : 138.9 lbs. / 63kg (4)"
+  },
+  {
+    "name": "Egg Group     : None"
+  },
+  {
+    "name": "Average Hatch Rate: 40 Days"
+  },
+  {
+    "name": "Habitat  : Mountain"
+  },
+  {
+    "name": "Overland 5"
+  },
+  {
+    "name": "Swim 5"
+  },
+  {
+    "name": "Sky 8"
+  },
+  {
+    "name": "Power 6"
+  },
+  {
+    "name": "Guster"
+  },
+  {
+    "name": "Zapper"
+  },
+  {
+    "name": "Therian Forme*"
+  },
+  {
+    "name": "Athl 4d6"
+  },
+  {
+    "name": "Acro 5d6+3"
+  },
+  {
+    "name": "Stealth 6d6+3"
+  },
+  {
+    "name": "Percep 4d6"
+  },
+  {
+    "name": "*Therian Forme: The User changes to its Therian"
+  },
+  {
+    "name": "Forme if holding a Reveal Glass"
+  },
+  {
+    "name": "and uses its Incar­"
+  },
+  {
+    "name": "nate Form otherise."
+  },
+  {
+    "name": "## Page 705"
+  },
+  {
+    "name": "TORNADUS       Therian Forme"
+  },
+  {
+    "name": "Basic Ability 1: Regenerator"
+  },
+  {
+    "name": "Overland 6"
+  },
+  {
+    "name": "Swim 3"
+  },
+  {
+    "name": "Sky 10"
+  },
+  {
+    "name": "Power 7"
+  },
+  {
+    "name": "Mountable 1"
+  },
+  {
+    "name": "Athl 4d6+3"
+  },
+  {
+    "name": "Acro 4d6"
+  },
+  {
+    "name": "Combat 5d6+3"
+  },
+  {
+    "name": "d6+3"
+  },
+  {
+    "name": "## Page 706"
+  },
+  {
+    "name": "THUNDURUS     Incarnate Forme"
+  },
+  {
+    "name": "Type : Electric / Flying"
+  },
+  {
+    "name": "Adv Ability 3: Lightning Rod"
+  },
+  {
+    "name": "Weight :  134.5lbs. / 61kg (4)"
+  },
+  {
+    "name": "Charge (N)"
+  },
+  {
+    "name": "## Page 707"
+  },
+  {
+    "name": "THUNDURUS     Therian Forme"
+  },
+  {
+    "name": "Basic Ability 1: Volt Absorb"
+  },
+  {
+    "name": "## Page 708"
+  },
+  {
+    "name": "LANDORUS        Incarnate Forme"
+  },
+  {
+    "name": "Type : Ground / Flying"
+  },
+  {
+    "name": "Basic Ability 1: Intimidate"
+  },
+  {
+    "name": "Adv Ability 2: Defiant"
+  },
+  {
+    "name": "Adv Ability 3: Run Away"
+  },
+  {
+    "name": "High Ability: Healer"
+  },
+  {
+    "name": "Weight : 149.9 lbs. / 68kg (4)"
+  },
+  {
+    "name": "Habitat  : Mountian"
+  },
+  {
+    "name": "Groundshaper"
+  },
+  {
+    "name": "Therian Forme"
+  },
+  {
+    "name": "## Page 709"
+  },
+  {
+    "name": "LANDORUS       Therian Forme"
+  },
+  {
+    "name": "Basic Ability 1: Sand Force"
+  },
+  {
+    "name": "Overland 8"
+  },
+  {
+    "name": "Swim 6"
+  },
+  {
+    "name": "Jump 3/3"
+  },
+  {
+    "name": "Power 8"
+  },
+  {
+    "name": "Tremorsense"
+  },
+  {
+    "name": "Athl 6d6+3"
+  },
+  {
+    "name": "Percep 5d6"
+  },
+  {
+    "name": "## Page 710"
+  },
+  {
+    "name": "Aeroblast",
+    "type": "Flying"
+  },
+  {
+    "name": "## Page 711"
+  },
+  {
+    "name": "Sacred Fire",
+    "type": "Fire"
+  },
+  {
+    "name": "## Page 712"
+  },
+  {
+    "name": "Mist Ball",
+    "type": "Psychic"
+  },
+  {
+    "name": "Charm (N)"
+  },
+  {
+    "name": "Guard Split (N)"
+  },
+  {
+    "name": "Pulse (N)"
+  },
+  {
+    "name": "Type (N)"
+  },
+  {
+    "name": "Ability: Levitate"
+  },
+  {
+    "name": "## Page 713"
+  },
+  {
+    "name": "Luster Purge",
+    "type": "Psychic"
+  },
+  {
+    "name": "Power Split (N)"
+  },
+  {
+    "name": "Telekinesis (N)"
+  },
+  {
+    "name": "## Page 714"
+  },
+  {
+    "name": "## Page 715"
+  },
+  {
+    "name": "Heart Swap",
+    "type": "Psychic"
+  },
+  {
+    "name": "## Page 716"
+  },
+  {
+    "name": "## Page 717"
+  },
+  {
+    "name": "Doom Desire",
+    "type": "Steel"
+  },
+  {
+    "name": "## Page 718"
+  },
+  {
+    "name": "§ Searing Shot"
+  },
+  {
+    "name": "§ V"
+  },
+  {
+    "name": "## Page 719"
+  },
+  {
+    "name": "SHAYMIN  Land Forme"
+  },
+  {
+    "name": "Type : Grass"
+  },
+  {
+    "name": "Basic Ability 1: Natural Cure"
+  },
+  {
+    "name": "Adv Ability 1: Leaf Guard"
+  },
+  {
+    "name": "Adv Ability 2: Sol Veil"
+  },
+  {
+    "name": "Adv Ability 3: Flower Veil"
+  },
+  {
+    "name": "High Ability: Magic Guard"
+  },
+  {
+    "name": "Height : 0’ 8” / 0.2m (Small)"
+  },
+  {
+    "name": "Weight : 4.6 lbs. / 2.1kg (1)"
+  },
+  {
+    "name": "Average Hatch Rate: 75 Days"
+  },
+  {
+    "name": "Diet : Phototroph"
+  },
+  {
+    "name": "Overland 7"
+  },
+  {
+    "name": "Swim 4"
+  },
+  {
+    "name": "Burrow 4"
+  },
+  {
+    "name": "Sprouter"
+  },
+  {
+    "name": "Sky Forme*"
+  },
+  {
+    "name": "Forme Change"
+  },
+  {
+    "name": "Athl 3d6"
+  },
+  {
+    "name": "Stealth 5d6+2"
+  },
+  {
+    "name": "§\t 73  Energy Ball"
+  },
+  {
+    "name": "§\t 100 Seed Flare"
+  },
+  {
+    "name": "*Sky Forme"
+  },
+  {
+    "name": "Shaymin can transform into its Sky Forme in"
+  },
+  {
+    "name": "sunlight when it has Gracidea"
+  },
+  {
+    "name": "a rare type of flower"
+  },
+  {
+    "name": "nearby. Shaymin will be forced to revert into its"
+  },
+  {
+    "name": "normal form if it is hit by an Ice Type Move"
+  },
+  {
+    "name": "if it"
+  },
+  {
+    "name": "touches ice or if the sun is no longer shining"
+  },
+  {
+    "name": "## Page 720"
+  },
+  {
+    "name": "SHAYMIN  Sky Forme"
+  },
+  {
+    "name": "Type : Grass / Flying"
+  },
+  {
+    "name": "Basic Ability 1: Serene Grace"
+  },
+  {
+    "name": "Adv Ability 3: Rocket"
+  },
+  {
+    "name": "High Ability: Leaf Rush"
+  },
+  {
+    "name": "Height : 1’ 4” / 0.4m (Small)"
+  },
+  {
+    "name": "Weight : 11.5 lbs. / 5.2kg (1)"
+  },
+  {
+    "name": "Acro 5d6+2"
+  },
+  {
+    "name": "Stealth 3d6"
+  },
+  {
+    "name": "Percep 3d6+1"
+  },
+  {
+    "name": "## Page 721"
+  },
+  {
+    "name": "Diamond Storm",
+    "type": "Rock"
+  },
+  {
+    "name": "-4 Def"
+  },
+  {
+    "name": "+6 Sp. Atk"
+  },
+  {
+    "name": "-4 Sp. Def"
+  },
+  {
+    "name": "+6 Speed"
+  },
+  {
+    "name": "## Page 722"
+  },
+  {
+    "name": "MELOETTA  Aria Form"
+  },
+  {
+    "name": "Type : Normal / Psychic"
+  },
+  {
+    "name": "Adv Ability 1: Soundproof"
+  },
+  {
+    "name": "Adv Ability 2: Drown Out"
+  },
+  {
+    "name": "Adv Ability 3: Own Tempo"
+  },
+  {
+    "name": "High Ability: Lullaby"
+  },
+  {
+    "name": "Rainforest"
+  },
+  {
+    "name": "Forme"
+  },
+  {
+    "name": "Change"
+  },
+  {
+    "name": "Focus 4d6+2"
+  },
+  {
+    "name": "§ Relic Song"
+  },
+  {
+    "name": "## Page 723"
+  },
+  {
+    "name": "MELOETTA  Step Form"
+  },
+  {
+    "name": "Type : Normal / Fighting"
+  },
+  {
+    "name": "Adv Ability 2: Spining Dance"
+  },
+  {
+    "name": "## Page 724"
+  },
+  {
+    "name": "DEOXYS   Normal Forme"
+  },
+  {
+    "name": "Type : Psychic"
+  },
+  {
+    "name": "Basic Ability 1: Pressure"
+  },
+  {
+    "name": "Adv Ability 1: Download"
+  },
+  {
+    "name": "Adv Ability 2: Perception"
+  },
+  {
+    "name": "Adv Ability 3: Symbiosis"
+  },
+  {
+    "name": "High Ability: Transporter"
+  },
+  {
+    "name": "Height : 5’ 7” / 1.7m (Medium)"
+  },
+  {
+    "name": "Weight : 134 lbs. / 60.8kg (4)"
+  },
+  {
+    "name": "Habitat  : Cave"
+  },
+  {
+    "name": "Multiform*"
+  },
+  {
+    "name": "Focus 5d6"
+  },
+  {
+    "name": "§\t 61  Recover"
+  },
+  {
+    "name": "§\t 67  Psycho Boost"
+  },
+  {
+    "name": "§\t 73  Hyper Beam"
+  },
+  {
+    "name": "Multiform"
+  },
+  {
+    "name": "Deoxys may change into its different forms at-will as"
+  },
+  {
+    "name": "an Extended Action outside of battle."
+  },
+  {
+    "name": "## Page 725"
+  },
+  {
+    "name": "DEOXYS   Attack Forme"
+  },
+  {
+    "name": "Type     : Psychic"
+  },
+  {
+    "name": "Basic Ability 1: Weird Power"
+  },
+  {
+    "name": "Combat 6d6+2"
+  },
+  {
+    "name": "Percep 3d6"
+  },
+  {
+    "name": "§\t 37  Superpower"
+  },
+  {
+    "name": "an Extended Action outside of battle. Prepare stats"
+  },
+  {
+    "name": "for its four forms if you intend to use a Deoxys."
+  },
+  {
+    "name": "## Page 726"
+  },
+  {
+    "name": "DEOXYS   Defense Forme"
+  },
+  {
+    "name": "Basic Ability 1: Sturdy"
+  },
+  {
+    "name": "Sky 6"
+  },
+  {
+    "name": "Power 9"
+  },
+  {
+    "name": "Athl 6d6+2"
+  },
+  {
+    "name": "§\t 73  Counter"
+  },
+  {
+    "name": "§\t 73  Mirror Coat"
+  },
+  {
+    "name": "## Page 727"
+  },
+  {
+    "name": "DEOXYS   Speed Forme"
+  },
+  {
+    "name": "Basic Ability 1: Speed Boost"
+  },
+  {
+    "name": "Overland 11"
+  },
+  {
+    "name": "Sky 9"
+  },
+  {
+    "name": "Acro 6d6+2"
+  },
+  {
+    "name": "§\t 73  Extreme Speed"
+  },
+  {
+    "name": "## Page 728"
+  },
+  {
+    "name": "Dark Void",
+    "type": "Dark"
+  },
+  {
+    "name": "Dark Void (N)"
+  },
+  {
+    "name": "## Page 729"
+  },
+  {
+    "name": "Lunar Dance",
+    "type": "Psychic"
+  },
+  {
+    "name": "Lunar Dance (N)"
+  },
+  {
+    "name": "Psycho Cut (N)"
+  },
+  {
+    "name": "Shift (N)"
+  },
+  {
+    "name": "## Page 730"
+  },
+  {
+    "name": "Origin Pulse",
+    "type": "Water"
+  },
+  {
+    "name": "Ability: Wash Away"
+  },
+  {
+    "name": "## Page 731"
+  },
+  {
+    "name": "Precipice Blades",
+    "type": "Ground"
+  },
+  {
+    "name": "Type: Ground/Fire"
+  },
+  {
+    "name": "Ability: Heat Mirage"
+  },
+  {
+    "name": "## Page 732"
+  },
+  {
+    "name": "Dragon Ascent"
+  },
+  {
+    "name": "Ability: Run Away"
+  },
+  {
+    "name": "## Page 733"
+  },
+  {
+    "name": "Fusion Flare",
+    "type": "Fire"
+  },
+  {
+    "name": "Blue Flare",
+    "type": "Fire"
+  },
+  {
+    "name": "## Page 734"
+  },
+  {
+    "name": "Fusion Bolt",
+    "type": "Electric"
+  },
+  {
+    "name": "Bolt Strike",
+    "type": "Electric"
+  },
+  {
+    "name": "## Page 735"
+  },
+  {
+    "name": "Glaciate",
+    "type": "Ice"
+  },
+  {
+    "name": "Dragon Fusion: The user can merge with a willing"
+  },
+  {
+    "name": "Zekrom as an Extended Action to turn into the Zekrom"
+  },
+  {
+    "name": "Fusion  Forme"
+  },
+  {
+    "name": "and with a willing Reshiram to turn into"
+  },
+  {
+    "name": "its Reshiram Fusion Forme. The respective Zekrom and"
+  },
+  {
+    "name": "Reshiram are absorbed and disappear while Fused. The"
+  },
+  {
+    "name": "user may unmerge as an Extended Action"
+  },
+  {
+    "name": "and its partner"
+  },
+  {
+    "name": "then reappears. All XP earned while Fused is split evenly"
+  },
+  {
+    "name": "between Kyurem and its partner."
+  },
+  {
+    "name": "## Page 736"
+  },
+  {
+    "name": "KYUREM      Zekrom Fusion Forme"
+  },
+  {
+    "name": "Type : Dragon / Ice"
+  },
+  {
+    "name": "Basic Ability 1: Teravolt"
+  },
+  {
+    "name": "Adv Ability 1: Motor Drive"
+  },
+  {
+    "name": "Adv Ability 2: Hydration"
+  },
+  {
+    "name": "Adv Ability 3: Discipline"
+  },
+  {
+    "name": "High Ability: Inner Focus"
+  },
+  {
+    "name": "Height : 9’ 10” / 3m (Gigantic)"
+  },
+  {
+    "name": "Weight : 716.5 lbs. / 325kg (6)"
+  },
+  {
+    "name": "Habitat  : Non Space"
+  },
+  {
+    "name": "Power 10"
+  },
+  {
+    "name": "Aura Reader"
+  },
+  {
+    "name": "Chilled"
+  },
+  {
+    "name": "Freezer"
+  },
+  {
+    "name": "Athl 6d6"
+  },
+  {
+    "name": "Combat 4d6+4"
+  },
+  {
+    "name": "§\t 43  Fusion Bolt"
+  },
+  {
+    "name": "§\t 50  Freeze Shock"
+  },
+  {
+    "name": "§\t 78  Blizzard"
+  },
+  {
+    "name": "## Page 737"
+  },
+  {
+    "name": "KYUREM       Reshiram Fusion Forme"
+  },
+  {
+    "name": "Basic Ability 1: Turboblaze"
+  },
+  {
+    "name": "Adv Ability 1: Flash Fire"
+  },
+  {
+    "name": "Adv Ability 2: Sun Blanket"
+  },
+  {
+    "name": "§\t 43  Fusion Flare"
+  },
+  {
+    "name": "§\t 50  Ice Burn"
+  },
+  {
+    "name": "## Page 738"
+  },
+  {
+    "name": "Roar of Time",
+    "type": "Dragon"
+  },
+  {
+    "name": "## Page 739"
+  },
+  {
+    "name": "Spacial Rend",
+    "type": "Dragon"
+  },
+  {
+    "name": "## Page 740"
+  },
+  {
+    "name": "GIRATINA  Origin Forme"
+  },
+  {
+    "name": "Type : Ghost / Dragon"
+  },
+  {
+    "name": "Basic Ability 1: Levitate"
+  },
+  {
+    "name": "Adv Ability 1: Bully"
+  },
+  {
+    "name": "Adv Ability 2: Telepathy"
+  },
+  {
+    "name": "Adv Ability 3: Prime Fury"
+  },
+  {
+    "name": "High Ability: Soulstealer"
+  },
+  {
+    "name": "Height : 22’ 8” / 6.9m (Gigantic)"
+  },
+  {
+    "name": "Weight : 1433 lbs. / 650kg (6)"
+  },
+  {
+    "name": "Swim 7"
+  },
+  {
+    "name": "Burrow 3"
+  },
+  {
+    "name": "Power 14"
+  },
+  {
+    "name": "Darkvision"
+  },
+  {
+    "name": "Origin Forme*"
+  },
+  {
+    "name": "Mountable 2"
+  },
+  {
+    "name": "Acro 5d6"
+  },
+  {
+    "name": "Combat 5d6"
+  },
+  {
+    "name": "d6+1"
+  },
+  {
+    "name": "Focus 5d6+2"
+  },
+  {
+    "name": "§\t 37  Aura Sphere"
+  },
+  {
+    "name": "§\t 46  Shadow Force"
+  },
+  {
+    "name": "*Origin Forme"
+  },
+  {
+    "name": "Giratina is in its Origin Forme when in the Reverse"
+  },
+  {
+    "name": "World or when it holds part of Reverse World with"
+  },
+  {
+    "name": "in"
+  },
+  {
+    "name": "outside of the Reverse World. Otherwise"
+  },
+  {
+    "name": "Giratina"
+  },
+  {
+    "name": "changes into its Altered Forme."
+  },
+  {
+    "name": "## Page 741"
+  },
+  {
+    "name": "GIRATINA  Altered Forme"
+  },
+  {
+    "name": "Height : 14’ 9” / 4.5m (Gigantic)"
+  },
+  {
+    "name": "Weight : 1653.5 lbs. / 750kg (6)"
+  },
+  {
+    "name": "Origin Forme"
+  },
+  {
+    "name": "Stealth 3d6+1"
+  },
+  {
+    "name": "## Page 742"
+  },
+  {
+    "name": "Geomancy",
+    "type": "Fairy"
+  },
+  {
+    "name": "## Page 743"
+  },
+  {
+    "name": "Oblivion Wing",
+    "type": "Flying"
+  },
+  {
+    "name": "## Page 744"
+  },
+  {
+    "name": "## Page 745"
+  },
+  {
+    "name": "Judgment",
+    "type": "Normal"
+  },
+  {
+    "name": "## Page 746"
+  },
+  {
+    "name": "HOOPA Confined"
+  },
+  {
+    "name": "Type : Psychic / Ghost"
+  },
+  {
+    "name": "Basic Ability 1: Magician"
+  },
+  {
+    "name": "Adv Ability 1: Prankster"
+  },
+  {
+    "name": "Adv Ability 2: Run Away"
+  },
+  {
+    "name": "Adv Ability 3: Bully"
+  },
+  {
+    "name": "High Ability: Handyman"
+  },
+  {
+    "name": "Height : 1’8” / .051m (Small)"
+  },
+  {
+    "name": "Weight : 19.8 lbs. / 9 kg (1)"
+  },
+  {
+    "name": "Gender Ratio  : Genderless"
+  },
+  {
+    "name": "Habitat  : ???"
+  },
+  {
+    "name": "Levitate 5"
+  },
+  {
+    "name": "Teleporter 10"
+  },
+  {
+    "name": "Confined*"
+  },
+  {
+    "name": "Athl 3d6 Acro 4d6"
+  },
+  {
+    "name": "Percep 6d6+2"
+  },
+  {
+    "name": "Hyperspace Hole"
+  },
+  {
+    "name": "Hyperspace Hole (N)"
+  },
+  {
+    "name": "## Page 747"
+  },
+  {
+    "name": "HOOPA Unbound"
+  },
+  {
+    "name": "Type : Psychic / Dark"
+  },
+  {
+    "name": "Adv Ability 1: Enduring Rage"
+  },
+  {
+    "name": "Adv Ability 2: Cruelty"
+  },
+  {
+    "name": "High Ability: Weird Power"
+  },
+  {
+    "name": "Height : 21’ 05” / 5m (Gigantic)"
+  },
+  {
+    "name": "Weight : 1080.3 lbs. / 490 kg (6)"
+  },
+  {
+    "name": "Overland 10"
+  },
+  {
+    "name": "Teleporter 8"
+  },
+  {
+    "name": "Jump 4/4"
+  },
+  {
+    "name": "Athl 5d6+2"
+  },
+  {
+    "name": "Combat 5d6+2"
+  },
+  {
+    "name": "Stealth 1d6"
+  },
+  {
+    "name": "Focus 2d6"
+  },
+  {
+    "name": "Confined: If Hoopa’s Confined Form is exposed to"
+  },
+  {
+    "name": "the Prison Bottle and the bottle is uncorked"
+  },
+  {
+    "name": "the dark"
+  },
+  {
+    "name": "spirit within the bottle will change Hoopa to its"
+  },
+  {
+    "name": "Unbound Forme for three full days. After that"
+  },
+  {
+    "name": "the"
+  },
+  {
+    "name": "Prison Bottle cannot be activated again for three"
+  },
+  {
+    "name": "days. If the Prison Bottle is  destroyed"
+  },
+  {
+    "name": "Hoopa be­"
+  },
+  {
+    "name": "comes permanently Unbound until a new Prison"
+  },
+  {
+    "name": "Bottle is created and used to seal the dark power"
+  },
+  {
+    "name": "controlling Hoopa."
+  },
+  {
+    "name": "While Unbound"
+  },
+  {
+    "name": "Hoopa is always Enraged and can­"
+  },
+  {
+    "name": "not be cured of this condition. Additionally some of"
+  },
+  {
+    "name": "its Ghost-Typed Moves are changed to different Dark"
+  },
+  {
+    "name": "Type Moves."
+  },
+  {
+    "name": "-> Hyperspace Hole becomes Hyperspace Fury."
+  },
+  {
+    "name": "-> Shadow Ball becomes Dark Pulse"
+  },
+  {
+    "name": "-> Phantom Force becomes Knock Off"
+  },
+  {
+    "name": "## Page 748"
+  },
+  {
+    "name": "Credits"
+  },
+  {
+    "name": "Pokémon® is a trademark of Nintendo and does not sponsor"
+  },
+  {
+    "name": "authorize or endorse Pokémon:"
+  },
+  {
+    "name": "Tabletop United.  Pokémon: Tabletop United is a free use fan distribution by fans"
+  },
+  {
+    "name": "for fans of"
+  },
+  {
+    "name": "both tabletop RPG’s and Pokémon®."
+  },
+  {
+    "name": "Accreditation + Special Thanks"
+  },
+  {
+    "name": "- Head of Design: Paradox (aka Doxy)"
+  },
+  {
+    "name": "- Design Team: Castfromhp"
+  },
+  {
+    "name": "Zoofman"
+  },
+  {
+    "name": "- Special Thanks to: KujiUn"
+  },
+  {
+    "name": "KamenWriter"
+  },
+  {
+    "name": "- A huge thanks to Dr. Mr. Stark and everyone else involved in creating and designing"
+  },
+  {
+    "name": "Pokémon Tabletop Adventures"
+  },
+  {
+    "name": "without which this endeavor would have never started."
+  },
+  {
+    "name": "- Thanks to everyone in the community that has helped report errors or talked to us about"
+  },
+  {
+    "name": "balance"
+  },
+  {
+    "name": "Sources of Information:"
+  },
+  {
+    "name": "- Special Thanks to Bulbapedia"
+  },
+  {
+    "name": "and to Pokémondb.net whose Type Chart we stole"
+  },
+  {
+    "name": "shamelessly."
+  },
+  {
+    "name": "Sources of Images:"
+  },
+  {
+    "name": "- Special Thanks to various artists found on safebooru or otherwise on the internet; all"
+  },
+  {
+    "name": "images stolen shamelessly from there"
+  },
+  {
+    "name": "and copyright of their original creators. If you created"
+  },
+  {
+    "name": "an image and wish for us to remove it"
+  },
+  {
+    "name": "contact Doxy in the forum linked below and it will be"
+  },
+  {
+    "name": "removed."
+  },
+  {
+    "name": "Contacts"
+  },
+  {
+    "name": "Zetaboards Pokémon Tabletop forum- http://forums.pokemontabletop.com/index/"
+  },
+  {
+    "name": "Doxy’s personal email: i.climb.clouds@gmail.com"
+  },
+  {
+    "name": "/tg/ - Traditional Games"
+  },
+  {
+    "name": "#PokemonTabletop on the Rizon IRC network at irc.rizon.net"
+  },
+  {
+    "name": "Original game Copyright (©) Nintendo."
+  },
+  {
+    "name": "Copyright Nintendo/Game Freak"
+  },
+  {
+    "name": "-2013."
+  },
+  {
+    "name": "---"
+  },
+  {
+    "name": "# AlolaDex"
+  },
+  {
+    "name": "## Page 2"
+  },
+  {
+    "name": "TABLE OF CONTENTS . . . . . . . . . . . . . . . . . . . . . . . .002"
+  },
+  {
+    "name": "ROWLET. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  004"
+  },
+  {
+    "name": "LITTEN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .007"
+  },
+  {
+    "name": "POPPLIO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 010"
+  },
+  {
+    "name": "PIKIPEK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 013"
+  },
+  {
+    "name": "YUNGOOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .016"
+  },
+  {
+    "name": "GRUBBIN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .018"
+  },
+  {
+    "name": "CRABRAWLER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .021"
+  },
+  {
+    "name": "ORICORIO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  023"
+  },
+  {
+    "name": "CUTIEFLY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .024"
+  },
+  {
+    "name": "ROCKRUFF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 026"
+  },
+  {
+    "name": "WISHIWASHI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 030"
+  },
+  {
+    "name": "MAREANIE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 032"
+  },
+  {
+    "name": "MUDBRAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .034"
+  },
+  {
+    "name": "DEWPIDER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 036"
+  },
+  {
+    "name": "FOMANTIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 038"
+  },
+  {
+    "name": "MORELULL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 040"
+  },
+  {
+    "name": "SALANDIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 042"
+  },
+  {
+    "name": "STUFFUL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 044"
+  },
+  {
+    "name": "BOUNSWEET . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 046"
+  },
+  {
+    "name": "COMFEY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 049"
+  },
+  {
+    "name": "ORANGURU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 050"
+  },
+  {
+    "name": "PASSIMIAN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .051"
+  },
+  {
+    "name": "WIMPOD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .052"
+  },
+  {
+    "name": "SANDYGAST . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 054"
+  },
+  {
+    "name": "PYUKUMUKU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 056"
+  },
+  {
+    "name": "TYPE: NULL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .057"
+  },
+  {
+    "name": "MINIOR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .059"
+  },
+  {
+    "name": "KOMALA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .061"
+  },
+  {
+    "name": "TURTONATOR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .062"
+  },
+  {
+    "name": "TOGEDEMARU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 063"
+  },
+  {
+    "name": "MIMIKYU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 064"
+  },
+  {
+    "name": "BRUXISH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 065"
+  },
+  {
+    "name": "DRAMPA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .066"
+  },
+  {
+    "name": "DHELMISE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .067"
+  },
+  {
+    "name": "JANGMO-O . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .068"
+  },
+  {
+    "name": "ALOLAN RATTATA . . . . . . . . . . . . . . . . . . . . . . . . . . 071"
+  },
+  {
+    "name": "ALOLAN RAICHU . . . . . . . . . . . . . . . . . . . . . . . . . . . .073"
+  },
+  {
+    "name": "ALOLAN SANDSHREW . . . . . . . . . . . . . . . . . . . . . . . 074"
+  },
+  {
+    "name": "ALOLAN VULPIX . . . . . . . . . . . . . . . . . . . . . . . . . . . . 076"
+  },
+  {
+    "name": "ALOLAN DIGLETT . . . . . . . . . . . . . . . . . . . . . . . . . . . 078"
+  },
+  {
+    "name": "ALOLAN MEOWTH . . . . . . . . . . . . . . . . . . . . . . . . . .080"
+  },
+  {
+    "name": "ALOLAN GEODUDE . . . . . . . . . . . . . . . . . . . . . . . . . 082"
+  },
+  {
+    "name": "ALOLAN GRIMER . . . . . . . . . . . . . . . . . . . . . . . . . . . 085"
+  },
+  {
+    "name": "ALOLAN EXEGGUTOR . . . . . . . . . . . . . . . . . . . . . . . .087"
+  },
+  {
+    "name": "ALOLAN MAROWAK . . . . . . . . . . . . . . . . . . . . . . . ..088"
+  },
+  {
+    "name": "TAPU KOKO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 089"
+  },
+  {
+    "name": "TAPU LELE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .090"
+  },
+  {
+    "name": "TAPU BULU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .091"
+  },
+  {
+    "name": "TAPU FINI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 092"
+  },
+  {
+    "name": "COSMOG . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .093"
+  },
+  {
+    "name": "NECROZMA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .097"
+  },
+  {
+    "name": "ZYGARDE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .100"
+  },
+  {
+    "name": "VOLCANION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103"
+  },
+  {
+    "name": "NIHILEGO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104"
+  },
+  {
+    "name": "BUZZWOLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .105"
+  },
+  {
+    "name": "PHEROMOSA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106"
+  },
+  {
+    "name": "XURKITREE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107"
+  },
+  {
+    "name": "CELESTEELA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108"
+  },
+  {
+    "name": "KARTANA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109"
+  },
+  {
+    "name": "GUZZLORD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110"
+  },
+  {
+    "name": "POIPOLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111"
+  },
+  {
+    "name": "## Page 3"
+  },
+  {
+    "name": "STAKATAKA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .113"
+  },
+  {
+    "name": "BLACEPHALON . . . . . . . . . . . . . . . . . . . . . . . . . . . . .114"
+  },
+  {
+    "name": "MAGEARNA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115"
+  },
+  {
+    "name": "MARSHADOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116"
+  },
+  {
+    "name": "ZERAORA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117"
+  },
+  {
+    "name": "## Page 4"
+  },
+  {
+    "name": "Leafage",
+    "type": "Grass"
+  },
+  {
+    "name": "## Page 6"
+  },
+  {
+    "name": "Laser Focus",
+    "type": "Normal"
+  },
+  {
+    "name": "Shadow Sneak (N)"
+  },
+  {
+    "name": "U-Turn (N)"
+  },
+  {
+    "name": "## Page 7"
+  },
+  {
+    "name": "Power Trip",
+    "type": "Dark"
+  },
+  {
+    "name": "## Page 9"
+  },
+  {
+    "name": "Bulk Up (N)"
+  },
+  {
+    "name": "Stomping Tantrum"
+  },
+  {
+    "name": "Throat Chop (N)"
+  },
+  {
+    "name": "## Page 10"
+  },
+  {
+    "name": "Bubblebeam",
+    "type": "Water"
+  },
+  {
+    "name": "Aromatic Mist",
+    "type": "Fairy"
+  },
+  {
+    "name": "## Page 12"
+  },
+  {
+    "name": "Liquidation"
+  },
+  {
+    "name": "## Page 13"
+  },
+  {
+    "name": "Rock Blast (N)"
+  },
+  {
+    "name": "## Page 16"
+  },
+  {
+    "name": "Vicegrip",
+    "type": "Normal"
+  },
+  {
+    "name": "Ice Hammer",
+    "type": "Ice"
+  },
+  {
+    "name": "Revelation Dance",
+    "type": "Normal"
+  },
+  {
+    "name": "Forme Change: When an Oricorio hatches"
+  },
+  {
+    "name": "it takes"
+  },
+  {
+    "name": "the form of its mother"
+  },
+  {
+    "name": "or father if the other parent"
+  },
+  {
+    "name": "was a Ditto. Oricorio may change forms by"
+  },
+  {
+    "name": "consuming Nectar as an Extended Action. This"
+  },
+  {
+    "name": "determines Oricorio's primary type:"
+  },
+  {
+    "name": "Red Nectar:"
+  },
+  {
+    "name": "Baille (Fire)"
+  },
+  {
+    "name": "Yellow Nectar:"
+  },
+  {
+    "name": "Pom Pom (Electric)"
+  },
+  {
+    "name": "Pink Nectar:"
+  },
+  {
+    "name": "Pa’u (Psychic)"
+  },
+  {
+    "name": "Purple Nectar:"
+  },
+  {
+    "name": "Sensu (Ghost)"
+  },
+  {
+    "name": "Speed Swap",
+    "type": "Psychic"
+  },
+  {
+    "name": "## Page 34"
+  },
+  {
+    "name": "High Horsepower",
+    "type": "Ground"
+  },
+  {
+    "name": "Lunge",
+    "type": "Bug"
+  },
+  {
+    "name": "Laser"
+  },
+  {
+    "name": "Solar Blade",
+    "type": "Grass"
+  },
+  {
+    "name": "Scissor (N)"
+  },
+  {
+    "name": "## Page 40"
+  },
+  {
+    "name": "Strength Sap",
+    "type": "Grass"
+  },
+  {
+    "name": "Spotlight",
+    "type": "Normal"
+  },
+  {
+    "name": "Stun"
+  },
+  {
+    "name": "Disable (N)"
+  },
+  {
+    "name": "Pound (N)"
+  },
+  {
+    "name": "Swagger (N)"
+  },
+  {
+    "name": "Torment (N)"
+  },
+  {
+    "name": "Brutal Swing",
+    "type": "Dark"
+  },
+  {
+    "name": "Stomping"
+  },
+  {
+    "name": "Tantrum"
+  },
+  {
+    "name": "## Page 46"
+  },
+  {
+    "name": "Solarbeam"
+  },
+  {
+    "name": "Rough"
+  },
+  {
+    "name": "Double Slap (N)"
+  },
+  {
+    "name": "Punishment (N)"
+  },
+  {
+    "name": "## Page 49"
+  },
+  {
+    "name": "Floral Healing",
+    "type": "Fairy"
+  },
+  {
+    "name": "Instruct",
+    "type": "Psychic"
+  },
+  {
+    "name": "Psychic Terrain",
+    "type": "Psychic"
+  },
+  {
+    "name": "Bulk Up. 10 Hidden Power"
+  },
+  {
+    "name": "Throat"
+  },
+  {
+    "name": "Shore Up",
+    "type": "Ground"
+  },
+  {
+    "name": "Spit"
+  },
+  {
+    "name": "Purify",
+    "type": "Poison"
+  },
+  {
+    "name": "Heal Block (N)"
+  },
+  {
+    "name": "Ice Fang (N)"
+  },
+  {
+    "name": "Poison Fang (N)"
+  },
+  {
+    "name": "MINIOR Meteor"
+  },
+  {
+    "name": "Type: Rock / Flying"
+  },
+  {
+    "name": "Basic Ability 1: Shields Down"
+  },
+  {
+    "name": "Adv Ability 1: Weak Armor"
+  },
+  {
+    "name": "Adv Ability 2: Sturdy"
+  },
+  {
+    "name": "Adv Ability 3: Rock Head"
+  },
+  {
+    "name": "High Ability: Illuminate"
+  },
+  {
+    "name": "Height: 1’ 0” / 0.3m (Small)"
+  },
+  {
+    "name": "Weight: 88.2 lbs / 40kg (3)"
+  },
+  {
+    "name": "Gender Ratio: No Gender"
+  },
+  {
+    "name": "Egg Group: Mineral"
+  },
+  {
+    "name": "Diet: Nullivore"
+  },
+  {
+    "name": "Habitat: Mountain"
+  },
+  {
+    "name": "Overland 1"
+  },
+  {
+    "name": "Sky 5"
+  },
+  {
+    "name": "Jump 0/0"
+  },
+  {
+    "name": "Glow"
+  },
+  {
+    "name": "Double - Edge"
+  },
+  {
+    "name": "MINIOR Core"
+  },
+  {
+    "name": "Weight: 0.7 lbs / 0.3kg (1)"
+  },
+  {
+    "name": "## Page 61"
+  },
+  {
+    "name": "Shell Trap",
+    "type": "Fire"
+  },
+  {
+    "name": "Zing Zap",
+    "type": "Electric"
+  },
+  {
+    "name": "Wood Hammer (N)"
+  },
+  {
+    "name": "Psychic Fangs",
+    "type": "Psychic"
+  },
+  {
+    "name": "Anchor Shot",
+    "type": "Steel"
+  },
+  {
+    "name": "## Page 68"
+  },
+  {
+    "name": "Autotomize (N)"
+  },
+  {
+    "name": "## Page 70"
+  },
+  {
+    "name": "rock"
+  },
+  {
+    "name": "Uppercut (N)"
+  },
+  {
+    "name": "## Page 71"
+  },
+  {
+    "name": "RATTATA Alola"
+  },
+  {
+    "name": "Type: Dark / Normal"
+  },
+  {
+    "name": "Basic Ability 1: Gluttony"
+  },
+  {
+    "name": "Basic Ability 2: Thick Fat"
+  },
+  {
+    "name": "Adv Ability 1: Hustle"
+  },
+  {
+    "name": "Adv Ability 2: Pickup"
+  },
+  {
+    "name": "High Ability: Nimble Strikes"
+  },
+  {
+    "name": "- Rattata (A)"
+  },
+  {
+    "name": "- Raticate (A) Minimum 20"
+  },
+  {
+    "name": "Weight: 8.4 lbs / 3.8kg (1)"
+  },
+  {
+    "name": "Gender Ratio: 50% M / 50% F"
+  },
+  {
+    "name": "Egg Group: Field"
+  },
+  {
+    "name": "Average Hatch Rate: 7 Days"
+  },
+  {
+    "name": "Diet: Omnivore"
+  },
+  {
+    "name": "Habitat: Cave"
+  },
+  {
+    "name": "Urban"
+  },
+  {
+    "name": "Urban)"
+  },
+  {
+    "name": "Combat 2d6+2"
+  },
+  {
+    "name": "## Page 90"
+  },
+  {
+    "name": "Aromatherapy (N)"
+  },
+  {
+    "name": "Psychic Terrain (N)"
+  },
+  {
+    "name": "Hammer (N)"
+  },
+  {
+    "name": "## Page 93"
+  },
+  {
+    "name": "Cosmic Power (N)"
+  },
+  {
+    "name": "Wake-Up Slap (N)"
+  },
+  {
+    "name": "## Page 96"
+  },
+  {
+    "name": "Hypnosis (N)"
+  },
+  {
+    "name": "Photon Geyser"
+  },
+  {
+    "name": "Prismatic Laser"
+  },
+  {
+    "name": "Charge Beam (N)"
+  },
+  {
+    "name": "Shot (N)"
+  },
+  {
+    "name": "Morning Sun (N)"
+  },
+  {
+    "name": "NECROZMA Dusk Mane"
+  },
+  {
+    "name": "Type: Psychic / Steel"
+  },
+  {
+    "name": "Basic Ability 1: Prism Armor"
+  },
+  {
+    "name": "Adv Ability 1: Sunglow or Starlight"
+  },
+  {
+    "name": "Adv Ability 2: Solar Power"
+  },
+  {
+    "name": "Adv Ability 3: Chlorophyll"
+  },
+  {
+    "name": "High Ability: Beam Cannon"
+  },
+  {
+    "name": "Height: 12’ 6” / 3.8m (Huge)"
+  },
+  {
+    "name": "Weight: 1014.1 lbs / 460kg (6)"
+  },
+  {
+    "name": "Egg Group: None"
+  },
+  {
+    "name": "Diet: Illumivore"
+  },
+  {
+    "name": "Habitat: Ultra Space"
+  },
+  {
+    "name": "Dead Silent"
+  },
+  {
+    "name": "Mindlock"
+  },
+  {
+    "name": "Viral Fusion"
+  },
+  {
+    "name": "Athl 6d6+4"
+  },
+  {
+    "name": "Combat 6d6"
+  },
+  {
+    "name": "Percep 5d6+2"
+  },
+  {
+    "name": "Ultra Burst"
+  },
+  {
+    "name": "Type: Psychic /"
+  },
+  {
+    "name": "Ability: Neuroforce"
+  },
+  {
+    "name": "Adv Ability 1 becomes"
+  },
+  {
+    "name": "Illuminate; Gains Glow."
+  },
+  {
+    "name": "-3 Def"
+  },
+  {
+    "name": "-1 Sp."
+  },
+  {
+    "name": "+5 Speed"
+  },
+  {
+    "name": "## Page 99"
+  },
+  {
+    "name": "NECROZMA Dawn Wings"
+  },
+  {
+    "name": "Type: Psychic / Ghost"
+  },
+  {
+    "name": "Height: 13’ 9” / 4.2m (Huge)"
+  },
+  {
+    "name": "Weight: 771.6 lbs / 350kg (6)"
+  },
+  {
+    "name": "Stealth 6d6+4"
+  },
+  {
+    "name": "Percep 5d6+3"
+  },
+  {
+    "name": "-1 Def"
+  },
+  {
+    "name": "ZYGARDE 10% Forme"
+  },
+  {
+    "name": "Type: Dragon / Ground"
+  },
+  {
+    "name": "Basic Ability 1: Aura Break"
+  },
+  {
+    "name": "Adv Ability 1: Interference"
+  },
+  {
+    "name": "Adv Ability 2: Air Lock"
+  },
+  {
+    "name": "Adv Ability 3: Filter"
+  },
+  {
+    "name": "High Ability: Pressure"
+  },
+  {
+    "name": "Height: 3’ 11” / 1.2m (Medium)"
+  },
+  {
+    "name": "Weight: 73.9 lbs / 33.5kg (3)"
+  },
+  {
+    "name": "Overland 9"
+  },
+  {
+    "name": "Power 5"
+  },
+  {
+    "name": "Zygarde Cells"
+  },
+  {
+    "name": "Athl 4d6+2"
+  },
+  {
+    "name": "Land’s Wrath"
+  },
+  {
+    "name": "Zygarde Cube Move List"
+  },
+  {
+    "name": "Core Enforcer"
+  },
+  {
+    "name": "Thousand Arrows"
+  },
+  {
+    "name": "Thousand Waves"
+  },
+  {
+    "name": "ZYGARDE 50% Forme"
+  },
+  {
+    "name": "Height: 16’ 5” / 5m (Huge)"
+  },
+  {
+    "name": "Weight: 672.4 lbs / 305kg (6)"
+  },
+  {
+    "name": "Burrow 9"
+  },
+  {
+    "name": "Mountable 4"
+  },
+  {
+    "name": "## Page 102"
+  },
+  {
+    "name": "ZYGARDE Complete Forme"
+  },
+  {
+    "name": "Basic Ability 1: Power Construct"
+  },
+  {
+    "name": "Height: 14’ 9” / 4.5m (Huge)"
+  },
+  {
+    "name": "Weight: 1344.8 lbs / 610kg (6)"
+  },
+  {
+    "name": "Power 16"
+  },
+  {
+    "name": "Reach"
+  },
+  {
+    "name": "Steam Eruption",
+    "type": "Water"
+  },
+  {
+    "name": "Steam Eruption (N)"
+  },
+  {
+    "name": "## Page 105"
+  },
+  {
+    "name": "Thunder Punch (N)"
+  },
+  {
+    "name": "Low Kick (N)"
+  },
+  {
+    "name": "Throat Chop"
+  },
+  {
+    "name": "Tail Glow (N)"
+  },
+  {
+    "name": "## Page 108"
+  },
+  {
+    "name": "Guard (N)"
+  },
+  {
+    "name": "Cut"
+  },
+  {
+    "name": "Defog (N)"
+  },
+  {
+    "name": "Sacred Sword (N)"
+  },
+  {
+    "name": "Vacuum Wave (N)"
+  },
+  {
+    "name": "Belch (N)"
+  },
+  {
+    "name": "## Page 111"
+  },
+  {
+    "name": "Drop"
+  },
+  {
+    "name": "## Page 114"
+  },
+  {
+    "name": "Mind Blown",
+    "type": "Fire"
+  },
+  {
+    "name": "Fleur Cannon",
+    "type": "Fairy"
+  },
+  {
+    "name": "Crafty Shield (N)"
+  },
+  {
+    "name": "Gear Up (N)"
+  },
+  {
+    "name": "Shift Gear (N)"
+  },
+  {
+    "name": "Spectral Thief",
+    "type": "Ghost"
+  },
+  {
+    "name": "Assurance (N)"
+  },
+  {
+    "name": "Fire Punch (N)"
+  },
+  {
+    "name": "Laser Focus (N)"
+  },
+  {
+    "name": "## Page 117"
+  },
+  {
+    "name": "Plasma Fists",
+    "type": "Electric"
+  },
+  {
+    "name": "# GalarDex + Armor_Crown"
+  },
+  {
+    "name": "GROOKEY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 003"
+  },
+  {
+    "name": "SCORBUNNY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .006"
+  },
+  {
+    "name": "SOBBLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 009"
+  },
+  {
+    "name": "SKWOVET . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 012"
+  },
+  {
+    "name": "ROOKIDEE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .014"
+  },
+  {
+    "name": "BLIPBUG . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 017"
+  },
+  {
+    "name": "NICKIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .020"
+  },
+  {
+    "name": "GOSSIFLEUR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 022"
+  },
+  {
+    "name": "WOOLOO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 024"
+  },
+  {
+    "name": "CHEWTLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 026"
+  },
+  {
+    "name": "YAMPER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 028"
+  },
+  {
+    "name": "ROLYCOLY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .030"
+  },
+  {
+    "name": "APPLIN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 033"
+  },
+  {
+    "name": "SILICOBRA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .036"
+  },
+  {
+    "name": "CRAMORANT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 038"
+  },
+  {
+    "name": "ARROKUDA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .039"
+  },
+  {
+    "name": "TOXEL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 041"
+  },
+  {
+    "name": "SIZZLIPEDE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 043"
+  },
+  {
+    "name": "CLOBBOPUS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 045"
+  },
+  {
+    "name": "SINISTEA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .047"
+  },
+  {
+    "name": "HATENNA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 049"
+  },
+  {
+    "name": "IMPIDIMP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .052"
+  },
+  {
+    "name": "MILCERY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 055"
+  },
+  {
+    "name": "FALINKS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .057"
+  },
+  {
+    "name": "PINCURCHIN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .058"
+  },
+  {
+    "name": "SNOM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 059"
+  },
+  {
+    "name": "STONJOURNER . . . . . . . . . . . . . . . . . . . . . . . . . . . . .061"
+  },
+  {
+    "name": "EISCUE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .062"
+  },
+  {
+    "name": "INDEEDEE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 064"
+  },
+  {
+    "name": "MORPEKO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .066"
+  },
+  {
+    "name": "CUFANT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .067"
+  },
+  {
+    "name": "DRACOZOLT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 069"
+  },
+  {
+    "name": "ARCTOZOLT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 070"
+  },
+  {
+    "name": "DRACOVISH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 071"
+  },
+  {
+    "name": "ARCTOVISH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .072"
+  },
+  {
+    "name": "DURALUDON . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 073"
+  },
+  {
+    "name": "DREEPY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .074"
+  },
+  {
+    "name": "GALARIAN MEOWTH . . . . . . . . . . . . . . . . . . . . . . . .077"
+  },
+  {
+    "name": "GALARIAN PONYTA . . . . . . . . . . . . . . . . . . . . . . . . . 079"
+  },
+  {
+    "name": "GALARIAN FARFETCH’D . . . . . . . . . . . . . . . . . . . . . .081"
+  },
+  {
+    "name": "GALARIAN WEEZING . . . . . . . . . . . . . . . . . . . . . . . . 083"
+  },
+  {
+    "name": "GALARIAN MR. MIME . . . . . . . . . . . . . . . . . . . . . . . 084"
+  },
+  {
+    "name": "GALARIAN CORSOLA . . . . . . . . . . . . . . . . . . . . . . . . 086"
+  },
+  {
+    "name": "GALARIAN ZIGZAGOON . . . . . . . . . . . . . . . . . . . . . .088"
+  },
+  {
+    "name": "GALARIAN DARUMAKA . . . . . . . . . . . . . . . . . . . . . .091"
+  },
+  {
+    "name": "GALARIAN YAMASK . . . . . . . . . . . . . . . . . . . . . . . . .094"
+  },
+  {
+    "name": "GALARIAN STUNFISK . . . . . . . . . . . . . . . . . . . . . . . . 096"
+  },
+  {
+    "name": "GALARIAN SLOWPOKE . . . . . . . . . . . . . . . . . . . . . . .097"
+  },
+  {
+    "name": "ZACIAN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100"
+  },
+  {
+    "name": "ZAMAZENTA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .102"
+  },
+  {
+    "name": "ETERNATUS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104"
+  },
+  {
+    "name": "MELTAN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105"
+  },
+  {
+    "name": "KUBFU . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .107"
+  },
+  {
+    "name": "ZARUDE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .110"
+  },
+  {
+    "name": "GALARIAN ARTICUNO . . . . . . . . . . . . . . . . . . . . . . . 111"
+  },
+  {
+    "name": "GALARIAN ZAPDOS . . . . . . . . . . . . . . . . . . . . . . . . . 112"
+  },
+  {
+    "name": "GALARIAN MOLTRES . . . . . . . . . . . . . . . . . . . . . . . . 113"
+  },
+  {
+    "name": "REGIELEKI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .114"
+  },
+  {
+    "name": "REGIDRAGO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115"
+  },
+  {
+    "name": "GLASTRIER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116"
+  },
+  {
+    "name": "SPECTRIER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117"
+  },
+  {
+    "name": "CALYREX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .118"
+  },
+  {
+    "name": "Branch Poke",
+    "type": "Grass"
+  },
+  {
+    "name": "U",
+    "type": "Turn"
+  },
+  {
+    "name": "Strength",
+    "type": "Normal"
+  },
+  {
+    "name": "Body Press"
+  },
+  {
+    "name": "Double Hit (N)"
+  },
+  {
+    "name": "Noble Roar (N)"
+  },
+  {
+    "name": "Court Change",
+    "type": "Normal"
+  },
+  {
+    "name": "Tearful Look",
+    "type": "Normal"
+  },
+  {
+    "name": "Acrobatics (N)"
+  },
+  {
+    "name": "Stuff Cheeks",
+    "type": "Normal"
+  },
+  {
+    "name": "Iron Defense (N)"
+  },
+  {
+    "name": "Steel Beam"
+  },
+  {
+    "name": "Confusion (N)"
+  },
+  {
+    "name": "Reflect (N)"
+  },
+  {
+    "name": "Jaw Lock",
+    "type": "Dark"
+  },
+  {
+    "name": "Razor Shell (N)"
+  },
+  {
+    "name": "Rock Polish (N)"
+  },
+  {
+    "name": "Confide \n \nTutor Move List \nDouble",
+    "type": "Edge"
+  },
+  {
+    "name": "Electrify (N)"
+  },
+  {
+    "name": "Burn Up",
+    "type": "Fire"
+  },
+  {
+    "name": "Flame Charge (N)"
+  },
+  {
+    "name": "Grav Apple",
+    "type": "Grass"
+  },
+  {
+    "name": "Growth (N)"
+  },
+  {
+    "name": "Apple Acid",
+    "type": "Grass"
+  },
+  {
+    "name": "Sweet Scent (N)"
+  },
+  {
+    "name": "Tearful Look (N)"
+  },
+  {
+    "name": "Overdrive",
+    "type": "Electric"
+  },
+  {
+    "name": "Acid Spray (N)"
+  },
+  {
+    "name": "Leer (N)"
+  },
+  {
+    "name": "Thunder Shock (N)"
+  },
+  {
+    "name": "Fire Lash",
+    "type": "Fire"
+  },
+  {
+    "name": "X",
+    "type": "Scissor"
+  },
+  {
+    "name": "Octazooka (N)"
+  },
+  {
+    "name": "Strength Sap (N)"
+  },
+  {
+    "name": "Life Dew",
+    "type": "Water"
+  },
+  {
+    "name": "Magic Powder",
+    "type": "Psychic"
+  },
+  {
+    "name": "Brutal Swing (N)"
+  },
+  {
+    "name": "False Surrender (N)"
+  },
+  {
+    "name": "Power-Up Punch (N)"
+  },
+  {
+    "name": "Confide \n \nEgg Move List \nBaby",
+    "type": "Doll"
+  },
+  {
+    "name": "First Impression",
+    "type": "Bug"
+  },
+  {
+    "name": "No Retreat",
+    "type": "Fighting"
+  },
+  {
+    "name": "Aurora Veil",
+    "type": "Ice"
+  },
+  {
+    "name": "Attract (N)"
+  },
+  {
+    "name": "Helping Hand (N)"
+  },
+  {
+    "name": "Icy Wind (N)"
+  },
+  {
+    "name": "Surf",
+    "type": "Water"
+  },
+  {
+    "name": "Aura Wheel",
+    "type": "Electric"
+  },
+  {
+    "name": "Aura Wheel (N)"
+  },
+  {
+    "name": "Bolt Beak",
+    "type": "Electric"
+  },
+  {
+    "name": "Fishious Rend",
+    "type": "Water"
+  },
+  {
+    "name": "Breaking Swipe",
+    "type": "Dragon"
+  },
+  {
+    "name": "Double-Hit",
+    "type": "Normal"
+  },
+  {
+    "name": "Dragon Breath (N)"
+  },
+  {
+    "name": "Move List \nLevel Up Move List \n \nEvo Psycho Cut",
+    "type": "Psychic"
+  },
+  {
+    "name": "Move List \nLevel Up Move List \nEvo Iron Defense",
+    "type": "Steel"
+  },
+  {
+    "name": "Meteor Assault",
+    "type": "Fighting"
+  },
+  {
+    "name": "Move List \nLevel Up Move List \n \nEvo Double Hit",
+    "type": "Normal"
+  },
+  {
+    "name": "Metal Burst (N)"
+  },
+  {
+    "name": "Move List \nLevel Up Move List \n \nEvo Night Slash",
+    "type": "Dark"
+  },
+  {
+    "name": "Confide \n \nTutor Move List \nBaby",
+    "type": "Doll"
+  },
+  {
+    "name": "Move List \nLevel Up Move List \n \nEvo Icicle Crash",
+    "type": "Ice"
+  },
+  {
+    "name": "Arm"
+  },
+  {
+    "name": "Chop (N)"
+  },
+  {
+    "name": "Pin Missile (N)"
+  },
+  {
+    "name": "Submission (N)"
+  },
+  {
+    "name": "Switcheroo (N)"
+  },
+  {
+    "name": "Snap Trap",
+    "type": "Grass"
+  },
+  {
+    "name": "Move List \nLevel Up Move List \n \nEvo Shell Side Arm",
+    "type": "Poison"
+  },
+  {
+    "name": "Move List \nLevel Up Move List \n \nEvo Eerie Spell",
+    "type": "Psychic"
+  },
+  {
+    "name": "Type"
+  },
+  {
+    "name": "Scary Face (N)"
+  },
+  {
+    "name": "Dynamax Cannon",
+    "type": "Dragon"
+  },
+  {
+    "name": "Eternabeam",
+    "type": "Dragon"
+  },
+  {
+    "name": "Double Iron Bash",
+    "type": "Steel"
+  },
+  {
+    "name": "Move List \nLevel Up Move List \n \nEvo Wicked Blow",
+    "type": "Dark"
+  },
+  {
+    "name": "Move List \nLevel Up Move List \n \nEvo Surging Strikes",
+    "type": "Water"
+  },
+  {
+    "name": "Coaching"
+  },
+  {
+    "name": "Jungle Healing",
+    "type": "Grass"
+  },
+  {
+    "name": "Freezing Glare",
+    "type": "Psychic"
+  },
+  {
+    "name": "Thunderous Kick",
+    "type": "Fighting"
+  },
+  {
+    "name": "Fiery Wrath",
+    "type": "Dark"
+  },
+  {
+    "name": "Grassy Glide"
+  },
+  {
+    "name": "Lash Out"
+  },
+  {
+    "name": "Thunder Cage",
+    "type": "Electric"
+  },
+  {
+    "name": "Rising Voltage"
+  },
+  {
+    "name": "Dragon Energy",
+    "type": "Dragon"
+  },
+  {
+    "name": "Scale Shot"
+  },
+  {
+    "name": "§ High Horsepower (N)"
+  },
+  {
+    "name": "Lash"
+  },
+  {
+    "name": "§ Phantom Force (N)"
+  },
+  {
+    "name": "Move List \nLevel Up Move List  \nEvo Rock Smash",
+    "type": "Normal"
+  },
+  {
+    "name": "Triple Arrows",
+    "type": "Fighting"
+  },
+  {
+    "name": "Move List \nLevel Up Move List  \nEvo Hex",
+    "type": "Ghost"
+  },
+  {
+    "name": "Infernal Parade",
+    "type": "Ghost"
+  },
+  {
+    "name": "Move List \nLevel Up Move List  \nEvo Night Slash",
+    "type": "Dark"
+  },
+  {
+    "name": "Ceaseless Edge",
+    "type": "Dark"
+  },
+  {
+    "name": "Raging Fury",
+    "type": "Fire"
+  },
+  {
+    "name": "Chloroblast",
+    "type": "Grass"
+  },
+  {
+    "name": "Barb Barrage",
+    "type": "Poison"
+  },
+  {
+    "name": "Expanding Force"
+  },
+  {
+    "name": "Dire Claw",
+    "type": "Poison"
+  },
+  {
+    "name": "Victory Dance",
+    "type": "Fighting"
+  },
+  {
+    "name": "Bitter Malice",
+    "type": "Ghost"
+  },
+  {
+    "name": "Esper Wing",
+    "type": "Psychic"
+  },
+  {
+    "name": "Shelter",
+    "type": "Normal"
+  },
+  {
+    "name": "Move List \nLevel Up Move List \n \nEvo Rock Slide",
+    "type": "Rock"
+  },
+  {
+    "name": "Mountain Gale",
+    "type": "Ice"
+  },
+  {
+    "name": "Power Shift"
+  },
+  {
+    "name": "Psyshield Bash",
+    "type": "Psychic"
+  },
+  {
+    "name": "Stone Axe",
+    "type": "Rock"
+  },
+  {
+    "name": "Headlong Rush",
+    "type": "Ground"
+  },
+  {
+    "name": "Wave Crash",
+    "type": "Water"
+  },
+  {
+    "name": "*Origin Forme: Dialga is in its Origin Forme when"
+  },
+  {
+    "name": "exposed to an Adamant Crystal as an Extended"
+  },
+  {
+    "name": "Action. Exposing it in Origin Forme reverts it to its"
+  },
+  {
+    "name": "Altered Forme (found in the Main PokéDex)."
+  },
+  {
+    "name": "## Page 28"
+  },
+  {
+    "name": "PALKIA Origin Forme"
+  },
+  {
+    "name": "Type: Water / Dragon"
+  },
+  {
+    "name": "Basic Ability 1: Transporter"
+  },
+  {
+    "name": "Adv Ability 1: Magic Guard"
+  },
+  {
+    "name": "Adv Ability 3: Pressure"
+  },
+  {
+    "name": "High Ability: Adaptability"
+  },
+  {
+    "name": "Height: 20’ 8” / 6.3m (Gigantic)"
+  },
+  {
+    "name": "Weight: 1452.8 lbs / 659kg (6)"
+  },
+  {
+    "name": "Habitat: Non"
+  },
+  {
+    "name": "Teleporter 4"
+  },
+  {
+    "name": "Athl 5d6"
+  },
+  {
+    "name": "Percep 4d6+4"
+  },
+  {
+    "name": "§ 37 Aura Sphere"
+  },
+  {
+    "name": "§ 46 Spatial Rend"
+  },
+  {
+    "name": "*Origin Forme: Palkia is in its Origin Forme when"
+  },
+  {
+    "name": "exposed to a Lustrous Globe as an Extended Action."
+  },
+  {
+    "name": "Exposing it in Origin Forme reverts it to its Altered"
+  },
+  {
+    "name": "Forme (found in the Main PokéDex)."
+  },
+  {
+    "name": "ENAMORUS Incarnate Forme"
+  },
+  {
+    "name": "Type: Fairy / Flying"
+  },
+  {
+    "name": "Basic Ability 1: Healer"
+  },
+  {
+    "name": "Adv Ability 3: Confidence"
+  },
+  {
+    "name": "High Ability: Misty Surge"
+  },
+  {
+    "name": "Height: 5’ 3” / 1.6m (Medium)"
+  },
+  {
+    "name": "Weight: 105.8 lbs / 48kg (3)"
+  },
+  {
+    "name": "Gender Ratio: 0% M / 100% F"
+  },
+  {
+    "name": "§ 47 Moonblast"
+  },
+  {
+    "name": "§ 52 Springtide Storm"
+  },
+  {
+    "name": "and uses its"
+  },
+  {
+    "name": "Incarnate Form otherwise."
+  },
+  {
+    "name": "ENAMORUS Therian Forme"
+  },
+  {
+    "name": "Basic Ability 1: Overcoat"
+  },
+  {
+    "name": "Adv Ability 3: Contrary"
+  },
+  {
+    "name": "Stealth 4d6+3"
+  },
+  {
+    "name": "High"
+  },
+  {
+    "name": "Horsepower"
+  },
+  {
+    "name": "Tackle (N)"
+  }
+]

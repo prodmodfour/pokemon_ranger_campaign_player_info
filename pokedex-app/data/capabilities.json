@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Overland",
+    "description": "Overland 7"
+  },
+  {
+    "name": "Swim",
+    "description": "Swim 4"
+  },
+  {
+    "name": "Jump",
+    "description": "Jump 2"
+  },
+  {
+    "name": "Power",
+    "description": "Power 8"
+  },
+  {
+    "name": "Underdog",
+    "description": "Underdog"
+  },
+  {
+    "name": "Naturewalk",
+    "description": "Naturewalk (Wetland)"
+  },
+  {
+    "name": "Burrow",
+    "description": "Burrow 3"
+  },
+  {
+    "name": "Firestarter",
+    "description": "Firestarter"
+  },
+  {
+    "name": "Glow",
+    "description": "Glow"
+  },
+  {
+    "name": "Sky",
+    "description": "Sky 6"
+  },
+  {
+    "name": "Heater",
+    "description": "Heater"
+  },
+  {
+    "name": "Fountain",
+    "description": "Fountain"
+  },
+  {
+    "name": "Threaded",
+    "description": "Threaded"
+  },
+  {
+    "name": "Inflatable",
+    "description": "Inflatable"
+  },
+  {
+    "name": "Levitate",
+    "description": "Levitate 8"
+  },
+  {
+    "name": "Zapper",
+    "description": "Zapper"
+  },
+  {
+    "name": "Freezer",
+    "description": "Freezer"
+  },
+  {
+    "name": "Telepath",
+    "description": "Telepath"
+  },
+  {
+    "name": "Telekinetic",
+    "description": "Telekinetic"
+  },
+  {
+    "name": "Volatile",
+    "description": "Volatile"
+  },
+  {
+    "name": "Phasing",
+    "description": "Phasing"
+  },
+  {
+    "name": "Invisibility",
+    "description": "Invisibility"
+  },
+  {
+    "name": "Reach",
+    "description": "Reach"
+  },
+  {
+    "name": "Amorphous",
+    "description": "Amorphous"
+  }
+]

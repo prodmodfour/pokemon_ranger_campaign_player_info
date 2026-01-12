@@ -1,0 +1,1858 @@
+[
+  {
+    "name": "Chlorophyll",
+    "type": "basic"
+  },
+  {
+    "name": "Overgrow",
+    "type": "basic"
+  },
+  {
+    "name": "Confidence",
+    "type": "high"
+  },
+  {
+    "name": "Discipline",
+    "type": "high"
+  },
+  {
+    "name": "Empower",
+    "type": "high"
+  },
+  {
+    "name": "Healer",
+    "type": "basic"
+  },
+  {
+    "name": "Aroma Veil",
+    "type": "basic"
+  },
+  {
+    "name": "Leaf Guard",
+    "type": "advanced"
+  },
+  {
+    "name": "Blessed Touch",
+    "type": "advanced"
+  },
+  {
+    "name": "Unburden",
+    "type": "advanced"
+  },
+  {
+    "name": "Run Away",
+    "type": "basic"
+  },
+  {
+    "name": "Vanguard",
+    "type": "high"
+  },
+  {
+    "name": "Ambush",
+    "type": "advanced"
+  },
+  {
+    "name": "Shell Armor",
+    "type": "advanced"
+  },
+  {
+    "name": "Grass Pelt",
+    "type": "basic"
+  },
+  {
+    "name": "Sturdy",
+    "type": "basic"
+  },
+  {
+    "name": "Natural Cure",
+    "type": "advanced"
+  },
+  {
+    "name": "Sol Veil",
+    "type": "advanced"
+  },
+  {
+    "name": "Contrary",
+    "type": "advanced"
+  },
+  {
+    "name": "Leaf Rush",
+    "type": "high"
+  },
+  {
+    "name": "Sway",
+    "type": "high"
+  },
+  {
+    "name": "Regal Challenge",
+    "type": "high"
+  },
+  {
+    "name": "Bodyguard",
+    "type": "advanced"
+  },
+  {
+    "name": "Gentle Vibe",
+    "type": "advanced"
+  },
+  {
+    "name": "Bulletproof",
+    "type": "basic"
+  },
+  {
+    "name": "Abominable",
+    "type": "advanced"
+  },
+  {
+    "name": "Battle Armor",
+    "type": "basic"
+  },
+  {
+    "name": "Blaze",
+    "type": "basic"
+  },
+  {
+    "name": "Rattled",
+    "type": "basic"
+  },
+  {
+    "name": "Solar Power",
+    "type": "advanced"
+  },
+  {
+    "name": "Courage",
+    "type": "high"
+  },
+  {
+    "name": "Dodge",
+    "type": "high"
+  },
+  {
+    "name": "Intimidate",
+    "type": "advanced"
+  },
+  {
+    "name": "Prime Fury",
+    "type": "basic"
+  },
+  {
+    "name": "White Flame",
+    "type": "high"
+  },
+  {
+    "name": "Flame Body",
+    "type": "advanced"
+  },
+  {
+    "name": "Celebrate",
+    "type": "advanced"
+  },
+  {
+    "name": "Flash Fire",
+    "type": "basic"
+  },
+  {
+    "name": "Heat Mirage",
+    "type": "advanced"
+  },
+  {
+    "name": "Klutz",
+    "type": "basic"
+  },
+  {
+    "name": "Speed Boost",
+    "type": "high"
+  },
+  {
+    "name": "Tangled Feet",
+    "type": "advanced"
+  },
+  {
+    "name": "Moxie",
+    "type": "basic"
+  },
+  {
+    "name": "Pickup",
+    "type": "basic"
+  },
+  {
+    "name": "Decoy",
+    "type": "basic"
+  },
+  {
+    "name": "Iron Fist",
+    "type": "basic"
+  },
+  {
+    "name": "Thick Fat",
+    "type": "high"
+  },
+  {
+    "name": "Gluttony",
+    "type": "basic"
+  },
+  {
+    "name": "Reckless",
+    "type": "basic"
+  },
+  {
+    "name": "Forewarn",
+    "type": "basic"
+  },
+  {
+    "name": "Magician",
+    "type": "basic"
+  },
+  {
+    "name": "Sorcery",
+    "type": "advanced"
+  },
+  {
+    "name": "Fox Fire",
+    "type": "advanced"
+  },
+  {
+    "name": "Rain Dish",
+    "type": "advanced"
+  },
+  {
+    "name": "Torrent",
+    "type": "basic"
+  },
+  {
+    "name": "Shell Shield",
+    "type": "advanced"
+  },
+  {
+    "name": "Overtcoat",
+    "type": "high"
+  },
+  {
+    "name": "Shell Cannon",
+    "type": "advanced"
+  },
+  {
+    "name": "Hyper Cutter",
+    "type": "basic"
+  },
+  {
+    "name": "Frisk",
+    "type": "advanced"
+  },
+  {
+    "name": "Sheer Force",
+    "type": "basic"
+  },
+  {
+    "name": "Strong Jaw",
+    "type": "basic"
+  },
+  {
+    "name": "Mud Dweller",
+    "type": "advanced"
+  },
+  {
+    "name": "Damp",
+    "type": "advanced"
+  },
+  {
+    "name": "Own Tempo",
+    "type": "basic"
+  },
+  {
+    "name": "Regenerator",
+    "type": "high"
+  },
+  {
+    "name": "Pride",
+    "type": "advanced"
+  },
+  {
+    "name": "Defiant",
+    "type": "advanced"
+  },
+  {
+    "name": "Swift Swim",
+    "type": "basic"
+  },
+  {
+    "name": "Inner Focus",
+    "type": "basic"
+  },
+  {
+    "name": "Water Absorb",
+    "type": "basic"
+  },
+  {
+    "name": "Parry",
+    "type": "high"
+  },
+  {
+    "name": "Protean",
+    "type": "high"
+  },
+  {
+    "name": "Hydration",
+    "type": "high"
+  },
+  {
+    "name": "Wash Away",
+    "type": "high"
+  },
+  {
+    "name": "Shield Dust",
+    "type": "basic"
+  },
+  {
+    "name": "Silk Threads",
+    "type": "advanced"
+  },
+  {
+    "name": "Suction Cups",
+    "type": "advanced"
+  },
+  {
+    "name": "Shed Skin",
+    "type": "basic"
+  },
+  {
+    "name": "Compound Eyes",
+    "type": "advanced"
+  },
+  {
+    "name": "Tinted Lens",
+    "type": "basic"
+  },
+  {
+    "name": "Keen Eye",
+    "type": "basic"
+  },
+  {
+    "name": "Blow Away",
+    "type": "high"
+  },
+  {
+    "name": "Poison Touch",
+    "type": "advanced"
+  },
+  {
+    "name": "Sniper",
+    "type": "advanced"
+  },
+  {
+    "name": "Technician",
+    "type": "advanced"
+  },
+  {
+    "name": "Designer",
+    "type": "basic"
+  },
+  {
+    "name": "Full Guard",
+    "type": "high"
+  },
+  {
+    "name": "Leafy Cloak",
+    "type": "advanced"
+  },
+  {
+    "name": "Poison Point",
+    "type": "basic"
+  },
+  {
+    "name": "Swarm",
+    "type": "basic"
+  },
+  {
+    "name": "Rock Head",
+    "type": "high"
+  },
+  {
+    "name": "Rivalry",
+    "type": "basic"
+  },
+  {
+    "name": "Cruelty",
+    "type": "advanced"
+  },
+  {
+    "name": "Sap Sipper",
+    "type": "high"
+  },
+  {
+    "name": "Dust Cloud",
+    "type": "high"
+  },
+  {
+    "name": "Effect Spore",
+    "type": "basic"
+  },
+  {
+    "name": "Friend Guard",
+    "type": "advanced"
+  },
+  {
+    "name": "Big Pecks",
+    "type": "high"
+  },
+  {
+    "name": "Competitive",
+    "type": "basic"
+  },
+  {
+    "name": "Rocket",
+    "type": "advanced"
+  },
+  {
+    "name": "Super Luck",
+    "type": "advanced"
+  },
+  {
+    "name": "Lunchbox",
+    "type": "advanced"
+  },
+  {
+    "name": "Frighten (Male) / Rocket (Female)",
+    "type": "high"
+  },
+  {
+    "name": "Gale Wings",
+    "type": "advanced"
+  },
+  {
+    "name": "Hustle",
+    "type": "basic"
+  },
+  {
+    "name": "Infiltrator",
+    "type": "advanced"
+  },
+  {
+    "name": "Insomnia",
+    "type": "advanced"
+  },
+  {
+    "name": "Cute Charm",
+    "type": "basic"
+  },
+  {
+    "name": "Lullaby",
+    "type": "advanced"
+  },
+  {
+    "name": "Oblivious",
+    "type": "advanced"
+  },
+  {
+    "name": "Huge Power",
+    "type": "advanced"
+  },
+  {
+    "name": "Serene Grace",
+    "type": "advanced"
+  },
+  {
+    "name": "Soundproof",
+    "type": "basic"
+  },
+  {
+    "name": "Drown Out",
+    "type": "advanced"
+  },
+  {
+    "name": "Vital Spirit",
+    "type": "basic"
+  },
+  {
+    "name": "Scrappy",
+    "type": "basic"
+  },
+  {
+    "name": "Sand Rush",
+    "type": "advanced"
+  },
+  {
+    "name": "Download",
+    "type": "advanced"
+  },
+  {
+    "name": "Trace",
+    "type": "advanced"
+  },
+  {
+    "name": "Analytic",
+    "type": "advanced"
+  },
+  {
+    "name": "Tolerance",
+    "type": "high"
+  },
+  {
+    "name": "Targeting System",
+    "type": "advanced"
+  },
+  {
+    "name": "Truant",
+    "type": "advanced"
+  },
+  {
+    "name": "Limber",
+    "type": "advanced"
+  },
+  {
+    "name": "Deep Sleep",
+    "type": "high"
+  },
+  {
+    "name": "Vigor",
+    "type": "high"
+  },
+  {
+    "name": "Adaptability",
+    "type": "high"
+  },
+  {
+    "name": "Life Force",
+    "type": "advanced"
+  },
+  {
+    "name": "Stench",
+    "type": "basic"
+  },
+  {
+    "name": "Hay Fever",
+    "type": "basic"
+  },
+  {
+    "name": "Spinning Dance",
+    "type": "advanced"
+  },
+  {
+    "name": "Crush Trap",
+    "type": "advanced"
+  },
+  {
+    "name": "Windveiled",
+    "type": "advanced"
+  },
+  {
+    "name": "Flutter",
+    "type": "high"
+  },
+  {
+    "name": "Early Bird",
+    "type": "advanced"
+  },
+  {
+    "name": "Pickpocket",
+    "type": "advanced"
+  },
+  {
+    "name": "Omen",
+    "type": "advanced"
+  },
+  {
+    "name": "Beautiful",
+    "type": "advanced"
+  },
+  {
+    "name": "Static",
+    "type": "basic"
+  },
+  {
+    "name": "Lightning Rod",
+    "type": "basic"
+  },
+  {
+    "name": "Sprint",
+    "type": "advanced"
+  },
+  {
+    "name": "Sequence",
+    "type": "high"
+  },
+  {
+    "name": "Motor Drive",
+    "type": "basic"
+  },
+  {
+    "name": "Magnet Pull",
+    "type": "basic"
+  },
+  {
+    "name": "Fluffy Charge",
+    "type": "advanced"
+  },
+  {
+    "name": "Fur Coat",
+    "type": "basic"
+  },
+  {
+    "name": "Plus",
+    "type": "basic"
+  },
+  {
+    "name": "Illuminate",
+    "type": "advanced"
+  },
+  {
+    "name": "Guts",
+    "type": "basic"
+  },
+  {
+    "name": "Levitate",
+    "type": "basic"
+  },
+  {
+    "name": "Electrodash",
+    "type": "advanced"
+  },
+  {
+    "name": "Type Aura (Electric)",
+    "type": "high"
+  },
+  {
+    "name": "Type Aura (Fire)",
+    "type": "advanced"
+  },
+  {
+    "name": "Hypnotic",
+    "type": "basic"
+  },
+  {
+    "name": "Drizzle",
+    "type": "basic"
+  },
+  {
+    "name": "Type Aura (Water)",
+    "type": "high"
+  },
+  {
+    "name": "Refreshing Veil",
+    "type": "high"
+  },
+  {
+    "name": "Spray Down",
+    "type": "high"
+  },
+  {
+    "name": "Ice Body",
+    "type": "advanced"
+  },
+  {
+    "name": "Snow Cloak",
+    "type": "basic"
+  },
+  {
+    "name": "Weak Armor",
+    "type": "basic"
+  },
+  {
+    "name": "Winter’s Kiss",
+    "type": "advanced"
+  },
+  {
+    "name": "Clear Body",
+    "type": "advanced"
+  },
+  {
+    "name": "Synchronize",
+    "type": "basic"
+  },
+  {
+    "name": "Steadfast",
+    "type": "advanced"
+  },
+  {
+    "name": "Telepathy",
+    "type": "advanced"
+  },
+  {
+    "name": "Justified",
+    "type": "advanced"
+  },
+  {
+    "name": "Transporter",
+    "type": "basic"
+  },
+  {
+    "name": "Magic Guard",
+    "type": "advanced"
+  },
+  {
+    "name": "Cute Tears",
+    "type": "high"
+  },
+  {
+    "name": "Perception",
+    "type": "advanced"
+  },
+  {
+    "name": "Shadow Tag",
+    "type": "high"
+  },
+  {
+    "name": "Overcoat",
+    "type": "basic"
+  },
+  {
+    "name": "Defy Death",
+    "type": "advanced"
+  },
+  {
+    "name": "Cluster Mind",
+    "type": "advanced"
+  },
+  {
+    "name": "No Guard",
+    "type": "high"
+  },
+  {
+    "name": "Sand Veil",
+    "type": "basic"
+  },
+  {
+    "name": "Solid Rock",
+    "type": "advanced"
+  },
+  {
+    "name": "Sand Force",
+    "type": "advanced"
+  },
+  {
+    "name": "Sunglow",
+    "type": "high"
+  },
+  {
+    "name": "Anger Point",
+    "type": "high"
+  },
+  {
+    "name": "Heavy Metal",
+    "type": "advanced"
+  },
+  {
+    "name": "Plus or Minus",
+    "type": "basic"
+  },
+  {
+    "name": "Stall",
+    "type": "basic"
+  },
+  {
+    "name": "Soulstealer",
+    "type": "high"
+  },
+  {
+    "name": "Stance Change",
+    "type": "basic"
+  },
+  {
+    "name": "Frighten",
+    "type": "advanced"
+  },
+  {
+    "name": "Prankster",
+    "type": "high"
+  },
+  {
+    "name": "Interference",
+    "type": "advanced"
+  },
+  {
+    "name": "Pressure",
+    "type": "basic"
+  },
+  {
+    "name": "Shackle",
+    "type": "advanced"
+  },
+  {
+    "name": "Unaware",
+    "type": "high"
+  },
+  {
+    "name": "Flower Power",
+    "type": "basic"
+  },
+  {
+    "name": "Flower Veil",
+    "type": "advanced"
+  },
+  {
+    "name": "Symbiosis",
+    "type": "advanced"
+  },
+  {
+    "name": "Arena Trap",
+    "type": "high"
+  },
+  {
+    "name": "Mold Breaker",
+    "type": "high"
+  },
+  {
+    "name": "Unnerve",
+    "type": "advanced"
+  },
+  {
+    "name": "Pick Up",
+    "type": "advanced"
+  },
+  {
+    "name": "Nimble Strikes",
+    "type": "high"
+  },
+  {
+    "name": "Quick Feet",
+    "type": "advanced"
+  },
+  {
+    "name": "Tough Claws",
+    "type": "high"
+  },
+  {
+    "name": "Line Charge",
+    "type": "basic"
+  },
+  {
+    "name": "Simple",
+    "type": "advanced"
+  },
+  {
+    "name": "Moody",
+    "type": "high"
+  },
+  {
+    "name": "Dig Away",
+    "type": "high"
+  },
+  {
+    "name": "Wonder Skin",
+    "type": "basic"
+  },
+  {
+    "name": "Normalize",
+    "type": "advanced"
+  },
+  {
+    "name": "Conqueror",
+    "type": "high"
+  },
+  {
+    "name": "Helper",
+    "type": "advanced"
+  },
+  {
+    "name": "Skill Link",
+    "type": "high"
+  },
+  {
+    "name": "Defeatist",
+    "type": "advanced"
+  },
+  {
+    "name": "Seasonal",
+    "type": "basic"
+  },
+  {
+    "name": "Honey Paws",
+    "type": "advanced"
+  },
+  {
+    "name": "Tonguelash",
+    "type": "basic"
+  },
+  {
+    "name": "Cloud Nine",
+    "type": "advanced"
+  },
+  {
+    "name": "Immunity",
+    "type": "basic"
+  },
+  {
+    "name": "Quick Cloak",
+    "type": "basic"
+  },
+  {
+    "name": "Anticipation",
+    "type": "advanced"
+  },
+  {
+    "name": "Adaptation",
+    "type": "advanced"
+  },
+  {
+    "name": "Honey Thief",
+    "type": "advanced"
+  },
+  {
+    "name": "Wonderguard",
+    "type": "basic"
+  },
+  {
+    "name": "Dry Skin",
+    "type": "advanced"
+  },
+  {
+    "name": "Tochukaso",
+    "type": "basic"
+  },
+  {
+    "name": "Dire Spore",
+    "type": "advanced"
+  },
+  {
+    "name": "Starlight",
+    "type": "high"
+  },
+  {
+    "name": "Aftermath",
+    "type": "high"
+  },
+  {
+    "name": "Danger Syrup",
+    "type": "advanced"
+  },
+  {
+    "name": "Rally",
+    "type": "advanced"
+  },
+  {
+    "name": "Pack Hunt",
+    "type": "high"
+  },
+  {
+    "name": "Lancer",
+    "type": "advanced"
+  },
+  {
+    "name": "Blur",
+    "type": "basic"
+  },
+  {
+    "name": "Light Metal",
+    "type": "advanced"
+  },
+  {
+    "name": "Fiery Crash",
+    "type": "advanced"
+  },
+  {
+    "name": "Polycephaly",
+    "type": "advanced"
+  },
+  {
+    "name": "Trinity",
+    "type": "advanced"
+  },
+  {
+    "name": "Sound Lance",
+    "type": "advanced"
+  },
+  {
+    "name": "Unnnerve",
+    "type": "advanced"
+  },
+  {
+    "name": "Serpent’s Mark*",
+    "type": "high"
+  },
+  {
+    "name": "Odious Spray",
+    "type": "advanced"
+  },
+  {
+    "name": "Weird Power",
+    "type": "advanced"
+  },
+  {
+    "name": "Absorb Force",
+    "type": "high"
+  },
+  {
+    "name": "Sticky Smoke",
+    "type": "advanced"
+  },
+  {
+    "name": "White Smoke",
+    "type": "advanced"
+  },
+  {
+    "name": "Liquid Ooze",
+    "type": "advanced"
+  },
+  {
+    "name": "Big Swallow",
+    "type": "high"
+  },
+  {
+    "name": "Flare Boost",
+    "type": "advanced"
+  },
+  {
+    "name": "Vicious",
+    "type": "high"
+  },
+  {
+    "name": "Deadly Poison",
+    "type": "high"
+  },
+  {
+    "name": "Corrosive Toxins",
+    "type": "high"
+  },
+  {
+    "name": "Quick Curl",
+    "type": "advanced"
+  },
+  {
+    "name": "Rough Skin",
+    "type": "advanced"
+  },
+  {
+    "name": "Bone Wielder",
+    "type": "basic"
+  },
+  {
+    "name": "Bone Lord",
+    "type": "high"
+  },
+  {
+    "name": "Poison Heal",
+    "type": "high"
+  },
+  {
+    "name": "Clay Cannons",
+    "type": "high"
+  },
+  {
+    "name": "Sand Stream",
+    "type": "high"
+  },
+  {
+    "name": "Enduring Rage",
+    "type": "advanced"
+  },
+  {
+    "name": "Copy Master",
+    "type": "advanced"
+  },
+  {
+    "name": "Mini-Noses",
+    "type": "advanced"
+  },
+  {
+    "name": "Heatproof",
+    "type": "high"
+  },
+  {
+    "name": "Sacred Bell",
+    "type": "advanced"
+  },
+  {
+    "name": "Sun Blanket",
+    "type": "advanced"
+  },
+  {
+    "name": "Drought",
+    "type": "basic"
+  },
+  {
+    "name": "Cherry Power",
+    "type": "advanced"
+  },
+  {
+    "name": "Flower Gift",
+    "type": "basic"
+  },
+  {
+    "name": "Root Down",
+    "type": "advanced"
+  },
+  {
+    "name": "Iron Barbs",
+    "type": "advanced"
+  },
+  {
+    "name": "Spike Shot",
+    "type": "basic"
+  },
+  {
+    "name": "Desert Weather",
+    "type": "advanced"
+  },
+  {
+    "name": "Needles",
+    "type": "advanced"
+  },
+  {
+    "name": "Filter",
+    "type": "basic"
+  },
+  {
+    "name": "Eggscellence",
+    "type": "advanced"
+  },
+  {
+    "name": "Harvest",
+    "type": "high"
+  },
+  {
+    "name": "Snow Warning",
+    "type": "high"
+  },
+  {
+    "name": "Magma Armor",
+    "type": "basic"
+  },
+  {
+    "name": "Thermosensitive",
+    "type": "advanced"
+  },
+  {
+    "name": "Delayed Reaction",
+    "type": "advanced"
+  },
+  {
+    "name": "Zen Mode",
+    "type": "high"
+  },
+  {
+    "name": "Water Veil",
+    "type": "basic"
+  },
+  {
+    "name": "Storm Drain",
+    "type": "advanced"
+  },
+  {
+    "name": "Volt Absorb",
+    "type": "basic"
+  },
+  {
+    "name": "Aqua Bullet",
+    "type": "basic"
+  },
+  {
+    "name": "Bully",
+    "type": "advanced"
+  },
+  {
+    "name": "Cursed Body",
+    "type": "high"
+  },
+  {
+    "name": "Starswirl",
+    "type": "advanced"
+  },
+  {
+    "name": "Mind Mold",
+    "type": "advanced"
+  },
+  {
+    "name": "Migraine",
+    "type": "high"
+  },
+  {
+    "name": "Frostbite",
+    "type": "high"
+  },
+  {
+    "name": "Sticky Hold",
+    "type": "basic"
+  },
+  {
+    "name": "Maelstrom Pulse",
+    "type": "high"
+  },
+  {
+    "name": "Beam Cannon",
+    "type": "high"
+  },
+  {
+    "name": "Ugly",
+    "type": "basic"
+  },
+  {
+    "name": "Marvel Scale",
+    "type": "advanced"
+  },
+  {
+    "name": "Mega Launcher",
+    "type": "high"
+  },
+  {
+    "name": "Refrigerate",
+    "type": "high"
+  },
+  {
+    "name": "Freezing Point",
+    "type": "basic"
+  },
+  {
+    "name": "Permafrost",
+    "type": "basic"
+  },
+  {
+    "name": "Minus",
+    "type": "basic"
+  },
+  {
+    "name": "Heliovolt",
+    "type": "high"
+  },
+  {
+    "name": "Probability Control",
+    "type": "basic"
+  },
+  {
+    "name": "Magic Bounce",
+    "type": "high"
+  },
+  {
+    "name": "Snuggle",
+    "type": "advanced"
+  },
+  {
+    "name": "Sonic Courtship",
+    "type": "high"
+  },
+  {
+    "name": "Dream Smoke",
+    "type": "basic"
+  },
+  {
+    "name": "Memory Wipe",
+    "type": "high"
+  },
+  {
+    "name": "Dreamspinner",
+    "type": "advanced"
+  },
+  {
+    "name": "Enfeebling Lips",
+    "type": "high"
+  },
+  {
+    "name": "Wallmaster",
+    "type": "high"
+  },
+  {
+    "name": "Soothing Tone",
+    "type": "high"
+  },
+  {
+    "name": "Weeble",
+    "type": "basic"
+  },
+  {
+    "name": "Wobble",
+    "type": "high"
+  },
+  {
+    "name": "Lightning Kicks",
+    "type": "high"
+  },
+  {
+    "name": "Whirlwind Kicks",
+    "type": "high"
+  },
+  {
+    "name": "Combo Striker",
+    "type": "high"
+  },
+  {
+    "name": "Sumo Stance",
+    "type": "basic"
+  },
+  {
+    "name": "Pure Power",
+    "type": "basic"
+  },
+  {
+    "name": "Aura Storm",
+    "type": "high"
+  },
+  {
+    "name": "Teamwork",
+    "type": "advanced"
+  },
+  {
+    "name": "Brimstone",
+    "type": "advanced"
+  },
+  {
+    "name": "Illusion",
+    "type": "basic"
+  },
+  {
+    "name": "Fade Away",
+    "type": "high"
+  },
+  {
+    "name": "Mojo",
+    "type": "advanced"
+  },
+  {
+    "name": "Voodoo Doll",
+    "type": "high"
+  },
+  {
+    "name": "Mummy",
+    "type": "basic"
+  },
+  {
+    "name": "Forest Lord",
+    "type": "advanced"
+  },
+  {
+    "name": "Pumpkingrab",
+    "type": "advanced"
+  },
+  {
+    "name": "Sweet Veil",
+    "type": "basic"
+  },
+  {
+    "name": "Overgrowth",
+    "type": "high"
+  },
+  {
+    "name": "Leek Mastery",
+    "type": "high"
+  },
+  {
+    "name": "Spiteful Intervention",
+    "type": "advanced"
+  },
+  {
+    "name": "Gore",
+    "type": "advanced"
+  },
+  {
+    "name": "Strange Tempo",
+    "type": "high"
+  },
+  {
+    "name": "Color Change",
+    "type": "basic"
+  },
+  {
+    "name": "Forecast",
+    "type": "basic"
+  },
+  {
+    "name": "Sandstream / Snow Warning",
+    "type": "high"
+  },
+  {
+    "name": "Color Theory",
+    "type": "basic"
+  },
+  {
+    "name": "Exploit",
+    "type": "high"
+  },
+  {
+    "name": "Fabulous Trim",
+    "type": "advanced"
+  },
+  {
+    "name": "Toxic Boost",
+    "type": "basic"
+  },
+  {
+    "name": "Razor Edge",
+    "type": "advanced"
+  },
+  {
+    "name": "Juicy Energy",
+    "type": "high"
+  },
+  {
+    "name": "Kampfgeist",
+    "type": "advanced"
+  },
+  {
+    "name": "Flying Fly Trap",
+    "type": "basic"
+  },
+  {
+    "name": "Slow Start",
+    "type": "basic"
+  },
+  {
+    "name": "Glutony",
+    "type": "basic"
+  },
+  {
+    "name": "Flame Tongue",
+    "type": "advanced"
+  },
+  {
+    "name": "Exploitw",
+    "type": "advanced"
+  },
+  {
+    "name": "Reckless (Red Basculin Only)",
+    "type": "advanced"
+  },
+  {
+    "name": "Rock Head (Blue Basculin Only)",
+    "type": "advanced"
+  },
+  {
+    "name": "Wistful Melody",
+    "type": "advanced"
+  },
+  {
+    "name": "Giver",
+    "type": "basic"
+  },
+  {
+    "name": "Handyman",
+    "type": "high"
+  },
+  {
+    "name": "Poltergeist",
+    "type": "basic"
+  },
+  {
+    "name": "Cave Crasher",
+    "type": "advanced"
+  },
+  {
+    "name": "Imposter",
+    "type": "basic"
+  },
+  {
+    "name": "Last Chance",
+    "type": "advanced"
+  },
+  {
+    "name": "Type Aura (Psychic)",
+    "type": "advanced"
+  },
+  {
+    "name": "Type Aura (Dark)",
+    "type": "advanced"
+  },
+  {
+    "name": "Type Aura (Grass)",
+    "type": "high"
+  },
+  {
+    "name": "Type Aura (Ice)",
+    "type": "advanced"
+  },
+  {
+    "name": "Type Aura (Fairy)",
+    "type": "basic"
+  },
+  {
+    "name": "Pixilate",
+    "type": "advanced"
+  },
+  {
+    "name": "Ice Shield",
+    "type": "advanced"
+  },
+  {
+    "name": "Air Lock",
+    "type": "advanced"
+  },
+  {
+    "name": "Multiscale",
+    "type": "high"
+  },
+  {
+    "name": "Gooey",
+    "type": "advanced"
+  },
+  {
+    "name": "Wishmaster",
+    "type": "advanced"
+  },
+  {
+    "name": "Victory Star",
+    "type": "basic"
+  },
+  {
+    "name": "Diamond Defense",
+    "type": "high"
+  },
+  {
+    "name": "Spining Dance",
+    "type": "advanced"
+  },
+  {
+    "name": "Bad Dreams",
+    "type": "basic"
+  },
+  {
+    "name": "Turboblaze",
+    "type": "basic"
+  },
+  {
+    "name": "Teravolt",
+    "type": "basic"
+  },
+  {
+    "name": "Aura Break",
+    "type": "high"
+  },
+  {
+    "name": "Multitype",
+    "type": "basic"
+  },
+  {
+    "name": "Long Reach",
+    "type": "advanced"
+  },
+  {
+    "name": "Liquid Voice",
+    "type": "advanced"
+  },
+  {
+    "name": "Stakeout",
+    "type": "basic"
+  },
+  {
+    "name": "Battery",
+    "type": "basic"
+  },
+  {
+    "name": "Dancer",
+    "type": "high"
+  },
+  {
+    "name": "Accelerate",
+    "type": "high"
+  },
+  {
+    "name": "Schooling",
+    "type": "basic"
+  },
+  {
+    "name": "Horde Break",
+    "type": "advanced"
+  },
+  {
+    "name": "Merciless",
+    "type": "high"
+  },
+  {
+    "name": "Stamina",
+    "type": "advanced"
+  },
+  {
+    "name": "Mud Shield",
+    "type": "high"
+  },
+  {
+    "name": "Water Bubble",
+    "type": "basic"
+  },
+  {
+    "name": "Radiant Beam",
+    "type": "high"
+  },
+  {
+    "name": "Corrosion",
+    "type": "basic"
+  },
+  {
+    "name": "Chemical Romance",
+    "type": "high"
+  },
+  {
+    "name": "Fluffy",
+    "type": "basic"
+  },
+  {
+    "name": "Queenly Majesty",
+    "type": "basic"
+  },
+  {
+    "name": "Triage",
+    "type": "advanced"
+  },
+  {
+    "name": "Receiver",
+    "type": "advanced"
+  },
+  {
+    "name": "Emergency Exit",
+    "type": "basic"
+  },
+  {
+    "name": "Water Compaction",
+    "type": "basic"
+  },
+  {
+    "name": "Innards Out",
+    "type": "basic"
+  },
+  {
+    "name": "RKS System",
+    "type": "basic"
+  },
+  {
+    "name": "Shields Down",
+    "type": "basic"
+  },
+  {
+    "name": "Comatose",
+    "type": "basic"
+  },
+  {
+    "name": "Disguise",
+    "type": "basic"
+  },
+  {
+    "name": "Dazzling",
+    "type": "basic"
+  },
+  {
+    "name": "Berserk",
+    "type": "basic"
+  },
+  {
+    "name": "Anchored",
+    "type": "basic"
+  },
+  {
+    "name": "Steelworker",
+    "type": "advanced"
+  },
+  {
+    "name": "Surge Surfer",
+    "type": "advanced"
+  },
+  {
+    "name": "Slush Rush",
+    "type": "advanced"
+  },
+  {
+    "name": "Glisten",
+    "type": "advanced"
+  },
+  {
+    "name": "Tangling Hair",
+    "type": "basic"
+  },
+  {
+    "name": "Power of Alchemy",
+    "type": "high"
+  },
+  {
+    "name": "Electric Surge",
+    "type": "high"
+  },
+  {
+    "name": "Psychic Surge",
+    "type": "high"
+  },
+  {
+    "name": "Grassy Surge",
+    "type": "high"
+  },
+  {
+    "name": "Misty Surge",
+    "type": "high"
+  },
+  {
+    "name": "Wonder Guard",
+    "type": "high"
+  },
+  {
+    "name": "Full Metal Body",
+    "type": "basic"
+  },
+  {
+    "name": "Shadow Shield",
+    "type": "basic"
+  },
+  {
+    "name": "Prism Armor",
+    "type": "basic"
+  },
+  {
+    "name": "Sunglow or Starlight",
+    "type": "advanced"
+  },
+  {
+    "name": "Power Construct",
+    "type": "basic"
+  },
+  {
+    "name": "Beast Boost",
+    "type": "basic"
+  },
+  {
+    "name": "Soul Heart",
+    "type": "basic"
+  },
+  {
+    "name": "Mimicry",
+    "type": "basic"
+  },
+  {
+    "name": "Mirror Armor",
+    "type": "high"
+  },
+  {
+    "name": "Cotton Down",
+    "type": "basic"
+  },
+  {
+    "name": "Ball Fetch",
+    "type": "basic"
+  },
+  {
+    "name": "Steam Engine",
+    "type": "basic"
+  },
+  {
+    "name": "Ripen",
+    "type": "advanced"
+  },
+  {
+    "name": "Sand Spit",
+    "type": "advanced"
+  },
+  {
+    "name": "Gulp Missile",
+    "type": "basic"
+  },
+  {
+    "name": "Propeller Tail",
+    "type": "advanced"
+  },
+  {
+    "name": "Punk Rock",
+    "type": "advanced"
+  },
+  {
+    "name": "Flavorful Aroma",
+    "type": "advanced"
+  },
+  {
+    "name": "Ice Scales",
+    "type": "advanced"
+  },
+  {
+    "name": "Power Spot",
+    "type": "basic"
+  },
+  {
+    "name": "Ice Face",
+    "type": "basic"
+  },
+  {
+    "name": "Hunger Switch",
+    "type": "basic"
+  },
+  {
+    "name": "Light Metal or Heavy Metal",
+    "type": "basic"
+  },
+  {
+    "name": "Stalwart",
+    "type": "high"
+  },
+  {
+    "name": "Missile Launch",
+    "type": "high"
+  },
+  {
+    "name": "Type Aura (Steel)",
+    "type": "advanced"
+  },
+  {
+    "name": "Pastel Veil",
+    "type": "basic"
+  },
+  {
+    "name": "Thrust",
+    "type": "high"
+  },
+  {
+    "name": "Neutralizing Gas",
+    "type": "high"
+  },
+  {
+    "name": "Screen Cleaner",
+    "type": "high"
+  },
+  {
+    "name": "Perish Body",
+    "type": "high"
+  },
+  {
+    "name": "Gorilla Tactics",
+    "type": "basic"
+  },
+  {
+    "name": "Zen Snowed",
+    "type": "high"
+  },
+  {
+    "name": "Wandering Spirit",
+    "type": "basic"
+  },
+  {
+    "name": "Quick Draw",
+    "type": "basic"
+  },
+  {
+    "name": "Curious Medicine",
+    "type": "basic"
+  },
+  {
+    "name": "Intrepid Sword",
+    "type": "basic"
+  },
+  {
+    "name": "Dauntless Shield",
+    "type": "basic"
+  },
+  {
+    "name": "Unseen Fist",
+    "type": "basic"
+  },
+  {
+    "name": "Type Aura (Fighting)",
+    "type": "advanced"
+  },
+  {
+    "name": "Transistor",
+    "type": "basic"
+  },
+  {
+    "name": "Dragon’s Maw",
+    "type": "basic"
+  },
+  {
+    "name": "Chilling Neigh",
+    "type": "basic"
+  },
+  {
+    "name": "Grim Neigh",
+    "type": "basic"
+  },
+  {
+    "name": "Splendorous Rider",
+    "type": "high"
+  },
+  {
+    "name": "Toxic Nourishment",
+    "type": "high"
+  },
+  {
+    "name": "Psionic Screech",
+    "type": "advanced"
+  }
+]
