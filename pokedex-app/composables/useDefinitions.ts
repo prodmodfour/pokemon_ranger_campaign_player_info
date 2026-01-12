@@ -36,14 +36,15 @@ const typeChart: Record<string, { strong: string[]; weak: string[]; immune: stri
   Fairy: { strong: ['Fighting', 'Dragon', 'Dark'], weak: ['Fire', 'Poison', 'Steel'], immune: [] }
 }
 
-export function useDefinitions() {
-  const abilities = ref(abilitiesData as { name: string; type?: string; trigger?: string; effect?: string }[])
-  const moves = ref(movesData as { name: string; type?: string }[])
-  const capabilities = ref(capabilitiesData as { name: string; description?: string }[])
-  const types = ref(typesData as Record<string, string>)
+// Shared state - defined outside function so all components share the same refs
+const abilities = ref(abilitiesData as { name: string; type?: string; trigger?: string; effect?: string }[])
+const moves = ref(movesData as { name: string; type?: string }[])
+const capabilities = ref(capabilitiesData as { name: string; description?: string }[])
+const types = ref(typesData as Record<string, string>)
+const currentDefinition = ref<Definition | null>(null)
+const isModalOpen = ref(false)
 
-  const currentDefinition = ref<Definition | null>(null)
-  const isModalOpen = ref(false)
+export function useDefinitions() {
 
   const lookupAbility = (name: string): Definition | null => {
     const ability = abilities.value.find(a => a.name.toLowerCase() === name.toLowerCase())
