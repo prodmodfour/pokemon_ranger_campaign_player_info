@@ -20,6 +20,21 @@ const totalStats = computed(() => {
   return (stats.hp || 0) + (stats.attack || 0) + (stats.defense || 0) +
          (stats.special_attack || 0) + (stats.special_defense || 0) + (stats.speed || 0)
 })
+
+// Generate sprite URL from Pokemon name
+const spriteUrl = computed(() => {
+  const name = props.pokemon.name
+    .toLowerCase()
+    .replace(/[^a-z0-9-]/g, '') // Remove special chars
+    .replace(/♀/g, '-f')
+    .replace(/♂/g, '-m')
+  return `https://img.pokemondb.net/sprites/home/normal/${name}.png`
+})
+
+const imgError = ref(false)
+const handleImgError = () => {
+  imgError.value = true
+}
 </script>
 
 <template>
@@ -34,9 +49,30 @@ const totalStats = computed(() => {
     />
 
     <div class="p-4">
+      <!-- Sprite Image -->
+      <div class="flex justify-center mb-2">
+        <div class="w-20 h-20 flex items-center justify-center">
+          <img
+            v-if="!imgError"
+            :src="spriteUrl"
+            :alt="pokemon.name"
+            class="max-w-full max-h-full object-contain drop-shadow-lg"
+            loading="lazy"
+            @error="handleImgError"
+          />
+          <div
+            v-else
+            class="w-16 h-16 rounded-full flex items-center justify-center text-2xl font-bold text-white"
+            :style="{ backgroundColor: primaryColor }"
+          >
+            {{ pokemon.name.charAt(0) }}
+          </div>
+        </div>
+      </div>
+
       <!-- Name and Types -->
-      <div class="flex items-start justify-between mb-3">
-        <h3 class="font-bold text-gray-100 text-lg group-hover:text-blue-400 transition-colors">
+      <div class="flex items-start justify-between mb-2">
+        <h3 class="font-bold text-gray-100 text-base group-hover:text-blue-400 transition-colors">
           {{ pokemon.name }}
         </h3>
       </div>

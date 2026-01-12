@@ -40,6 +40,21 @@ const handleBackdropClick = (e: MouseEvent) => {
 
 // Tab management
 const activeTab = ref<'stats' | 'moves' | 'info'>('stats')
+
+// Generate sprite URL from Pokemon name
+const spriteUrl = computed(() => {
+  const name = props.pokemon.name
+    .toLowerCase()
+    .replace(/[^a-z0-9-]/g, '')
+    .replace(/♀/g, '-f')
+    .replace(/♂/g, '-m')
+  return `https://img.pokemondb.net/sprites/home/normal/${name}.png`
+})
+
+const imgError = ref(false)
+const handleImgError = () => {
+  imgError.value = true
+}
 </script>
 
 <template>
@@ -62,23 +77,44 @@ const activeTab = ref<'stats' | 'moves' | 'info'>('stats')
           </svg>
         </button>
 
-        <h2 class="text-2xl font-bold mb-2">{{ pokemon.name }}</h2>
+        <div class="flex items-center gap-4">
+          <!-- Sprite -->
+          <div class="w-24 h-24 flex items-center justify-center flex-shrink-0">
+            <img
+              v-if="!imgError"
+              :src="spriteUrl"
+              :alt="pokemon.name"
+              class="max-w-full max-h-full object-contain drop-shadow-lg"
+              @error="handleImgError"
+            />
+            <div
+              v-else
+              class="w-20 h-20 rounded-full flex items-center justify-center text-3xl font-bold bg-white/20"
+            >
+              {{ pokemon.name.charAt(0) }}
+            </div>
+          </div>
 
-        <!-- Types -->
-        <div class="flex gap-2 mb-3">
-          <button
-            v-for="type in pokemon.types"
-            :key="type"
-            @click="showDefinition(type, 'type')"
-            class="px-3 py-1 rounded-full text-sm font-semibold bg-white/20 hover:bg-white/30 transition-colors"
-          >
-            {{ type }}
-          </button>
-        </div>
+          <div>
+            <h2 class="text-2xl font-bold mb-2">{{ pokemon.name }}</h2>
 
-        <!-- Size & Weight -->
-        <div class="text-sm opacity-90">
-          {{ pokemon.size.height }} | {{ pokemon.size.weight }} | {{ pokemon.size.sizeClass }}
+            <!-- Types -->
+            <div class="flex gap-2 mb-2">
+              <button
+                v-for="type in pokemon.types"
+                :key="type"
+                @click="showDefinition(type, 'type')"
+                class="px-3 py-1 rounded-full text-sm font-semibold bg-white/20 hover:bg-white/30 transition-colors"
+              >
+                {{ type }}
+              </button>
+            </div>
+
+            <!-- Size & Weight -->
+            <div class="text-sm opacity-90">
+              {{ pokemon.size.height }} | {{ pokemon.size.weight }} | {{ pokemon.size.sizeClass }}
+            </div>
+          </div>
         </div>
       </div>
 
