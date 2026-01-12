@@ -94,6 +94,9 @@ onMounted(() => {
         @close="closePokemonDetail"
       />
     </Transition>
+
+    <!-- Definition Modal (for moves, abilities, types, capabilities) -->
+    <DefinitionModal />
   </div>
 </template>
 
