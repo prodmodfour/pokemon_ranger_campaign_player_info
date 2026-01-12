@@ -49,9 +49,9 @@ const getPrerequisiteColor = (prereq: string) => {
   if (prereq.toLowerCase() === 'none') return 'bg-green-900/50 text-green-300'
   if (prereq.toLowerCase().includes('level')) return 'bg-yellow-900/50 text-yellow-300'
   if (prereq.toLowerCase().includes('master')) return 'bg-purple-900/50 text-purple-300'
-  if (prereq.toLowerCase().includes('expert')) return 'bg-blue-900/50 text-blue-300'
+  if (prereq.toLowerCase().includes('expert')) return 'bg-blue-900/50 text-red-300'
   if (prereq.toLowerCase().includes('adept')) return 'bg-cyan-900/50 text-cyan-300'
-  return 'bg-gray-700 text-gray-300'
+  return 'bg-zinc-900 text-gray-300'
 }
 </script>
 
@@ -62,7 +62,7 @@ const getPrerequisiteColor = (prereq: string) => {
       <button
         @click="selectedLetter = ''"
         class="px-3 py-1.5 rounded text-sm font-medium transition-colors"
-        :class="!selectedLetter ? 'bg-blue-600 text-white' : 'bg-gray-700 text-gray-300 hover:bg-gray-600'"
+        :class="!selectedLetter ? 'bg-red-600 text-white' : 'bg-zinc-900 text-gray-300 hover:bg-gray-800'"
       >
         All
       </button>
@@ -71,7 +71,7 @@ const getPrerequisiteColor = (prereq: string) => {
         :key="letter"
         @click="selectedLetter = letter"
         class="w-8 h-8 rounded text-sm font-medium transition-colors flex items-center justify-center"
-        :class="selectedLetter === letter ? 'bg-blue-600 text-white' : 'bg-gray-700 text-gray-300 hover:bg-gray-600'"
+        :class="selectedLetter === letter ? 'bg-red-600 text-white' : 'bg-zinc-900 text-gray-300 hover:bg-gray-800'"
       >
         {{ letter }}
       </button>
@@ -85,8 +85,8 @@ const getPrerequisiteColor = (prereq: string) => {
     <!-- Grouped Edges -->
     <div class="space-y-6">
       <div v-for="[letter, letterEdges] in groupedEdges" :key="letter">
-        <div class="flex items-center gap-2 mb-3 sticky top-32 bg-gray-900 py-2 z-10">
-          <span class="w-8 h-8 rounded bg-blue-600 text-white text-sm font-bold flex items-center justify-center">
+        <div class="flex items-center gap-2 mb-3 sticky top-[41px] bg-black py-2 z-10">
+          <span class="w-8 h-8 rounded bg-red-600 text-white text-sm font-bold flex items-center justify-center">
             {{ letter }}
           </span>
           <span class="text-sm text-gray-500">({{ letterEdges.length }})</span>
@@ -95,7 +95,7 @@ const getPrerequisiteColor = (prereq: string) => {
           <div
             v-for="edge in letterEdges"
             :key="edge.name"
-            class="bg-gray-800 rounded-lg p-4 hover:bg-gray-750 transition-colors border border-gray-700"
+            class="bg-zinc-900 rounded-lg p-4 hover:bg-gray-750 transition-colors border border-gray-800"
           >
             <h3 class="font-semibold text-gray-100 mb-2">{{ edge.name }}</h3>
             <div v-if="edge.prerequisites" class="mb-2">

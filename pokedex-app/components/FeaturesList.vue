@@ -57,11 +57,11 @@ const getTagColor = (tag: string) => {
 
 const getTagClass = (tag: string) => {
   if (tag.toLowerCase() === 'class') return 'bg-purple-900/50 text-purple-300'
-  if (tag.toLowerCase() === 'orders') return 'bg-blue-900/50 text-blue-300'
+  if (tag.toLowerCase() === 'orders') return 'bg-blue-900/50 text-red-300'
   if (tag.startsWith('+')) return 'bg-green-900/50 text-green-300'
   if (tag.toLowerCase().includes('stat')) return 'bg-yellow-900/50 text-yellow-300'
   if (tag.toLowerCase().includes('skill')) return 'bg-teal-900/50 text-teal-300'
-  return 'bg-gray-700 text-gray-300'
+  return 'bg-zinc-900 text-gray-300'
 }
 </script>
 
@@ -72,7 +72,7 @@ const getTagClass = (tag: string) => {
       <button
         @click="selectedTag = ''"
         class="px-3 py-1.5 rounded-full text-sm font-medium transition-colors"
-        :class="!selectedTag ? 'bg-blue-600 text-white' : 'bg-gray-700 text-gray-300 hover:bg-gray-600'"
+        :class="!selectedTag ? 'bg-red-600 text-white' : 'bg-zinc-900 text-gray-300 hover:bg-gray-800'"
       >
         All Tags
       </button>
@@ -82,7 +82,7 @@ const getTagClass = (tag: string) => {
         @click="selectedTag = tag"
         class="px-3 py-1.5 rounded-full text-sm font-medium transition-colors text-white"
         :style="{ backgroundColor: selectedTag === tag ? getTagColor(tag) : undefined }"
-        :class="selectedTag !== tag ? 'bg-gray-700 hover:bg-gray-600' : ''"
+        :class="selectedTag !== tag ? 'bg-zinc-900 hover:bg-gray-800' : ''"
       >
         {{ tag }}
       </button>
@@ -96,7 +96,7 @@ const getTagClass = (tag: string) => {
     <!-- Grouped Features -->
     <div class="space-y-6">
       <div v-for="[tag, tagFeatures] in groupedFeatures" :key="tag">
-        <div class="flex items-center gap-2 mb-3 sticky top-32 bg-gray-900 py-2 z-10">
+        <div class="flex items-center gap-2 mb-3 sticky top-[41px] bg-black py-2 z-10">
           <span
             class="px-3 py-1 rounded text-sm font-semibold text-white"
             :style="{ backgroundColor: getTagColor(tag) }"
@@ -107,7 +107,7 @@ const getTagClass = (tag: string) => {
           <div
             v-for="feature in tagFeatures"
             :key="feature.name"
-            class="bg-gray-800 rounded-lg p-4 hover:bg-gray-750 transition-colors border border-gray-700"
+            class="bg-zinc-900 rounded-lg p-4 hover:bg-gray-750 transition-colors border border-gray-800"
           >
             <div class="flex items-start justify-between gap-2 mb-2">
               <h3 class="font-semibold text-gray-100">{{ feature.name }}</h3>

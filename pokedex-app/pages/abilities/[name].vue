@@ -22,9 +22,12 @@ const ability = computed(() => {
 </script>
 
 <template>
-  <div class="min-h-screen bg-gray-900">
+  <div class="min-h-screen bg-black">
+    <!-- Nav Bar -->
+    <NavBar />
+
     <!-- Header -->
-    <header class="bg-gray-800 shadow-lg border-b border-gray-700">
+    <header class="bg-zinc-900 shadow-lg border-b border-gray-800">
       <div class="max-w-4xl mx-auto px-4 py-4">
         <NuxtLink
           to="/"
@@ -50,7 +53,7 @@ const ability = computed(() => {
         <p class="text-gray-400 mb-4">Could not find an ability named "{{ abilityName }}"</p>
         <NuxtLink
           to="/"
-          class="inline-flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+          class="inline-flex items-center gap-2 px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors"
         >
           Return to Pokedex
         </NuxtLink>
@@ -81,9 +84,9 @@ const ability = computed(() => {
         </div>
 
         <!-- Effect Section -->
-        <div class="bg-gray-800 rounded-xl p-6 border border-gray-700">
+        <div class="bg-zinc-900 rounded-xl p-6 border border-gray-800">
           <h3 class="text-lg font-semibold text-gray-100 mb-3 flex items-center gap-2">
-            <svg class="w-5 h-5 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg class="w-5 h-5 text-red-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
             </svg>
             Effect
@@ -97,7 +100,7 @@ const ability = computed(() => {
         </div>
 
         <!-- Trigger Details -->
-        <div v-if="ability.trigger" class="bg-gray-800 rounded-xl p-6 border border-gray-700">
+        <div v-if="ability.trigger" class="bg-zinc-900 rounded-xl p-6 border border-gray-800">
           <h3 class="text-lg font-semibold text-gray-100 mb-3 flex items-center gap-2">
             <svg class="w-5 h-5 text-yellow-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />

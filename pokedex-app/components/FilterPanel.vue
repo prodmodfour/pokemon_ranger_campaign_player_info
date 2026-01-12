@@ -1,11 +1,20 @@
 <script setup lang="ts">
-const { allTypes, allHabitats, allSizes, selectedTypes, selectedHabitat, selectedSize, clearFilters, getTypeColor } = usePokedex()
+const { allTypes, allHabitats, allSizes, allCapabilities, selectedTypes, selectedHabitat, selectedSize, selectedCapabilities, startersOnly, clearFilters, getTypeColor } = usePokedex()
 
 const isExpanded = ref(false)
 
 const hasActiveFilters = computed(() => {
-  return selectedTypes.value.length > 0 || selectedHabitat.value || selectedSize.value
+  return selectedTypes.value.length > 0 || selectedHabitat.value || selectedSize.value || selectedCapabilities.value.length > 0 || startersOnly.value
 })
+
+const toggleCapability = (cap: string) => {
+  const index = selectedCapabilities.value.indexOf(cap)
+  if (index === -1) {
+    selectedCapabilities.value.push(cap)
+  } else {
+    selectedCapabilities.value.splice(index, 1)
+  }
+}
 
 const toggleType = (type: string) => {
   const index = selectedTypes.value.indexOf(type)
@@ -18,7 +27,7 @@ const toggleType = (type: string) => {
 </script>
 
 <template>
-  <div class="bg-gray-800 rounded-lg shadow-sm border border-gray-700 p-4">
+  <div class="bg-zinc-900 rounded-lg shadow-sm border border-gray-800 p-4">
     <div class="flex items-center justify-between mb-3">
       <button
         @click="isExpanded = !isExpanded"
@@ -36,7 +45,7 @@ const toggleType = (type: string) => {
         Filters
         <span
           v-if="hasActiveFilters"
-          class="bg-blue-500 text-white text-xs px-2 py-0.5 rounded-full"
+          class="bg-red-500 text-white text-xs px-2 py-0.5 rounded-full"
         >
           Active
         </span>
@@ -51,6 +60,21 @@ const toggleType = (type: string) => {
     </div>
 
     <div v-show="isExpanded" class="space-y-4">
+      <!-- Quick Filters -->
+      <div>
+        <label class="block text-sm font-medium text-gray-300 mb-2">Quick Filters</label>
+        <button
+          @click="startersOnly = !startersOnly"
+          class="px-3 py-1.5 rounded-lg text-sm font-medium transition-all"
+          :class="startersOnly
+            ? 'bg-red-600 text-white ring-2 ring-offset-1 ring-offset-zinc-900 ring-red-400'
+            : 'bg-zinc-800 text-gray-300 hover:bg-zinc-700'"
+        >
+          Starters Only
+        </button>
+        <p class="text-xs text-gray-500 mt-1">Underdog Pokemon that are unevolved and non-legendary</p>
+      </div>
+
       <!-- Type Filter -->
       <div>
         <label class="block text-sm font-medium text-gray-300 mb-2">Types</label>
@@ -75,7 +99,7 @@ const toggleType = (type: string) => {
         <label class="block text-sm font-medium text-gray-300 mb-2">Habitat</label>
         <select
           v-model="selectedHabitat"
-          class="block w-full px-3 py-2 border border-gray-600 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 text-sm bg-gray-700 text-gray-100"
+          class="block w-full px-3 py-2 border border-gray-700 rounded-md shadow-sm focus:ring-red-500 focus:border-red-500 text-sm bg-zinc-900 text-gray-100"
         >
           <option :value="null">All Habitats</option>
           <option v-for="habitat in allHabitats" :key="habitat" :value="habitat">
@@ -89,13 +113,34 @@ const toggleType = (type: string) => {
         <label class="block text-sm font-medium text-gray-300 mb-2">Size</label>
         <select
           v-model="selectedSize"
-          class="block w-full px-3 py-2 border border-gray-600 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 text-sm bg-gray-700 text-gray-100"
+          class="block w-full px-3 py-2 border border-gray-700 rounded-md shadow-sm focus:ring-red-500 focus:border-red-500 text-sm bg-zinc-900 text-gray-100"
         >
           <option :value="null">All Sizes</option>
           <option v-for="size in allSizes" :key="size" :value="size">
             {{ size }}
           </option>
         </select>
+      </div>
+
+      <!-- Capabilities Filter -->
+      <div>
+        <label class="block text-sm font-medium text-gray-300 mb-2">
+          Capabilities
+          <span v-if="selectedCapabilities.length" class="text-red-400 ml-1">({{ selectedCapabilities.length }} selected)</span>
+        </label>
+        <div class="flex flex-wrap gap-1.5 max-h-32 overflow-y-auto">
+          <button
+            v-for="cap in allCapabilities"
+            :key="cap"
+            @click="toggleCapability(cap)"
+            class="px-2 py-1 rounded text-xs font-medium transition-all"
+            :class="selectedCapabilities.includes(cap)
+              ? 'bg-red-600 text-white ring-2 ring-offset-1 ring-offset-zinc-900 ring-red-400'
+              : 'bg-zinc-800 text-gray-300 hover:bg-zinc-700'"
+          >
+            {{ cap }}
+          </button>
+        </div>
       </div>
     </div>
   </div>

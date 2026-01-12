@@ -66,7 +66,7 @@ const filteredMoves = computed(() => {
         <button
           @click="selectedType = ''"
           class="px-3 py-1.5 rounded-full text-sm font-medium transition-colors"
-          :class="!selectedType ? 'bg-white text-gray-900 ring-2 ring-white' : 'bg-gray-700 text-gray-300 hover:bg-gray-600'"
+          :class="!selectedType ? 'bg-white text-gray-900 ring-2 ring-white' : 'bg-zinc-900 text-gray-300 hover:bg-gray-800'"
         >
           All Types
         </button>
@@ -87,28 +87,28 @@ const filteredMoves = computed(() => {
         <button
           @click="selectedCategory = ''"
           class="px-3 py-1.5 rounded text-sm font-medium transition-colors"
-          :class="!selectedCategory ? 'bg-blue-600 text-white' : 'bg-gray-700 text-gray-300 hover:bg-gray-600'"
+          :class="!selectedCategory ? 'bg-red-600 text-white' : 'bg-zinc-900 text-gray-300 hover:bg-gray-800'"
         >
           All
         </button>
         <button
           @click="selectedCategory = 'Physical'"
           class="px-3 py-1.5 rounded text-sm font-medium transition-colors"
-          :class="selectedCategory === 'Physical' ? 'bg-red-600 text-white' : 'bg-gray-700 text-gray-300 hover:bg-gray-600'"
+          :class="selectedCategory === 'Physical' ? 'bg-red-600 text-white' : 'bg-zinc-900 text-gray-300 hover:bg-gray-800'"
         >
           Physical
         </button>
         <button
           @click="selectedCategory = 'Special'"
           class="px-3 py-1.5 rounded text-sm font-medium transition-colors"
-          :class="selectedCategory === 'Special' ? 'bg-blue-600 text-white' : 'bg-gray-700 text-gray-300 hover:bg-gray-600'"
+          :class="selectedCategory === 'Special' ? 'bg-red-600 text-white' : 'bg-zinc-900 text-gray-300 hover:bg-gray-800'"
         >
           Special
         </button>
         <button
           @click="selectedCategory = 'Status'"
           class="px-3 py-1.5 rounded text-sm font-medium transition-colors"
-          :class="selectedCategory === 'Status' ? 'bg-gray-500 text-white' : 'bg-gray-700 text-gray-300 hover:bg-gray-600'"
+          :class="selectedCategory === 'Status' ? 'bg-gray-500 text-white' : 'bg-zinc-900 text-gray-300 hover:bg-gray-800'"
         >
           Status
         </button>
@@ -123,7 +123,7 @@ const filteredMoves = computed(() => {
     <!-- Moves Table -->
     <div class="overflow-x-auto">
       <table class="w-full text-sm table-fixed">
-        <thead class="bg-gray-800 text-gray-300 sticky top-0">
+        <thead class="bg-zinc-900 text-gray-300 sticky top-0">
           <tr>
             <th class="text-left px-2 py-2 font-medium w-28">Name</th>
             <th class="text-left px-2 py-2 font-medium w-20">Type</th>
@@ -139,12 +139,12 @@ const filteredMoves = computed(() => {
           <tr
             v-for="move in filteredMoves"
             :key="move.name"
-            class="hover:bg-gray-800/50 transition-colors align-top"
+            class="hover:bg-zinc-900/50 transition-colors align-top"
           >
             <td class="px-2 py-2 font-medium">
               <NuxtLink
                 :to="`/moves/${encodeURIComponent(move.name.replace(/ /g, '-'))}`"
-                class="text-blue-400 hover:text-blue-300 hover:underline transition-colors"
+                class="text-red-400 hover:text-red-300 hover:underline transition-colors"
               >
                 {{ move.name }}
               </NuxtLink>
@@ -160,8 +160,8 @@ const filteredMoves = computed(() => {
                 class="px-2 py-0.5 rounded text-xs font-medium"
                 :class="{
                   'bg-red-900/50 text-red-300': move.category === 'Physical',
-                  'bg-blue-900/50 text-blue-300': move.category === 'Special',
-                  'bg-gray-600/50 text-gray-300': move.category === 'Status'
+                  'bg-blue-900/50 text-red-300': move.category === 'Special',
+                  'bg-gray-800/50 text-gray-300': move.category === 'Status'
                 }"
               >{{ move.category }}</span>
             </td>

@@ -69,7 +69,7 @@ const handleImgError = () => {
 <template>
   <div
     @click="emit('click', pokemon)"
-    class="bg-gray-800 rounded-xl shadow-md hover:shadow-lg transition-all cursor-pointer overflow-hidden border border-gray-700 hover:border-gray-500 group"
+    class="bg-zinc-900 rounded-xl shadow-md hover:shadow-lg transition-all cursor-pointer overflow-hidden border border-gray-800 hover:border-gray-500 group"
   >
     <!-- Header with gradient background -->
     <div
@@ -101,7 +101,7 @@ const handleImgError = () => {
 
       <!-- Name and Types -->
       <div class="flex items-start justify-between mb-2">
-        <h3 class="font-bold text-gray-100 text-base group-hover:text-blue-400 transition-colors">
+        <h3 class="font-bold text-gray-100 text-base group-hover:text-red-400 transition-colors">
           {{ pokemon.name }}
         </h3>
       </div>
@@ -117,27 +117,27 @@ const handleImgError = () => {
 
       <!-- Quick Stats -->
       <div class="grid grid-cols-3 gap-2 text-xs">
-        <div class="text-center p-1.5 bg-gray-700 rounded">
+        <div class="text-center p-1.5 bg-zinc-900 rounded">
           <div class="text-gray-400">HP</div>
           <div class="font-semibold text-gray-200">{{ pokemon.baseStats.hp || '?' }}</div>
         </div>
-        <div class="text-center p-1.5 bg-gray-700 rounded">
+        <div class="text-center p-1.5 bg-zinc-900 rounded">
           <div class="text-gray-400">ATK</div>
           <div class="font-semibold text-gray-200">{{ pokemon.baseStats.attack || '?' }}</div>
         </div>
-        <div class="text-center p-1.5 bg-gray-700 rounded">
+        <div class="text-center p-1.5 bg-zinc-900 rounded">
           <div class="text-gray-400">DEF</div>
           <div class="font-semibold text-gray-200">{{ pokemon.baseStats.defense || '?' }}</div>
         </div>
-        <div class="text-center p-1.5 bg-gray-700 rounded">
+        <div class="text-center p-1.5 bg-zinc-900 rounded">
           <div class="text-gray-400">SpA</div>
           <div class="font-semibold text-gray-200">{{ pokemon.baseStats.special_attack || '?' }}</div>
         </div>
-        <div class="text-center p-1.5 bg-gray-700 rounded">
+        <div class="text-center p-1.5 bg-zinc-900 rounded">
           <div class="text-gray-400">SpD</div>
           <div class="font-semibold text-gray-200">{{ pokemon.baseStats.special_defense || '?' }}</div>
         </div>
-        <div class="text-center p-1.5 bg-gray-700 rounded">
+        <div class="text-center p-1.5 bg-zinc-900 rounded">
           <div class="text-gray-400">SPD</div>
           <div class="font-semibold text-gray-200">{{ pokemon.baseStats.speed || '?' }}</div>
         </div>

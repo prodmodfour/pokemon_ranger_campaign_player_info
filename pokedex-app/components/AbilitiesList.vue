@@ -33,12 +33,12 @@ const filteredAbilities = computed(() => {
       <div
         v-for="ability in filteredAbilities"
         :key="ability.name"
-        class="bg-gray-800 rounded-lg p-4 hover:bg-gray-750 transition-colors border border-gray-700"
+        class="bg-zinc-900 rounded-lg p-4 hover:bg-gray-750 transition-colors border border-gray-800"
       >
         <div class="flex items-start justify-between gap-2 mb-2">
           <NuxtLink
             :to="`/abilities/${encodeURIComponent(ability.name.replace(/ /g, '-'))}`"
-            class="font-semibold text-blue-400 hover:text-blue-300 hover:underline transition-colors"
+            class="font-semibold text-red-400 hover:text-red-300 hover:underline transition-colors"
           >
             {{ ability.name }}
           </NuxtLink>

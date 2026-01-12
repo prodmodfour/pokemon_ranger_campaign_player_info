@@ -91,7 +91,7 @@ const handleImgError = () => {
     class="fixed inset-0 z-40 flex items-center justify-center p-4 bg-black/50"
     @click="handleBackdropClick"
   >
-    <div class="bg-gray-800 rounded-2xl shadow-2xl max-w-2xl w-full max-h-[90vh] overflow-hidden flex flex-col">
+    <div class="bg-zinc-900 rounded-2xl shadow-2xl max-w-2xl w-full max-h-[90vh] overflow-hidden flex flex-col">
       <!-- Header -->
       <div
         class="px-6 py-4 text-white relative"
@@ -148,13 +148,13 @@ const handleImgError = () => {
       </div>
 
       <!-- Tabs -->
-      <div class="flex border-b border-gray-700">
+      <div class="flex border-b border-gray-800">
         <button
           v-for="tab in ['stats', 'moves', 'info'] as const"
           :key="tab"
           @click="activeTab = tab"
           class="flex-1 px-4 py-3 text-sm font-medium transition-colors"
-          :class="activeTab === tab ? 'text-blue-400 border-b-2 border-blue-400' : 'text-gray-400 hover:text-gray-200'"
+          :class="activeTab === tab ? 'text-red-400 border-b-2 border-red-400' : 'text-gray-400 hover:text-gray-200'"
         >
           {{ tab.charAt(0).toUpperCase() + tab.slice(1) }}
         </button>
@@ -170,7 +170,7 @@ const handleImgError = () => {
             <div class="space-y-2">
               <div v-for="(value, key) in pokemon.baseStats" :key="key" class="flex items-center gap-3">
                 <span class="w-20 text-sm text-gray-400 capitalize">{{ key.replace('_', ' ') }}</span>
-                <div class="flex-1 h-4 bg-gray-700 rounded-full overflow-hidden">
+                <div class="flex-1 h-4 bg-zinc-900 rounded-full overflow-hidden">
                   <div
                     class="h-full rounded-full transition-all"
                     :style="{ width: statBarWidth(value), backgroundColor: primaryColor }"
@@ -178,7 +178,7 @@ const handleImgError = () => {
                 </div>
                 <span class="w-8 text-sm font-semibold text-gray-200 text-right">{{ value }}</span>
               </div>
-              <div class="flex items-center gap-3 pt-2 border-t border-gray-700">
+              <div class="flex items-center gap-3 pt-2 border-t border-gray-800">
                 <span class="w-20 text-sm font-semibold text-gray-200">Total</span>
                 <div class="flex-1"></div>
                 <span class="w-8 text-sm font-bold text-gray-100 text-right">{{ totalStats }}</span>
@@ -210,7 +210,7 @@ const handleImgError = () => {
                     v-for="ability in pokemon.abilities.advanced"
                     :key="ability"
                     @click="showDefinition(ability, 'ability')"
-                    class="px-2 py-1 bg-blue-100 text-blue-800 rounded text-sm hover:bg-blue-200 transition-colors"
+                    class="px-2 py-1 bg-red-100 text-red-800 rounded text-sm hover:bg-red-200 transition-colors"
                   >
                     {{ ability }}
                   </button>
@@ -237,7 +237,7 @@ const handleImgError = () => {
               <div
                 v-for="(value, skill) in pokemon.skills"
                 :key="skill"
-                class="flex justify-between px-3 py-2 bg-gray-700 rounded"
+                class="flex justify-between px-3 py-2 bg-zinc-900 rounded"
               >
                 <span class="text-sm text-gray-400 capitalize">{{ skill }}</span>
                 <span class="text-sm font-mono font-semibold text-gray-200">{{ value }}</span>
@@ -253,7 +253,7 @@ const handleImgError = () => {
                 v-for="cap in pokemon.capabilities"
                 :key="cap"
                 @click="showDefinition(cap.split(/[\s(]/)[0], 'capability')"
-                class="px-2 py-1 bg-gray-700 text-gray-300 rounded text-sm hover:bg-gray-600 transition-colors"
+                class="px-2 py-1 bg-zinc-900 text-gray-300 rounded text-sm hover:bg-gray-800 transition-colors"
               >
                 {{ cap }}
               </button>
@@ -271,7 +271,7 @@ const handleImgError = () => {
                 v-for="move in pokemon.moves.levelUp"
                 :key="`${move.level}-${move.name}`"
                 @click="showDefinition(move.name, 'move')"
-                class="w-full flex items-center gap-3 px-3 py-2 rounded hover:bg-gray-700 transition-colors text-left"
+                class="w-full flex items-center gap-3 px-3 py-2 rounded hover:bg-zinc-900 transition-colors text-left"
               >
                 <span class="w-8 text-sm text-gray-400">Lv{{ move.level }}</span>
                 <span class="flex-1 text-sm font-medium text-gray-200">{{ move.name }}</span>
@@ -291,7 +291,7 @@ const handleImgError = () => {
                 v-for="move in pokemon.moves.tmHm"
                 :key="move"
                 @click="showDefinition(move, 'move')"
-                class="px-2 py-1 bg-blue-900/50 text-blue-300 rounded text-sm hover:bg-blue-800/50 transition-colors"
+                class="px-2 py-1 bg-blue-900/50 text-red-300 rounded text-sm hover:bg-blue-800/50 transition-colors"
               >
                 {{ move }}
               </button>
@@ -338,7 +338,7 @@ const handleImgError = () => {
               <template v-for="(evo, index) in pokemon.evolution" :key="evo.stage">
                 <div
                   class="flex flex-col items-center p-3 rounded-lg"
-                  :class="evo.name.toLowerCase() === pokemon.name.toLowerCase() ? 'bg-blue-900/50 ring-2 ring-blue-400' : 'bg-gray-700'"
+                  :class="evo.name.toLowerCase() === pokemon.name.toLowerCase() ? 'bg-blue-900/50 ring-2 ring-blue-400' : 'bg-zinc-900'"
                 >
                   <span class="text-xs text-gray-400">Stage {{ evo.stage }}</span>
                   <span class="font-medium text-gray-200">{{ evo.name }}</span>
@@ -355,19 +355,19 @@ const handleImgError = () => {
           <div>
             <h3 class="font-semibold text-gray-200 mb-3">Breeding Information</h3>
             <div class="grid grid-cols-2 gap-3">
-              <div v-if="pokemon.breeding.genderRatio" class="bg-gray-700 rounded-lg p-3">
+              <div v-if="pokemon.breeding.genderRatio" class="bg-zinc-900 rounded-lg p-3">
                 <div class="text-xs text-gray-400">Gender Ratio</div>
                 <div class="text-sm font-medium text-gray-200">{{ pokemon.breeding.genderRatio }}</div>
               </div>
-              <div v-if="pokemon.breeding.eggGroup?.length" class="bg-gray-700 rounded-lg p-3">
+              <div v-if="pokemon.breeding.eggGroup?.length" class="bg-zinc-900 rounded-lg p-3">
                 <div class="text-xs text-gray-400">Egg Groups</div>
                 <div class="text-sm font-medium text-gray-200">{{ pokemon.breeding.eggGroup.join(', ') }}</div>
               </div>
-              <div v-if="pokemon.breeding.hatchRate" class="bg-gray-700 rounded-lg p-3">
+              <div v-if="pokemon.breeding.hatchRate" class="bg-zinc-900 rounded-lg p-3">
                 <div class="text-xs text-gray-400">Hatch Rate</div>
                 <div class="text-sm font-medium text-gray-200">{{ pokemon.breeding.hatchRate }}</div>
               </div>
-              <div v-if="pokemon.breeding.diet" class="bg-gray-700 rounded-lg p-3">
+              <div v-if="pokemon.breeding.diet" class="bg-zinc-900 rounded-lg p-3">
                 <div class="text-xs text-gray-400">Diet</div>
                 <div class="text-sm font-medium text-gray-200">{{ pokemon.breeding.diet }}</div>
               </div>

@@ -48,7 +48,7 @@ onMounted(() => {
       :value="modelValue"
       @input="updateValue"
       placeholder="Search Pokemon, moves, abilities... (Ctrl+K)"
-      class="block w-full pl-10 pr-10 py-3 border border-gray-600 rounded-lg bg-gray-700 shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-gray-100 placeholder-gray-400"
+      class="block w-full pl-10 pr-10 py-3 border border-gray-700 rounded-lg bg-zinc-900 shadow-sm focus:ring-2 focus:ring-red-500 focus:border-red-500 text-gray-100 placeholder-gray-400"
     />
     <button
       v-if="modelValue"

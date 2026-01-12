@@ -68,12 +68,12 @@ const getCategoryClass = (category: string) => {
   if (category.includes('Restorative') || category.includes('Medicine')) return 'bg-pink-900/50 text-pink-300'
   if (category.includes('X-Item')) return 'bg-red-900/50 text-red-300'
   if (category.includes('Berry')) return 'bg-green-900/50 text-green-300'
-  if (category.includes('Held')) return 'bg-blue-900/50 text-blue-300'
-  if (category.includes('Equipment') || category.includes('Armor') || category.includes('Gear')) return 'bg-gray-600 text-gray-200'
+  if (category.includes('Held')) return 'bg-blue-900/50 text-red-300'
+  if (category.includes('Equipment') || category.includes('Armor') || category.includes('Gear')) return 'bg-gray-800 text-gray-200'
   if (category.includes('Evolution')) return 'bg-purple-900/50 text-purple-300'
   if (category.includes('Snack') || category.includes('Food')) return 'bg-yellow-900/50 text-yellow-300'
   if (category.includes('Ball')) return 'bg-orange-900/50 text-orange-300'
-  return 'bg-gray-700 text-gray-300'
+  return 'bg-zinc-900 text-gray-300'
 }
 </script>
 
@@ -84,7 +84,7 @@ const getCategoryClass = (category: string) => {
       <button
         @click="selectedCategory = ''"
         class="px-3 py-1.5 rounded-full text-sm font-medium transition-colors"
-        :class="!selectedCategory ? 'bg-blue-600 text-white' : 'bg-gray-700 text-gray-300 hover:bg-gray-600'"
+        :class="!selectedCategory ? 'bg-red-600 text-white' : 'bg-zinc-900 text-gray-300 hover:bg-gray-800'"
       >
         All Categories
       </button>
@@ -94,7 +94,7 @@ const getCategoryClass = (category: string) => {
         @click="selectedCategory = category"
         class="px-3 py-1.5 rounded-full text-sm font-medium transition-colors text-white"
         :style="{ backgroundColor: selectedCategory === category ? getCategoryColor(category) : undefined }"
-        :class="selectedCategory !== category ? 'bg-gray-700 hover:bg-gray-600' : ''"
+        :class="selectedCategory !== category ? 'bg-zinc-900 hover:bg-gray-800' : ''"
       >
         {{ category }}
       </button>
@@ -108,7 +108,7 @@ const getCategoryClass = (category: string) => {
     <!-- Grouped Items -->
     <div class="space-y-6">
       <div v-for="[category, categoryItems] in groupedItems" :key="category">
-        <div class="flex items-center gap-2 mb-3 sticky top-32 bg-gray-900 py-2 z-10">
+        <div class="flex items-center gap-2 mb-3 sticky top-[41px] bg-black py-2 z-10">
           <span
             class="px-3 py-1 rounded text-sm font-semibold text-white"
             :style="{ backgroundColor: getCategoryColor(category) }"
@@ -119,7 +119,7 @@ const getCategoryClass = (category: string) => {
           <div
             v-for="item in categoryItems"
             :key="item.name"
-            class="bg-gray-800 rounded-lg p-4 hover:bg-gray-750 transition-colors border border-gray-700"
+            class="bg-zinc-900 rounded-lg p-4 hover:bg-gray-750 transition-colors border border-gray-800"
           >
             <div class="flex items-start justify-between gap-2 mb-2">
               <h3 class="font-semibold text-gray-100">{{ item.name }}</h3>

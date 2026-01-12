@@ -23,7 +23,7 @@ const sections = computed(() => [
     description: 'Complete move database with damage, type, and effects',
     count: moves.value.length,
     href: '/moves',
-    color: 'from-blue-600 to-blue-800',
+    color: 'from-red-600 to-red-800',
     icon: `<svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>`
   },
   {
@@ -75,9 +75,12 @@ const sections = computed(() => [
 </script>
 
 <template>
-  <div class="min-h-screen bg-gray-900">
+  <div class="min-h-screen bg-black">
+    <!-- Nav Bar -->
+    <NavBar />
+
     <!-- Header -->
-    <header class="bg-gray-800 shadow-lg border-b border-gray-700">
+    <header class="bg-zinc-900 shadow-lg border-b border-gray-800">
       <div class="max-w-7xl mx-auto px-4 py-8">
         <div class="text-center">
           <h1 class="text-4xl font-bold text-gray-100 mb-2">PTU Pokedex</h1>
@@ -111,11 +114,11 @@ const sections = computed(() => [
               <h2 class="text-xl font-bold">{{ section.title }}</h2>
             </div>
             <!-- Description -->
-            <div class="bg-gray-800 p-4 border-t border-gray-700">
+            <div class="bg-zinc-900 p-4 border-t border-gray-800">
               <p class="text-sm text-gray-400 group-hover:text-gray-300 transition-colors">
                 {{ section.description }}
               </p>
-              <div class="mt-3 flex items-center text-sm font-medium text-blue-400 group-hover:text-blue-300">
+              <div class="mt-3 flex items-center text-sm font-medium text-red-400 group-hover:text-red-300">
                 Browse
                 <svg class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
@@ -128,7 +131,7 @@ const sections = computed(() => [
     </main>
 
     <!-- Footer -->
-    <footer class="bg-gray-800 border-t border-gray-700 mt-12 py-6">
+    <footer class="bg-zinc-900 border-t border-gray-800 mt-12 py-6">
       <div class="max-w-7xl mx-auto px-4 text-center text-sm text-gray-400">
         <p>Pokemon Tabletop United Pokedex</p>
         <p class="mt-1">Click any section to explore the database.</p>

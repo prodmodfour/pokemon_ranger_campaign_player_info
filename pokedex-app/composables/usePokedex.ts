@@ -46,12 +46,14 @@ export interface Pokemon {
 }
 
 export function usePokedex() {
-  const pokemon = ref<Pokemon[]>(pokemonData as Pokemon[])
-  const types = ref<Record<string, string>>(typesData as Record<string, string>)
-  const searchQuery = ref('')
-  const selectedTypes = ref<string[]>([])
-  const selectedHabitat = ref<string | null>(null)
-  const selectedSize = ref<string | null>(null)
+  const pokemon = useState<Pokemon[]>('pokemon', () => pokemonData as Pokemon[])
+  const types = useState<Record<string, string>>('types', () => typesData as Record<string, string>)
+  const searchQuery = useState('searchQuery', () => '')
+  const selectedTypes = useState<string[]>('selectedTypes', () => [])
+  const selectedHabitat = useState<string | null>('selectedHabitat', () => null)
+  const selectedSize = useState<string | null>('selectedSize', () => null)
+  const selectedCapabilities = useState<string[]>('selectedCapabilities', () => [])
+  const startersOnly = useState('startersOnly', () => false)
 
   const allTypes = computed(() => Object.keys(types.value))
 
@@ -69,6 +71,18 @@ export function usePokedex() {
       if (p.size.sizeClass) sizes.add(p.size.sizeClass)
     })
     return Array.from(sizes)
+  })
+
+  const allCapabilities = computed(() => {
+    const caps = new Set<string>()
+    pokemon.value.forEach(p => {
+      p.capabilities?.forEach(cap => {
+        // Extract capability name without numbers (e.g., "Overland 5" -> "Overland")
+        const capName = cap.replace(/\s*\d+\s*$/, '').trim()
+        if (capName) caps.add(capName)
+      })
+    })
+    return Array.from(caps).sort()
   })
 
   const filteredPokemon = computed(() => {
@@ -116,6 +130,35 @@ export function usePokedex() {
         }
       }
 
+      // Filter by capabilities
+      if (selectedCapabilities.value.length > 0) {
+        const pokemonCaps = p.capabilities?.map(cap => cap.replace(/\s*\d+\s*$/, '').trim()) || []
+        if (!selectedCapabilities.value.every(cap => pokemonCaps.includes(cap))) {
+          return false
+        }
+      }
+
+      // Filter for starters only
+      if (startersOnly.value) {
+        const pokemonCaps = p.capabilities?.map(cap => cap.replace(/\s*\d+\s*$/, '').trim()) || []
+        const hasUnderdog = pokemonCaps.includes('Underdog')
+        const isUnevolved = !p.evolution?.length || p.evolution[0]?.stage === 1 && p.evolution[0]?.name === p.name
+        const isLegendary = pokemonCaps.includes('Legendary')
+
+        // Blacklist of legendaries and ultra beasts that have Underdog
+        const legendaryBlacklist = [
+          'Cosmog', 'Cosmoem', 'Type: Null', 'Meltan', 'Kubfu',
+          // Ultra Beasts
+          'Poipole', 'Naganadel', 'Nihilego', 'Buzzwole', 'Pheromosa',
+          'Xurkitree', 'Celesteela', 'Kartana', 'Guzzlord', 'Stakataka', 'Blacephalon'
+        ]
+        const isBlacklisted = legendaryBlacklist.includes(p.name)
+
+        if (!hasUnderdog || !isUnevolved || isLegendary || isBlacklisted) {
+          return false
+        }
+      }
+
       return true
     })
   })
@@ -133,6 +176,8 @@ export function usePokedex() {
     selectedTypes.value = []
     selectedHabitat.value = null
     selectedSize.value = null
+    selectedCapabilities.value = []
+    startersOnly.value = false
   }
 
   return {
@@ -142,9 +187,12 @@ export function usePokedex() {
     selectedTypes,
     selectedHabitat,
     selectedSize,
+    selectedCapabilities,
+    startersOnly,
     allTypes,
     allHabitats,
     allSizes,
+    allCapabilities,
     filteredPokemon,
     getTypeColor,
     getPokemonByName,
