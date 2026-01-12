@@ -44,21 +44,29 @@ const b2w2Sprite = computed(() => {
   return `https://img.pokemondb.net/sprites/black-white/anim/normal/${pokemonName.value}.gif`
 })
 
-// Pokemon Home sprite fallback (Gen 6+)
+// Pokemon Showdown animated sprite (Gen 6+)
+const showdownSprite = computed(() => {
+  return `https://play.pokemonshowdown.com/sprites/ani/${pokemonName.value}.gif`
+})
+
+// Pokemon Home sprite fallback
 const homeSprite = computed(() => {
   return `https://img.pokemondb.net/sprites/home/normal/${pokemonName.value}.png`
 })
 
-const spriteState = ref<'b2w2' | 'home' | 'fallback'>('b2w2')
+const spriteState = ref<'b2w2' | 'showdown' | 'home' | 'fallback'>('b2w2')
 
 const spriteUrl = computed(() => {
   if (spriteState.value === 'b2w2') return b2w2Sprite.value
+  if (spriteState.value === 'showdown') return showdownSprite.value
   if (spriteState.value === 'home') return homeSprite.value
   return ''
 })
 
 const handleImgError = () => {
   if (spriteState.value === 'b2w2') {
+    spriteState.value = 'showdown' // Try Showdown sprite (Gen 6+)
+  } else if (spriteState.value === 'showdown') {
     spriteState.value = 'home' // Try Home sprite
   } else {
     spriteState.value = 'fallback' // Show letter fallback
