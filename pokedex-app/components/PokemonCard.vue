@@ -21,19 +21,48 @@ const totalStats = computed(() => {
          (stats.special_attack || 0) + (stats.special_defense || 0) + (stats.speed || 0)
 })
 
-// Generate sprite URL from Pokemon name (Black 2/White 2 animated sprites)
-const spriteUrl = computed(() => {
-  const name = props.pokemon.name
+// Generate sprite URL from Pokemon name
+const pokemonName = computed(() => {
+  let name = props.pokemon.name
     .toLowerCase()
-    .replace(/[^a-z0-9-]/g, '') // Remove special chars
     .replace(/♀/g, '-f')
     .replace(/♂/g, '-m')
-  return `https://img.pokemondb.net/sprites/black-white/anim/normal/${name}.gif`
+    .replace(/[^a-z0-9-]/g, '') // Remove special chars after gender symbols
+
+  // Handle Nidoran gender based on evolution data
+  if (name === 'nidoran' && props.pokemon.evolution?.length) {
+    const firstEvo = props.pokemon.evolution[0]
+    if (firstEvo?.requirement === 'F') name = 'nidoran-f'
+    else if (firstEvo?.requirement === 'M') name = 'nidoran-m'
+  }
+
+  return name
 })
 
-const imgError = ref(false)
+// B2W2 animated sprite (Gen 1-5)
+const b2w2Sprite = computed(() => {
+  return `https://img.pokemondb.net/sprites/black-white/anim/normal/${pokemonName.value}.gif`
+})
+
+// Pokemon Home sprite fallback (Gen 6+)
+const homeSprite = computed(() => {
+  return `https://img.pokemondb.net/sprites/home/normal/${pokemonName.value}.png`
+})
+
+const spriteState = ref<'b2w2' | 'home' | 'fallback'>('b2w2')
+
+const spriteUrl = computed(() => {
+  if (spriteState.value === 'b2w2') return b2w2Sprite.value
+  if (spriteState.value === 'home') return homeSprite.value
+  return ''
+})
+
 const handleImgError = () => {
-  imgError.value = true
+  if (spriteState.value === 'b2w2') {
+    spriteState.value = 'home' // Try Home sprite
+  } else {
+    spriteState.value = 'fallback' // Show letter fallback
+  }
 }
 </script>
 
@@ -53,7 +82,7 @@ const handleImgError = () => {
       <div class="flex justify-center mb-2">
         <div class="w-20 h-20 flex items-center justify-center">
           <img
-            v-if="!imgError"
+            v-if="spriteState !== 'fallback'"
             :src="spriteUrl"
             :alt="pokemon.name"
             class="max-w-full max-h-full object-contain drop-shadow-lg"
