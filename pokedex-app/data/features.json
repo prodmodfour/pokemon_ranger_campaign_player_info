@@ -1,0 +1,760 @@
+[
+  {
+    "name": "Combat Features Blur",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Expert Acrobatics, Expert Stealth",
+    "frequency": "Static",
+    "effect": "Attacks and Moves targeting you that don’t require an Accuracy Check now require one, as though they had Accuracy Check of 2. You may only apply half of your Evasion to these Attacks and Moves."
+  },
+  {
+    "name": "Defender",
+    "tags": [
+      "+HP"
+    ],
+    "prerequisites": "Adept Athletics",
+    "frequency": "Static",
+    "effect": "Using the Intercept Maneuvers requires only a"
+  },
+  {
+    "name": "Signature Move",
+    "tags": [
+      "+Any Stat"
+    ],
+    "prerequisites": "Learned four Moves.",
+    "frequency": "Static",
+    "effect": "Choose a Move you know. Increase the Move’s"
+  },
+  {
+    "name": "Walk It Off",
+    "tags": [
+      "+HP"
+    ],
+    "prerequisites": "Adept Athletics, Novice Focus",
+    "frequency": "Daily – Extended Action",
+    "effect": "Remove one Injury from yourself and regain 1/4th of your maximum Hit Points. This Injury removal doesn’t count against the natural healing limit on"
+  },
+  {
+    "name": "Psionic Sight",
+    "tags": [
+      "+Special Defense"
+    ],
+    "prerequisites": "Elemental Connection (Psychic)",
+    "frequency": "Static",
+    "effect": "You are able to visibly see any Psychic Residue left on Humans or Pokémon due to the effects of Psionic abilities. Each Human or Pokémon leaves distinct"
+  },
+  {
+    "name": "Ace Trainer",
+    "tags": [
+      "Class"
+    ],
+    "prerequisites": "Novice Command",
+    "frequency": "Drain 1 AP – Extended Action",
+    "trigger": "You spend at least half an hour training your Pokémon",
+    "effect": "For each Pokémon that has been trained during this time, choose a Stat besides HP; that Stat becomes"
+  },
+  {
+    "name": "Critical Moment",
+    "tags": [
+      "Orders"
+    ],
+    "prerequisites": "Elite Trainer, Adept Command",
+    "frequency": "Scene x2 – Standard Action",
+    "target": "Your Pokemon with [Training] Features applied",
+    "effect": "The bonuses from your Pokemon’s [Training] are tripled until the end of your next turn."
+  },
+  {
+    "name": "Mobilize",
+    "tags": [
+      "Orders"
+    ],
+    "prerequisites": "Commander",
+    "frequency": "At-Will – Free Action",
+    "target": "Any Ally",
+    "effect": "The target cannot provoke Attacks of Opportunity on their next turn. Mobilize may target an Ally only once per encounter."
+  },
+  {
+    "name": "Coordinator",
+    "tags": [
+      "Class"
+    ],
+    "prerequisites": "Grace, Novice Charm, Command, Guile, Intimidate, or Intuition",
+    "frequency": "At-Will – Free Action",
+    "effect": "Your Pokémon may reroll a single Appeal Roll or Damage Roll. This Ability may be used only once per"
+  },
+  {
+    "name": "Decisive Director",
+    "tags": [
+      "Orders"
+    ],
+    "prerequisites": "Coordinator",
+    "frequency": "At-Will – Standard Action",
+    "target": "A Pokémon",
+    "effect": "Add or subtract X from the target’s Initiative until the end of your next turn. X is equal to your Charm"
+  },
+  {
+    "name": "Hobbyist",
+    "tags": [
+      "Class"
+    ],
+    "prerequisites": "Novice General Education, Novice Perception",
+    "frequency": "Static",
+    "effect": "You gain three Skill Edges for which you qualify."
+  },
+  {
+    "name": "Mentor",
+    "tags": [
+      "Class"
+    ],
+    "prerequisites": "Two of Charm, Intimidate, Intuition, or Pokémon Education at Novice Rank",
+    "frequency": "Daily x3 – Extended Action",
+    "target": "A Pokémon with at least 1 Tutor Point remaining",
+    "effect": "The target loses 1 Tutor Point, and then learns a move from its tutor list marked with a (N), or any move on its level-up list learned at X Level or lower, where X is the target’s current Level plus the sum of your Mentor Skill"
+  },
+  {
+    "name": "Moment of Action",
+    "tags": [
+      "Orders"
+    ],
+    "prerequisites": "Cheerleader",
+    "frequency": "At-Will – Standard Action",
+    "target": "Up to two Allied Trainers",
+    "effect": "Each target gains 1 Temporary Action Point."
+  },
+  {
+    "name": "Enduring Soul",
+    "tags": [
+      "Class"
+    ],
+    "prerequisites": "Novice Athletics and Focus",
+    "frequency": "Static",
+    "effect": "You may add to your Pokémon’s HP stat when they level up, ignoring Base Relation, and you do not need to “correct” Stats due to this inflated HP."
+  },
+  {
+    "name": "Bounce Shot",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Juggler",
+    "frequency": "At-Will – Free Action",
+    "trigger": "You throw a Poké Ball",
+    "effect": "After hitting its mark or landing, your Poké Ball bounces 3 meters in any direction. You may have your"
+  },
+  {
+    "name": "Juggling Show",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Juggler",
+    "frequency": "Static",
+    "effect": "You may roll an additional Xd6 during the In- troduction Stage of a Contest, where X is half of your"
+  },
+  {
+    "name": "Round Trip",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Juggler, Adept Acrobatics or Guile",
+    "frequency": "1 AP – Free Action",
+    "trigger": "Your Pokémon uses a Move.",
+    "effect": "You may immediately switch your Pokémon that just performed a Move for another of your Pokémon."
+  },
+  {
+    "name": "Tag In",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Round Trip, Expert Acrobatics or Guile",
+    "frequency": "1 AP - Free Action",
+    "trigger": "You recall a Pokémon",
+    "effect": "The next Pokémon you send out is treated as if the recalled Pokémon had used Baton Pass on it."
+  },
+  {
+    "name": "Emergency Release",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Juggler, Expert Acrobatics or Guile",
+    "frequency": "2 AP – Shift Action, Interrupt",
+    "effect": "You may Release a Pokémon as an Interrupt."
+  },
+  {
+    "name": "First Blood",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Tag In, Master Acrobatics or Guile",
+    "frequency": "Scene – Free Action",
+    "trigger": "You release a Pokémon from its Poké Ball",
+    "effect": "If you have a Pokémon turn available this round or next, your Pokémon may use a Move as an Interrupt as soon as it is sent out. This consumes your Pokémon turn for the round (or the following round) as normal."
+  },
+  {
+    "name": "Ramming Speed",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Rider",
+    "frequency": "At-Will – Extended Action",
+    "target": "Your Pokémon with at least 2 Tutor Points",
+    "effect": "The target loses 2 Tutor Points and gains the Run"
+  },
+  {
+    "name": "Ride as One",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Rider",
+    "frequency": "Static",
+    "effect": "While you are Mounted, you and your Mount each use the highest of each other’s Speed Evasion. If both you and your Mount have the same Speed Evasion, you instead each receive a +1 bonus to Speed Evasion."
+  },
+  {
+    "name": "Taskmaster",
+    "tags": [
+      "Class"
+    ],
+    "prerequisites": "Brutal Training, Novice Intimidate",
+    "frequency": "At-Will – Free Action",
+    "trigger": "You apply Brutal Training as a Training action",
+    "effect": "You may grant your Pokémon up to three injuries. If your Pokémon has at least one Injury, it becomes"
+  },
+  {
+    "name": "Stat Training",
+    "tags": [
+      "Branch"
+    ],
+    "prerequisites": "Stat Ace",
+    "frequency": "At-Will – Extended Action",
+    "target": "Your Pokémon with at least 1 Tutor Point",
+    "effect": "Your Pokémon loses 1 Tutor Point, and learns a"
+  },
+  {
+    "name": "Stat Maneuver",
+    "tags": [
+      "Branch"
+    ],
+    "prerequisites": "Stat Ace, Adept Command or Focus",
+    "frequency": "Scene – Free Action",
+    "effect": "Stat Maneuver’s Effect depends on your Chosen"
+  },
+  {
+    "name": "Stat Mastery",
+    "tags": [
+      "Branch"
+    ],
+    "prerequisites": "Stat Maneuver",
+    "frequency": "Static",
+    "effect": "Stat Mastery’s Effect depends on your Chosen"
+  },
+  {
+    "name": "Style Entrainment",
+    "tags": [
+      "Branch"
+    ],
+    "prerequisites": "4 Style Expert Features",
+    "frequency": "1 AP – Swift Action, Priority (Limited)",
+    "target": "Your Pokémon",
+    "effect": "Your Pokémon gains one of the following"
+  },
+  {
+    "name": "Move Sync",
+    "tags": [
+      "Branch"
+    ],
+    "prerequisites": "3 Type Ace Features",
+    "frequency": "At-Will – Extended Action",
+    "target": "Your Pokémon with at least 1 Tutor Point.",
+    "effect": "The target loses 1 Tutor Point. Pick a Move in the target’s Move List. The picked move is now permanently of your Chosen Type, and may have different effects."
+  },
+  {
+    "name": "Chef",
+    "tags": [
+      "Class"
+    ],
+    "prerequisites": "Basic Cooking, Novice Intuition",
+    "frequency": "At-Will – Extended Action",
+    "effect": "You may use any Chef Recipe for which you qualify."
+  },
+  {
+    "name": "Chronicler",
+    "tags": [
+      "Class"
+    ],
+    "prerequisites": "Novice Perception",
+    "frequency": "1 AP – Swift Action, Interrupt",
+    "target": "A Pokémon, Trainer, Move, or Location.",
+    "effect": "You make Record of the target. Records can be placed in an Archive as an Extended Action. When you take"
+  },
+  {
+    "name": "Targeted Profiling",
+    "tags": [
+      "Orders"
+    ],
+    "prerequisites": "Profile Archive, Expert Perception",
+    "frequency": "2 AP – Standard Action",
+    "target": "Your Pokémon",
+    "effect": "On the target’s next turn, they act as if they had the Mold Breaker Ability against all Pokémon and"
+  },
+  {
+    "name": "Fashionista",
+    "tags": [
+      "Class"
+    ],
+    "prerequisites": "Two of Charm, Command, Guile, Intimidate, or Intuition at Novice",
+    "frequency": "At-Will – Extended Action",
+    "effect": "You may craft any Fashionista Recipe for which you qualify."
+  },
+  {
+    "name": "Natural Fighter",
+    "tags": [
+      "+HP"
+    ],
+    "prerequisites": "Survivalist",
+    "frequency": "1 AP – Special",
+    "effect": "You and your Pokémon become adept at using the environment to your advantage in battle. You or your Pokémon may activate Natural Fighter as a"
+  },
+  {
+    "name": "Trapper",
+    "tags": [
+      "+HP"
+    ],
+    "prerequisites": "Survivalist, Adept Survival",
+    "frequency": "Daily x2 – Extended Action",
+    "effect": "You create a consumable item that creates 8 meters of Hazard within 6 meters. All 8 meters must be adjacent with at least one other space of the Hazard."
+  },
+  {
+    "name": "Adaptive Geography",
+    "tags": [
+      "+HP"
+    ],
+    "prerequisites": "4 Survivalist Features, Master Survival",
+    "frequency": "Scene x2 – Free Action",
+    "trigger": "You or your Pokémon gain Initiative",
+    "effect": "The triggering target takes their turn as if they were in a terrain adjacent to the terrain they are in on the following graphic. For example, if you are standing in Wetlands terrain, you may act as if you are standing in Forest or Ocean Terrain. This affects Survivalist"
+  },
+  {
+    "name": "Training Regime",
+    "tags": [
+      "+HP"
+    ],
+    "prerequisites": "Athlete",
+    "frequency": "Static",
+    "effect": "You gain additional static bonuses based on your"
+  },
+  {
+    "name": "Coaching",
+    "tags": [
+      "+HP"
+    ],
+    "prerequisites": "Training Regime",
+    "frequency": "1 AP – Free Action",
+    "trigger": "Your Pokémon makes a Combat Maneuver",
+    "effect": "Your Pokémon gains a bonus based on the type of Combat maneuver they are making. This Feature may be triggered once per Scene per Pokémon. »»"
+  },
+  {
+    "name": "Dance Form",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Dancer",
+    "frequency": "Static",
+    "effect": "Create and learn two Dance Moves, plus one more for each other Dancer Feature you have. Whenever you gain another Dancer Feature, create and learn another"
+  },
+  {
+    "name": "Beguiling Dance",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Dance Form",
+    "frequency": "Static",
+    "effect": "When creating Dance Moves, you can choose to create a Dance Move that has Range: 4, 1 Target, AC 3, and lowers a Combat Stat (chosen at creation) by -2 Combat Stages. This Move is otherwise the same as other Dance Moves you could create except that Dance"
+  },
+  {
+    "name": "Dance Practice",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Dancer",
+    "frequency": "At-Will – Extended Action",
+    "target": "Your Pokémon with at least 2 Tutor Points",
+    "effect": "The target loses 2 Tutor Points and gains your choice of Spinning Dance or Own Tempo. Dance"
+  },
+  {
+    "name": "Musical Ability",
+    "tags": [
+      "+Special Attack"
+    ],
+    "prerequisites": "Musician",
+    "frequency": "Static",
+    "effect": "Choose Drown Out or Soundproof. You gain the chosen Ability."
+  },
+  {
+    "name": "Push Buttons",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Provocateur",
+    "frequency": "Static",
+    "effect": "Your Social Moves’ Frequency is not Expended if they miss. You gain the Demoralize Edge, even if you do not meet the prerequisites. Its effects for Status Moves now trigger on 18+, and Social Moves that activate this “Crit” Range cause their targets to lose a tick of Hit"
+  },
+  {
+    "name": "Dirty Fighting",
+    "tags": [
+      "+Attack"
+    ],
+    "prerequisites": "Rogue, a Rogue Skill at Adept Rank",
+    "frequency": "1 AP – Swift Action",
+    "trigger": "You hit a foe with Weapon Attack",
+    "effect": "After the attack is Resolved, you may immediately use the Dirty Trick Maneuver if the target is within range. You automatically hit with Dirty Trick, but must still make an Opposed Roll."
+  },
+  {
+    "name": "Unexpected Attacks",
+    "tags": [
+      "+Attack"
+    ],
+    "prerequisites": "Rogue, two Rogue Skills at Adept Rank",
+    "frequency": "Static",
+    "effect": "You learn the Moves Pursuit and Sucker Punch."
+  },
+  {
+    "name": "Underhanded Tactics",
+    "tags": [
+      "+Attack"
+    ],
+    "prerequisites": "Rogue, a Rogue Skill at Expert Rank",
+    "frequency": "Static",
+    "effect": "You gain your choice of Ambush or Cruelty."
+  },
+  {
+    "name": "Menace",
+    "tags": [
+      "+Defense"
+    ],
+    "prerequisites": "Roughneck",
+    "frequency": "At-Will – Swift Action",
+    "trigger": "You hit a foe with the Terrorize Manipulation",
+    "effect": "Until their next turn, the target has their Initiative lowered to 0. For one full round, attacks against them cause them to Flinch on 17+ or have their existing"
+  },
+  {
+    "name": "Malice",
+    "tags": [
+      "+Defense"
+    ],
+    "prerequisites": "Roughneck, Adept Intimidate",
+    "frequency": "Static",
+    "effect": "You learn the Moves Mean Look and Chip Away."
+  },
+  {
+    "name": "Fearsome Display",
+    "tags": [
+      "+Defense"
+    ],
+    "prerequisites": "Malice",
+    "frequency": "2 AP – Swift Action",
+    "trigger": "You use Leer or a Roughneck Move",
+    "effect": "The Move gains additional effects. »»"
+  },
+  {
+    "name": "Cruel Gaze",
+    "tags": [
+      "+Defense"
+    ],
+    "prerequisites": "Roughneck, Expert Intimidate",
+    "frequency": "Static",
+    "effect": "You learn the Moves Glare and Headbutt."
+  },
+  {
+    "name": "Tough as Nails",
+    "tags": [
+      "+Defense"
+    ],
+    "prerequisites": "3 Roughneck Features, Master Intimidate",
+    "frequency": "Static",
+    "effect": "You learn the Moves Endure and Slack Off."
+  },
+  {
+    "name": "Flip Out",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Aerialist, Adept Acrobatics",
+    "frequency": "Static",
+    "effect": "Your Tumbler Moves gain additional effects. »»"
+  },
+  {
+    "name": "Death From Above",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Aerialist, Expert Acrobatics",
+    "frequency": "Static",
+    "effect": "You learn the Moves Acrobatics and Bounce."
+  },
+  {
+    "name": "Quick Reflexes",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Tumbler, Expert Acrobatics",
+    "frequency": "Static",
+    "effect": "You gain the Dodge Ability."
+  },
+  {
+    "name": "Burst of Speed",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "5 Tumbler Features, Master Acrobatics",
+    "frequency": "Scene – Free Action",
+    "trigger": "You end your turn",
+    "effect": "Select an Initiative Count equal to half of your own Initiative or less; you may take an extra turn at that point in the round."
+  },
+  {
+    "name": "Aura Mastery",
+    "tags": [
+      "+Attack or Special Attack"
+    ],
+    "prerequisites": "Aura Guardian, Expert Intuition",
+    "frequency": "Static",
+    "effect": "Choose two of Aura Sphere, Focus Blast, Drain"
+  },
+  {
+    "name": "Channeler",
+    "tags": [
+      "Class"
+    ],
+    "prerequisites": "Mystic Senses",
+    "frequency": "At-Will – Swift Action",
+    "target": "A Pokémon.",
+    "effect": "You Channel the target Pokémon. If you attempt to Channel a Hostile Pokémon, you must make an Intuition"
+  },
+  {
+    "name": "Battle Synchronization",
+    "tags": [
+      "Orders"
+    ],
+    "prerequisites": "Channeler",
+    "frequency": "Scene x3 – Standard Action",
+    "effect": "For one full round, whenever a Channeled"
+  },
+  {
+    "name": "Utility Drop",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Ninja’s Arsenal, Expert Stealth",
+    "frequency": "At-Will – Swift Action",
+    "trigger": "You Shift",
+    "effect": "You may use a Smoke Ball, Caltrops, or Toxic"
+  },
+  {
+    "name": "Weightless Step",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Ninja, Expert Stealth",
+    "frequency": "Static",
+    "effect": "You gain the Infiltrator Ability."
+  },
+  {
+    "name": "Kinjutsu",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Poison Weapons, Master Stealth",
+    "frequency": "Static",
+    "effect": "You learn the Moves Substitute and Toxic."
+  },
+  {
+    "name": "Divination",
+    "tags": [
+      "+Special Defense"
+    ],
+    "prerequisites": "Oracle",
+    "frequency": "Daily x3 – Extended Action",
+    "effect": "You may perform an Augury or Scrying."
+  },
+  {
+    "name": "Unveiled Sight",
+    "tags": [
+      "+Special Defense"
+    ],
+    "prerequisites": "Oracle",
+    "frequency": "Static",
+    "effect": "You can see through Illusions. This means you can spot Illusions from the Illusionist capability,"
+  },
+  {
+    "name": "Small Prophecies",
+    "tags": [
+      "+Special Defense"
+    ],
+    "prerequisites": "Divination, Adept Perception",
+    "frequency": "1 AP – Swift Action",
+    "effect": "Roll 1d20 and note the result. Until the end of your next turn, you may choose to replace a single d20 roll you or a willing ally makes with the noted result."
+  },
+  {
+    "name": "Mark of Vision",
+    "tags": [
+      "+Special Defense"
+    ],
+    "prerequisites": "Oracle, Adept Perception",
+    "frequency": "Bind 1 AP – Extended Action",
+    "target": "A willing Trainer",
+    "effect": "You mark the target with a mystical power which allows you to close your eyes and focus to perceive the world with their senses from their perspective. You may"
+  },
+  {
+    "name": "Prescience",
+    "tags": [
+      "+Special Defense"
+    ],
+    "prerequisites": "Unveiled Sight, Master Perception",
+    "frequency": "Scene – Free Action",
+    "trigger": "You are hit by an attack",
+    "effect": "The attack instead misses."
+  },
+  {
+    "name": "Sacred Shield",
+    "tags": [
+      "+HP"
+    ],
+    "prerequisites": "Sage",
+    "frequency": "Static",
+    "effect": "You learn the Moves Reflect and Lucky Chant."
+  },
+  {
+    "name": "Mystic Defense",
+    "tags": [
+      "+HP"
+    ],
+    "prerequisites": "Sage",
+    "frequency": "Static",
+    "effect": "You learn the Moves Light Screen and Safeguard."
+  },
+  {
+    "name": "Lay on Hands",
+    "tags": [
+      "+HP"
+    ],
+    "prerequisites": "Sage, Expert Occult Education",
+    "frequency": "Static",
+    "effect": "Choose Blessed Touch or Healer. You gain the"
+  },
+  {
+    "name": "PK Alpha",
+    "tags": [
+      "+Special Attack"
+    ],
+    "prerequisites": "Telekinetic",
+    "frequency": "Static",
+    "effect": "You learn the Moves Kinesis and Barrier."
+  },
+  {
+    "name": "PK Omega",
+    "tags": [
+      "+Special Attack"
+    ],
+    "prerequisites": "PK Alpha, Expert Focus",
+    "frequency": "Static",
+    "effect": "You learn the Moves Telekinesis and Psychic."
+  },
+  {
+    "name": "Power of the Mind",
+    "tags": [
+      "+Special Attack"
+    ],
+    "prerequisites": "Telekinetic",
+    "frequency": "Static",
+    "effect": "Choose Interference or Levitate. You gain the chosen Ability."
+  },
+  {
+    "name": "Telekinetic Burst",
+    "tags": [
+      "+Special Attack"
+    ],
+    "prerequisites": "PK Combat, Expert Focus",
+    "frequency": "1 AP – Swift Action",
+    "effect": "You perform a Disarm, Trip, or Push Maneuver using your Telekinetic Capability."
+  },
+  {
+    "name": "Honed Mind",
+    "tags": [
+      "+Special Defense"
+    ],
+    "prerequisites": "Telepath",
+    "frequency": "Static",
+    "effect": "You learn the Moves Mind Reader and Calm"
+  },
+  {
+    "name": "Telepathic Awareness",
+    "tags": [
+      "+Special Defense"
+    ],
+    "prerequisites": "Telepath",
+    "frequency": "Static",
+    "effect": "Choose Gentle Vibe or Telepathy. You gain the chosen Ability."
+  },
+  {
+    "name": "Thought Detection",
+    "tags": [
+      "+Special Defense"
+    ],
+    "prerequisites": "Telepathic Awareness",
+    "frequency": "Scene – Standard Action",
+    "effect": "You become aware of the number of living"
+  },
+  {
+    "name": "Mental Assault",
+    "tags": [
+      "+Special Defense"
+    ],
+    "prerequisites": "Telepath, Expert Focus or Intuition",
+    "frequency": "Static",
+    "effect": "You learn the Moves Extrasensory and Psyshock."
+  },
+  {
+    "name": "Suggestion",
+    "tags": [
+      "+Special Defense"
+    ],
+    "prerequisites": "Honed Mind, Master Focus or Intuition",
+    "frequency": "Bind 1 AP – Standard Action",
+    "target": "Pokémon or Trainers",
+    "effect": "You smoothly plant a thought into the subject’s head that lasts as long as this Feature is Bound. They won’t know exactly why or how they thought of it; they will naturally assume they thought of it themselves, and their brain will attempt to get there as logically as it can."
+  },
+  {
+    "name": "Space Distortion",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Warper",
+    "frequency": "Static",
+    "effect": "You learn the Moves Teleport and Ally Switch."
+  },
+  {
+    "name": "Warping Ground",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Warper",
+    "frequency": "Static",
+    "effect": "You learn the Moves Gravity and Trick."
+  },
+  {
+    "name": "Strange Energy",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Warping Ground, Space Distortion",
+    "frequency": "Static",
+    "effect": "You learn the Moves Heal Block and Magic Coat."
+  },
+  {
+    "name": "Reality Bender",
+    "tags": [
+      "+Speed"
+    ],
+    "prerequisites": "Warper, Expert Guile",
+    "frequency": "Daily – Free Action",
+    "effect": "You are able to subconsciously alter the fabric of reality to change small facts or circumstances. If your character is confronting a “random” event such as a die roll, coin flip, or cards being dealt, the character may activate this Feature to influence the event. In this scenario, the GM provides you with two possible outcomes, and you pick one of them to actually occur."
+  }
+]

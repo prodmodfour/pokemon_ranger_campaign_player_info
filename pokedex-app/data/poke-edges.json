@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Skill Improvement",
+    "prerequisites": "None",
+    "cost": "1 Tutor Point",
+    "effect": "Rank up one Skill that is currently at or below its default level for the species. This Edge may be taken multiple times, each time selecting a different Skill."
+  },
+  {
+    "name": "Attack Conflict",
+    "prerequisites": "None",
+    "cost": "1 Tutor Points",
+    "effect": "Select Attack or Special Attack. From now on, that Stat does not need to remain higher than Stats it surpasses in Base Relations, and similarly all other Stats surpassed by it do not need to remain lower."
+  },
+  {
+    "name": "Realized Potential",
+    "prerequisites": "Level 30, User is an Underdog Pokémon",
+    "cost": "2 Tutor Points",
+    "effect": "Subtract the user’s Species Base Stat Total from 45. The user gains Bonus Stat Points equal to the remain- der. These Stat Points must follow Base Stat Relations as normal. If the user evolves to a species with a Base Stat"
+  },
+  {
+    "name": "Ability Mastery",
+    "prerequisites": "Level 60",
+    "cost": "3 Tutor Points",
+    "effect": "The Pokémon gains an additional Ability, picked from any Ability it could naturally qualify for."
+  },
+  {
+    "name": "Advanced Connection",
+    "prerequisites": "An Ability with the Connection Keyword",
+    "cost": "1 Tutor Point",
+    "effect": "Choose an Ability with the Connection Keyword that the target has; the Connected Move no longer takes up a Move Slot for the user."
+  },
+  {
+    "name": "Accuracy Training",
+    "prerequisites": "Level 20",
+    "cost": "1 Tutor Point",
+    "effect": "Pick a Move with an AC of 3 or higher; the AC of the target Move is permanently lowered by 1. This"
+  },
+  {
+    "name": "Capability Training",
+    "prerequisites": "Level 20",
+    "cost": "1 Tutor Point",
+    "effect": "Increase Power or a Jump Capability by 1."
+  },
+  {
+    "name": "Advanced Mobility",
+    "prerequisites": "Level 20",
+    "cost": "1 Tutor Point",
+    "effect": "Increase one Movement Capability by 2. This"
+  },
+  {
+    "name": "Enticing Bait",
+    "prerequisites": "Level 20, Alluring Capability",
+    "cost": "1 Tutor Point",
+    "effect": "When activating the Alluring Capability, the user adds the higher of its Athletics or Focus Ranks to its d20 roll."
+  },
+  {
+    "name": "Extended Invisibility",
+    "prerequisites": "Level 20, Invisibility Capability",
+    "cost": "1 Tutor Point",
+    "effect": "The user may remain Invisible for up to 8 minutes."
+  },
+  {
+    "name": "Far Reading",
+    "prerequisites": "Level 20, Telepath Capability",
+    "cost": "1 Tutor Point",
+    "effect": "The user treats their Focus Rank as 2 higher for the purposes of determining the range of Telepath."
+  },
+  {
+    "name": "Precise Threadings",
+    "prerequisites": "Level 20, Threaded Capability",
+    "cost": "1 Tutor Point",
+    "effect": "The user may use their Threaded Capability at a range of 6 meters and with an AC of 3 rather than 6."
+  },
+  {
+    "name": "Seismometer",
+    "prerequisites": "Level 20, Tremorsense Capability",
+    "cost": "1 Tutor Point",
+    "effect": "The user’s Tremorsense range is increased by a number of meters equal to their Perception Rank."
+  },
+  {
+    "name": "TK Mastery",
+    "prerequisites": "Level 20, Telekinetic Capability",
+    "cost": "1 Tutor Point",
+    "effect": "The user treats their Focus Rank as 2 higher for the purposes of the Telekinetic Capability."
+  },
+  {
+    "name": "Trail Sniffer",
+    "prerequisites": "Level 20, Tracker Capability",
+    "cost": "1 Tutor Point",
+    "effect": "The user gets a bonus to all Perception Rolls to use the Tracker Capability equal to their Focus Rank."
+  }
+]

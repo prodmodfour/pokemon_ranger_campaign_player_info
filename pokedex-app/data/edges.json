@@ -1,0 +1,267 @@
+[
+  {
+    "name": "Skill Edges Basic Skills",
+    "prerequisites": "None",
+    "effect": "You Rank Up a Skill from Pathetic to Untrained, or Untrained to Novice. You may take this Edge multiple times."
+  },
+  {
+    "name": "Adept Skills",
+    "prerequisites": "Level 2",
+    "effect": "You Rank Up a Skill from Novice to Adept. You may take this Edge multiple times."
+  },
+  {
+    "name": "Expert Skills",
+    "prerequisites": "Level 6",
+    "effect": "You Rank Up a Skill from Adept to Expert. You may take this Edge multiple times."
+  },
+  {
+    "name": "Master Skills",
+    "prerequisites": "Level 12",
+    "effect": "You Rank Up a Skill from Expert to Master. You may take this Edge multiple times."
+  },
+  {
+    "name": "Skill Stunt",
+    "prerequisites": "A Skill at Novice Rank or higher",
+    "effect": "Choose a Skill you have at Novice Rank or higher. Choose a specific use of that Skill; when rolling that skill under those circumstances, you may choose to roll one less dice, and instead add +6 to the result. You may take this Edge multiple times, choosing a different circumstance each time."
+  },
+  {
+    "name": "Categoric Inclination",
+    "prerequisites": "None",
+    "effect": "Choose Body, Mind, or Spirit. You gain a +1"
+  },
+  {
+    "name": "Skill Enhancement",
+    "prerequisites": "None",
+    "effect": "Choose two different Skills. You gain a +2 bonus to each of those skills. Skill Enhancement may be taken multiple times, but the bonus may be applied only once to a particular skill."
+  },
+  {
+    "name": "Virtuoso",
+    "prerequisites": "A Skill at Master Rank, Level 20",
+    "effect": "Choose a Skill at Master Rank. Consider that Skill to be effectively “Rank 8” for any Features or effects that depend on Skill Rank. Virtuoso may be taken multiple times, but you must choose a different Skill each time."
+  },
+  {
+    "name": "Basic Balls",
+    "prerequisites": "Novice Technology Education",
+    "effect": "You may craft Basic Balls for $100 and Great"
+  },
+  {
+    "name": "Basic Cooking",
+    "prerequisites": "Novice Intuition",
+    "effect": "You may create “Candy Bars” or “Baby Food” with cooking ingredients costing $50. You may fluff the food in any reasonable manner you like."
+  },
+  {
+    "name": "Gem Lore",
+    "prerequisites": "Novice Occult Education",
+    "effect": "As an Extended Action, you may turn a Shard into a Gem of one of its associated Types. Additionally, you can turn 4 Red Shards into a Fire Stone; 4 Blue"
+  },
+  {
+    "name": "Repel Crafter",
+    "prerequisites": "Novice Medicine or Technology Edu",
+    "effect": "Create a Repel for $100 or a Super Repel for $150. Requires access to a Chemistry Set."
+  },
+  {
+    "name": "Tag Scribe",
+    "prerequisites": "Novice Occult Education",
+    "effect": "You create a Cleanse Tag. This may be used a number of times each day equal to half your Occult"
+  },
+  {
+    "name": "Beast Master",
+    "prerequisites": "Novice Intimidate",
+    "effect": "You may use Intimidate instead of Command to make Pokemon at 0 or 1 Loyalty obey your commands."
+  },
+  {
+    "name": "Combat Edges Athletic Initiative",
+    "prerequisites": "Adept Athletics",
+    "effect": "You learn the Move Agility."
+  },
+  {
+    "name": "Bad Mood",
+    "prerequisites": "Expert Intimidate",
+    "effect": "Your Critical Hit Range is increased by +1 if you are suffering from a Persistent Status Affliction. Your"
+  },
+  {
+    "name": "Basic Martial Arts",
+    "prerequisites": "Novice Combat",
+    "effect": "You learn the Move Rock Smash."
+  },
+  {
+    "name": "Basic Psionics",
+    "prerequisites": "Elemental Connection (Psychic)",
+    "effect": "You learn the Move Confusion."
+  },
+  {
+    "name": "Charmer",
+    "prerequisites": "Novice Charm",
+    "effect": "You learn the Move Baby-Doll Eyes."
+  },
+  {
+    "name": "Confidence Artist",
+    "prerequisites": "Novice Guile",
+    "effect": "You learn the Move Confide."
+  },
+  {
+    "name": "Demoralize",
+    "prerequisites": "Adept Intimidate",
+    "effect": "Whenever you land a Critical Hit on a foe, that foe becomes Vulnerable. Status-Class Moves with an"
+  },
+  {
+    "name": "Dynamism",
+    "prerequisites": "Novice Guile",
+    "effect": "Your initiative is increased by your Guile Rank."
+  },
+  {
+    "name": "Expert Manipulator",
+    "prerequisites": "Adept Guile",
+    "effect": "You gain a +2 Opposed Checks with all"
+  },
+  {
+    "name": "Groomer",
+    "prerequisites": "Novice Pokémon Education",
+    "effect": "You know how to effectively groom your Pokémon with access to a Groomer’s Kit. You may groom up to 6"
+  },
+  {
+    "name": "Train the Reserves",
+    "prerequisites": "Novice Command",
+    "effect": "You may apply Experience Training to a number of Pokemon equal to twice your Command Rank, in- stead of equal to your Command Rank."
+  },
+  {
+    "name": "Trainer of Champions",
+    "prerequisites": "Expert Command",
+    "effect": "Whenever you apply Experience Training to a"
+  },
+  {
+    "name": "Expert Trickster",
+    "prerequisites": "Adept Stealth",
+    "effect": "You gain a +2 Opposed Checks with all Dirty"
+  },
+  {
+    "name": "Flustering Charisma",
+    "prerequisites": "Adept Charm or Guile",
+    "effect": "When you hit with a Move with the Social keyword, the target takes a -2 penalty to Save Checks against Volatile Status Afflictions for 1 full round."
+  },
+  {
+    "name": "Intimidating Presence",
+    "prerequisites": "Novice Intimidate",
+    "effect": "You learn the Move Leer."
+  },
+  {
+    "name": "Kip Up",
+    "prerequisites": "Expert Acrobatics",
+    "effect": "You may stand up from being Tripped as a Swift"
+  },
+  {
+    "name": "Action Leader",
+    "prerequisites": "Adept Command",
+    "effect": "You learn the Move After You."
+  },
+  {
+    "name": "Nimble Movement",
+    "prerequisites": "Adept Acrobatics or Stealth",
+    "effect": "Whenever you Disengage, you Shift 2 meters instead of 1."
+  },
+  {
+    "name": "Slippery",
+    "prerequisites": "Novice Stealth",
+    "effect": "You may use your Stealth Skill when defending in Opposed Grapple, Push, or Trip checks. When"
+  },
+  {
+    "name": "Smooth",
+    "prerequisites": "Expert Charm or Expert Focus",
+    "effect": "You gain +4 Evasion against Moves with the"
+  },
+  {
+    "name": "Stamina",
+    "prerequisites": "Expert Athletics or Expert Combat",
+    "effect": "Whenever you Take a Breather or take Massive"
+  },
+  {
+    "name": "Survival Drive",
+    "prerequisites": "Adept Survival",
+    "effect": "You learn the Move Bulk Up."
+  },
+  {
+    "name": "Throwing Masteries",
+    "prerequisites": "Adept Acrobatics",
+    "effect": "Increase the Throwing Range of your Poké Balls,"
+  },
+  {
+    "name": "Weapon of Choice",
+    "prerequisites": "A Feature with the [Weapon] tag",
+    "effect": "Choose a specific weapon type. You gain a +2"
+  },
+  {
+    "name": "Work Up",
+    "prerequisites": "Adept Focus",
+    "effect": "You learn the Move Work Up."
+  },
+  {
+    "name": "Other Edges Acrobat",
+    "prerequisites": "Novice Acrobatics",
+    "effect": "Increase your Jump and Long Jump Capabilities by +1 each."
+  },
+  {
+    "name": "Art of Stealth",
+    "prerequisites": "Expert Stealth",
+    "effect": "You gain the Stealth Capability."
+  },
+  {
+    "name": "Elemental Connection",
+    "prerequisites": "None",
+    "effect": "Choose an Elemental Type. You gain a +2 bonus to Charm, Command, Guile, Intimidate, and Intuition"
+  },
+  {
+    "name": "Instinctive Aptitude",
+    "prerequisites": "Adept Intuition",
+    "effect": "Whenever you spend AP to raise your roll on an Accuracy Roll or Skill Check, you get a +2 bonus instead of +1. This cannot be used on Rolls made by your Pokémon."
+  },
+  {
+    "name": "Instruction",
+    "prerequisites": "Novice General Education",
+    "effect": "Whenever you aid an ally in an Assisted Skill"
+  },
+  {
+    "name": "Iron Mind",
+    "prerequisites": "Novice Focus",
+    "effect": "You become aware of all attempts to read your mind with Telepathy, whether the attempt is successful or not."
+  },
+  {
+    "name": "Medic Training",
+    "prerequisites": "Novice Medicine Education",
+    "effect": "When you use Restorative Items on others, they do not forfeit their next turn."
+  },
+  {
+    "name": "Mounted Prowess",
+    "prerequisites": "Novice Acrobatics or Athletics",
+    "effect": "You automatically succeed at Acrobatics and"
+  },
+  {
+    "name": "Mystic Senses",
+    "prerequisites": "Novice Intuition",
+    "effect": "You may use Intuition instead of Charm to improve the disposition of Wild Pokémon. You may not take Mystic Senses if you have the Elemental Connection"
+  },
+  {
+    "name": "Power Boost",
+    "prerequisites": "Expert Athletics",
+    "effect": "Increase your Power Capability by +2"
+  },
+  {
+    "name": "Scholar",
+    "prerequisites": "Expert General Education",
+    "effect": "You gain a +1 Bonus to Skill Checks with General"
+  },
+  {
+    "name": "Swimmer",
+    "prerequisites": "Novice Athletics or Survival",
+    "effect": "You gain a +2 bonus to your Swim Speed. You may spend X minutes underwater before you begin to suffocate, where X is the higher of your Athletics or"
+  },
+  {
+    "name": "Traveler",
+    "prerequisites": "Novice Survival",
+    "effect": "You may use Survival instead of Athletics and"
+  },
+  {
+    "name": "Wallrunner",
+    "prerequisites": "Expert Acrobatics",
+    "effect": "You may run on vertical surfaces both vertically and horizontally for up to your Acrobatics Rank in meters before jumping off."
+  }
+]
