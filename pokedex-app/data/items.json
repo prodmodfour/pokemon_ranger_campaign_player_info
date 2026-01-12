@@ -1,1 +1,1142 @@
-[]
+[
+  {
+    "name": "Repel",
+    "category": "Travel Gear",
+    "effect": "Lasts 1 hour; causes Pokémon of level 15 or lower to flee.",
+    "price": "$200"
+  },
+  {
+    "name": "Super Repel",
+    "category": "Travel Gear",
+    "effect": "Lasts 2 hours; causes Pokémon of level 25 or lower to flee.",
+    "price": "$300"
+  },
+  {
+    "name": "Max Repel",
+    "category": "Travel Gear",
+    "effect": "Lasts 5 hours; causes Pokémon of level 35 or lower to flee.",
+    "price": "$400"
+  },
+  {
+    "name": "Potion",
+    "category": "Basic Restoratives",
+    "effect": "Heals 20 Hit Points",
+    "price": "$200"
+  },
+  {
+    "name": "Super Potion",
+    "category": "Basic Restoratives",
+    "effect": "Heals 35 Hit Points",
+    "price": "$380"
+  },
+  {
+    "name": "Hyper Potion",
+    "category": "Basic Restoratives",
+    "effect": "Heals 70 Hit Points",
+    "price": "$800"
+  },
+  {
+    "name": "Antidote",
+    "category": "Basic Restoratives",
+    "effect": "Cures Poison",
+    "price": "$200"
+  },
+  {
+    "name": "Paralyze Heal",
+    "category": "Basic Restoratives",
+    "effect": "Cures Paralysis",
+    "price": "$200"
+  },
+  {
+    "name": "Burn Heal",
+    "category": "Basic Restoratives",
+    "effect": "Cures Burns",
+    "price": "$200"
+  },
+  {
+    "name": "Ice Heal",
+    "category": "Basic Restoratives",
+    "effect": "Cures Freezing",
+    "price": "$200"
+  },
+  {
+    "name": "Full Heal",
+    "category": "Basic Restoratives",
+    "effect": "Cures all Persistent Status Afflictions",
+    "price": "$450"
+  },
+  {
+    "name": "Full Restore",
+    "category": "Basic Restoratives",
+    "effect": "Heals a Pokémon for 80 Hit Points and cures any Status Afflictions",
+    "price": "$1450"
+  },
+  {
+    "name": "Revive",
+    "category": "Basic Restoratives",
+    "effect": "Revives fainted Pokémon and sets to 20 Hit Points",
+    "price": "$300"
+  },
+  {
+    "name": "Energy Root",
+    "category": "Basic Restoratives",
+    "effect": "Heals 70 Hit Points - Repulsive",
+    "price": "$500"
+  },
+  {
+    "name": "Heal Powder",
+    "category": "Basic Restoratives",
+    "effect": "Cure all Persistent Status Afflictions – Repulsive",
+    "price": "$350"
+  },
+  {
+    "name": "Revival Herb",
+    "category": "Basic Restoratives",
+    "effect": "Revives Pokémon and sets to 50%",
+    "price": ""
+  },
+  {
+    "name": "X Attack",
+    "category": "X-Items",
+    "effect": "Increases the Pokémon’s Attack by two",
+    "price": ""
+  },
+  {
+    "name": "X Defend",
+    "category": "X-Items",
+    "effect": "Increases the Pokémon’s Defense by two",
+    "price": ""
+  },
+  {
+    "name": "X Special",
+    "category": "X-Items",
+    "effect": "Increases the Pokémon’s Special Attack by two Combat Stages",
+    "price": "$350"
+  },
+  {
+    "name": "X Speed",
+    "category": "X-Items",
+    "effect": "Increases the Pokémon’s Speed by two",
+    "price": ""
+  },
+  {
+    "name": "Dire Hit",
+    "category": "X-Items",
+    "effect": "Increases Critical Hit Range of all moves by +2.",
+    "price": "$600"
+  },
+  {
+    "name": "Bandages",
+    "category": "Bandages and Poultices",
+    "effect": "See attached Section",
+    "price": "$300"
+  },
+  {
+    "name": "Poultices",
+    "category": "Bandages and Poultices",
+    "effect": "See attached Section - Repulsive",
+    "price": "$225"
+  },
+  {
+    "name": "Candy Bar",
+    "category": "Snacks",
+    "effect": "Snack. Grants a Digestion Buff that heals 5 Hit Points.",
+    "price": "$75"
+  },
+  {
+    "name": "Honey",
+    "category": "Snacks",
+    "effect": "Snack. Grants a Digestion Buff that heals 5 Hit Points. May be used as Bait",
+    "price": "$100"
+  },
+  {
+    "name": "Leftovers",
+    "category": "Snacks",
+    "effect": "Snack. When their Digestion Buff is traded in, the user recovers 1/16th of their max Hit Points at the beginning of each turn for the rest of the encounter.",
+    "price": "$350"
+  },
+  {
+    "name": "Sludge",
+    "category": "Snacks",
+    "effect": "Poison-Type Pokémon may consume the Black Sludge as a Snack Item; when the Digestion Buff is traded in, they recover 1/8th of their Max Hit Points at the beginning of each turn for the rest of the encounter.",
+    "price": "$500"
+  },
+  {
+    "name": "Berry List",
+    "category": "Herbs,",
+    "effect": "Cheri Berry, Chesto Berry, Pecha Berry, Rawst Berry, Aspear Berry, Oran Berry, Persim Berry, Razz Berry (and similar).",
+    "price": "$150"
+  },
+  {
+    "name": "Apricorn Type",
+    "category": "Herbs,",
+    "effect": "Poké Ball",
+    "price": ""
+  },
+  {
+    "name": "Revives",
+    "category": "Herbs,",
+    "effect": "Pokémon and sets to 50% Hit Points -",
+    "price": ""
+  },
+  {
+    "name": "Mental Herb",
+    "category": "Herbs,",
+    "effect": "Cures all Volatile Status Effects.",
+    "price": "$300"
+  },
+  {
+    "name": "Power Herb",
+    "category": "Herbs,",
+    "effect": "Eliminates the Set-Up turn of Moves with the Set-Up Keyword.",
+    "price": "$300"
+  },
+  {
+    "name": "Any",
+    "category": "Herbs,",
+    "effect": "negative",
+    "price": ""
+  },
+  {
+    "name": "Combat",
+    "category": "Herbs,",
+    "effect": "Stages are set to 0.",
+    "price": "$300"
+  },
+  {
+    "name": "Tiny",
+    "category": "Herbs,",
+    "effect": "Mushroom** The user loses 5 HP, and gains +1 Combat Stage in a random Stat.",
+    "price": "Rare"
+  },
+  {
+    "name": "The",
+    "category": "Herbs,",
+    "effect": "user becomes Poisoned; if they do, they gain +1 Combat Stage in two random Stats.",
+    "price": "Rare"
+  },
+  {
+    "name": "Balm",
+    "category": "Herbs,",
+    "effect": "Mushroom** The user is cured of Burn, Paralysis, or Poison. If they are, they lose 1 Combat Stage in a random Stat.",
+    "price": "Rare"
+  },
+  {
+    "name": "Cheri Berry",
+    "category": "Berry Chart",
+    "effect": "Cures Paralysis, Cool",
+    "price": ""
+  },
+  {
+    "name": "Chesto Berry",
+    "category": "Berry Chart",
+    "effect": "Cures Sleep,",
+    "price": ""
+  },
+  {
+    "name": "Pecha Berry",
+    "category": "Berry Chart",
+    "effect": "Cures Poison,",
+    "price": ""
+  },
+  {
+    "name": "Rawst Berry",
+    "category": "Berry Chart",
+    "effect": "Cures Burn,",
+    "price": ""
+  },
+  {
+    "name": "Aspear Berry",
+    "category": "Berry Chart",
+    "effect": "Cures Freeze, Tough",
+    "price": ""
+  },
+  {
+    "name": "Oran Berry",
+    "category": "Berry Chart",
+    "effect": "Restores 5 Hit Points",
+    "price": ""
+  },
+  {
+    "name": "Persim Berry",
+    "category": "Berry Chart",
+    "effect": "Cures Confusion",
+    "price": ""
+  },
+  {
+    "name": "Lum Berry",
+    "category": "Berry Chart",
+    "effect": "Cures any single status ailment",
+    "price": ""
+  },
+  {
+    "name": "Sitrus Berry",
+    "category": "Berry Chart",
+    "effect": "Restores 15 Hit Points",
+    "price": ""
+  },
+  {
+    "name": "Spicy",
+    "category": "Berry Chart",
+    "effect": "Treat*,",
+    "price": ""
+  },
+  {
+    "name": "Dry",
+    "category": "Berry Chart",
+    "effect": "Treat*,",
+    "price": ""
+  },
+  {
+    "name": "Sweet",
+    "category": "Berry Chart",
+    "effect": "Treat*,",
+    "price": ""
+  },
+  {
+    "name": "Bitter",
+    "category": "Berry Chart",
+    "effect": "Treat*,",
+    "price": ""
+  },
+  {
+    "name": "Sour",
+    "category": "Berry Chart",
+    "effect": "Treat*,",
+    "price": ""
+  },
+  {
+    "name": "Liechi Berry",
+    "category": "Berry Chart",
+    "effect": "+1 Attack CS.",
+    "price": ""
+  },
+  {
+    "name": "Ganlon Berry",
+    "category": "Berry Chart",
+    "effect": "+1 Defense CS",
+    "price": ""
+  },
+  {
+    "name": "Salac Berry",
+    "category": "Berry Chart",
+    "effect": "+1 Speed CS",
+    "price": ""
+  },
+  {
+    "name": "Petaya Berry",
+    "category": "Berry Chart",
+    "effect": "+1 Special Attack CS",
+    "price": ""
+  },
+  {
+    "name": "Apicot Berry",
+    "category": "Berry Chart",
+    "effect": "+1 Special Defense CS",
+    "price": ""
+  },
+  {
+    "name": "Lansat Berry",
+    "category": "Berry Chart",
+    "effect": "Increases Critical Range by +1 for the remainder of the encounter.",
+    "price": ""
+  },
+  {
+    "name": "Starf Berry",
+    "category": "Berry Chart",
+    "effect": "+2 CS to a random Stat. May be used only at 25% HP or lower.",
+    "price": ""
+  },
+  {
+    "name": "User gains Temporary",
+    "category": "Berry Chart",
+    "effect": "HP equal to 1/6th of their Max HP when hit by a Super Effective Move.",
+    "price": ""
+  },
+  {
+    "name": "Micle Berry",
+    "category": "Berry Chart",
+    "effect": "Increases Accuracy by +1.",
+    "price": ""
+  },
+  {
+    "name": "Foe dealing Physical",
+    "category": "Berry Chart",
+    "effect": "Damage to the user loses 1/8 of their Maximum HP.",
+    "price": ""
+  },
+  {
+    "name": "Foe dealing Special",
+    "category": "Berry Chart",
+    "effect": "Damage to the user loses 1/8 of their Maximum HP.",
+    "price": ""
+  },
+  {
+    "name": "Cornn Berry",
+    "category": "Berry Chart",
+    "effect": "Cures Disabled Condition.",
+    "price": ""
+  },
+  {
+    "name": "Magost Berry",
+    "category": "Berry Chart",
+    "effect": "Cures Enraged condition.",
+    "price": ""
+  },
+  {
+    "name": "Rabuta Berry",
+    "category": "Berry Chart",
+    "effect": "Cures Suppressed condition.",
+    "price": ""
+  },
+  {
+    "name": "Nomel Berry",
+    "category": "Berry Chart",
+    "effect": "Cures Infatuated condition.",
+    "price": ""
+  },
+  {
+    "name": "Spelon Berry",
+    "category": "Berry Chart",
+    "effect": "Cool or Beauty Poffin",
+    "price": ""
+  },
+  {
+    "name": "Pamtre Berry",
+    "category": "Berry Chart",
+    "effect": "Cute or Beauty Poffin",
+    "price": ""
+  },
+  {
+    "name": "Watmel Berry",
+    "category": "Berry Chart",
+    "effect": "Cute or Smart Poffin",
+    "price": ""
+  },
+  {
+    "name": "Durin Berry",
+    "category": "Berry Chart",
+    "effect": "Smart or Tough Poffin",
+    "price": ""
+  },
+  {
+    "name": "Belue Berry",
+    "category": "Berry Chart",
+    "effect": "Cool or Tough Poffin",
+    "price": ""
+  },
+  {
+    "name": "Leppa Berry",
+    "category": "Berry Chart",
+    "effect": "Restores a Scene Move.",
+    "price": ""
+  },
+  {
+    "name": "Kasib Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Ghost-type move*",
+    "price": ""
+  },
+  {
+    "name": "Haban Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Dragon-type move*",
+    "price": ""
+  },
+  {
+    "name": "Colbur Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Dark-type move*",
+    "price": ""
+  },
+  {
+    "name": "Babiri Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Steel-type move*",
+    "price": ""
+  },
+  {
+    "name": "Chilan Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s Normal- type move*",
+    "price": ""
+  },
+  {
+    "name": "Roseli Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s supereffective Fairy- type move*",
+    "price": ""
+  },
+  {
+    "name": "Custap Berry",
+    "category": "Berry Chart",
+    "effect": "Grants the Priority keyword to any Move. May only be used at 25% HP or lower.",
+    "price": ""
+  },
+  {
+    "name": "Kee Berry",
+    "category": "Berry Chart",
+    "effect": "+1 Defense CS.",
+    "price": ""
+  },
+  {
+    "name": "Maranga Berry",
+    "category": "Berry Chart",
+    "effect": "+1 Special Defense CS. Activates as a Free Action when hit by a Special Move. * Treat Berries heal 1/8th of the Pokémon’s Max HP. If the user likes the Treat’s flavor, it heals 1/6th instead. If the user dislikes the treat’s flavor, the user is Confused. * Suppressant Berries lower the indicated Base Stat by 1 when consumed by a Pokémon. This effect only works if the Pokémon’s trainer wishes it to. * Berries that Weaken a Type of Move allow the user to trade in their Digestion Buff to grant one step of resis- tance when hit by a Move of the indicated type.",
+    "price": ""
+  },
+  {
+    "name": "Pomeg Berry",
+    "category": "Berry Chart",
+    "effect": "HP Suppressant*",
+    "price": ""
+  },
+  {
+    "name": "Kelpsy Berry",
+    "category": "Berry Chart",
+    "effect": "Attack Suppressant*",
+    "price": ""
+  },
+  {
+    "name": "Qualot Berry",
+    "category": "Berry Chart",
+    "effect": "Defense Suppressant*",
+    "price": ""
+  },
+  {
+    "name": "Hondew Berry Special Attack",
+    "category": "Berry Chart",
+    "effect": "Suppressant*",
+    "price": ""
+  },
+  {
+    "name": "Special Defense",
+    "category": "Berry Chart",
+    "effect": "Suppressant*",
+    "price": ""
+  },
+  {
+    "name": "Tamato Berry",
+    "category": "Berry Chart",
+    "effect": "Speed Suppressant*",
+    "price": ""
+  },
+  {
+    "name": "Occa Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Fire-type move*",
+    "price": ""
+  },
+  {
+    "name": "Passho Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Water-type move* Wacan Berry Weakens foe’s super effective Electric-type move* Rindo Berry Weakens foe’s super effective Grass-type move*",
+    "price": ""
+  },
+  {
+    "name": "Yache Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Ice-type move*",
+    "price": ""
+  },
+  {
+    "name": "Chople Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Fighting-type move*",
+    "price": ""
+  },
+  {
+    "name": "Kebia Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Poison-type move*",
+    "price": ""
+  },
+  {
+    "name": "Shuca Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Ground-type move*",
+    "price": ""
+  },
+  {
+    "name": "Coba Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Flying-type move*",
+    "price": ""
+  },
+  {
+    "name": "Payapa Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Psychic-type move*",
+    "price": ""
+  },
+  {
+    "name": "Tanga Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Bug-type move*",
+    "price": ""
+  },
+  {
+    "name": "Charti Berry",
+    "category": "Berry Chart",
+    "effect": "Weakens foe’s super effective Rock-type move*",
+    "price": ""
+  },
+  {
+    "name": "Crafting Kits",
+    "category": "Berry Chart",
+    "effect": "These items are either required to use certain crafting Edges and Features or greatly aid in their use by finding raw material items. Chemistry Set: Used to create Repels, Potions, and other objects. Costs $1000. Cooking Set: Used by Chefs to create Snacks and",
+    "price": ""
+  },
+  {
+    "name": "Adept Weapon Moves",
+    "category": "Poké Balls: All Poké Balls",
+    "effect": "Move: Backswing Type: Normal Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: Melee, 2 Targets Effect: None Limitation: Large Melee Weapons Only Weapon Suggestions: All Two-Handed Weapons Move: Bash! Type: Normal Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: WR, 1 Target Effect: Bash! lowers the target’s Initiative to 0 for 1 full round on 15+. Limitation: None Weapon Suggestions: Axes, Blunt Weapons, Throwing",
+    "price": ""
+  },
+  {
+    "name": "Hammers",
+    "category": "Poké Balls: All Poké Balls",
+    "effect": "Move: Bullseye Type: Normal Frequency: EOT AC: 2 Damage Base 6: 2d6+8 / 15 Class: Physical Range: WR, 1 Target Effect: Bullseye is a Critical Hit on 16+. Limitation: Ranged Weapons Only Weapon Suggestions: All Ranged Move: Cheap Shot Type: Normal Frequency: EOT AC: 2 Damage Base 5: 1d8+8 / 13 Class: Physical Range: WR, 1 Target Effect: Cheap Shot cannot miss. Limitation: Small Melee and Short Ranged Weapons",
+    "price": ""
+  },
+  {
+    "name": "Only",
+    "category": "Poké Balls: All Poké Balls",
+    "effect": "Weapon Suggestions: Daggers, Short Swords, Hatch- ets, Throwing Weapons Move: Double Swipe Type: Normal Frequency: EOT AC: 2 Damage Base 4: 1d8+6 / 11 Class: Physical Range: WR, 2 Targets; or WR, 1 Target, Double Strike Effect: None Limitations: None Weapon Suggestions: Swords, Dual-Wielded Weap- ons, Throwing Knives Move: Pierce! Type: Normal Frequency: EOT AC: 2 Damage Base 7: 2d6+10 / 17 Class: Physical Range: WR, 1 Target Effect: Pierce deals an additional +10 damage against targets with Damage Reduction. Limitations: None Weapon Suggestions: Daggers, Swords, Bows, Spears Move: Salvo Type: Normal Frequency: EOT AC: 2 Damage Base 6: 2d6+8 / 15 Class: Physical Range: WR, Blast 2 Effect: None Limitation: Ranged Weapons Only Weapon Suggestions: All Ranged Move: Take Aim Type: Normal Frequency: EOT AC: None Class: Status Range: Self Effect: Raise the user’s Accuracy by +1. If the user per- forms an Weapon Move on their next turn that deals damage, add its Damage Dice Roll an extra time to the damage. Limitations: None Weapon Suggestions: Daggers, Bows, Firearms Move: Wear Down Type: Normal Frequency: EOT AC: 2 Damage Base 5: 1d8+8 / 13 Class: Physical Range: WR, 1 Target Effect: Wear Down lowers the target’s Defense by 1 Combat Stage on Even-Numbered Rolls. Limitation: None Weapon Suggestions: Blunt Weapons Move: Wounding Strike Type: Normal Frequency: EOT AC: 2 Damage Base 6: 2d6+8 / 15 Class: Physical Range: WR, 1 Target Effect: The target loses a Tick of Hit Points. Limitation: None Weapon Suggestions: Axes, Swords, Bows, Spears",
+    "price": ""
+  },
+  {
+    "name": "Master Weapon Moves",
+    "category": "Poké Balls: All Poké Balls",
+    "effect": "Move: Bleed! Type: Normal Frequency: Scene x2 AC: 2 Damage Base 9: 2d10+10 / 21 Class: Physical Range: WR, 1 Target Effect: The target loses a Tick of Hit Points at the start of their next three turns. Limitation: None Weapon Suggestions: Axes, Swords, Bows, Spears Move: Deadly Strike Type: Normal Frequency: Scene x2 AC: 2 Damage Base 6: 2d6+8 / 15 Class: Physical Range: WR, 1 Target Effect: If Deadly Strike Hits, it is a Critical Hit. Limitation: Not usable by Large Melee Weapons. Weapon Suggestions: Daggers, Bows, Short Spears Move: Furious Strikes Type: Normal Frequency: Scene x2 AC: 2 Damage Base 3: 1d6+5 / 9 Class: Physical Range: WR, 1 Target, Five Strike Effect: For each hit rolled on your Five Strike roll, the target of the attack has their Evasion reduced by 1 for one full round. Limitation: Melee or Short Ranged Weapons Only Weapon Suggestions: Claws, Nun-Chucks, Staves, Du- al-Wielded weapons Move: Gouge Type: Normal Frequency: Scene x2 AC: 2 Damage Base 5: 1d8+8 / 13 Class: Physical Range: WR, 1 Target, Double Strike Effect: If both hits of Gouge successfully hit the target, the target gains an Injury. Limitation: Small Melee and Short Ranged Weapons",
+    "price": ""
+  },
+  {
+    "name": "Knives",
+    "category": "Poké Balls: All Poké Balls",
+    "effect": "Move: Maul Type: Normal Frequency: Scene x2 AC: 2 Damage Base 5: 1d8+8 / 13 Class: Physical Range: 1 Target, Melee Effect: The target is Flinched. Limitation: Melee Weapons Only Weapon Suggestions: Blunt Weapons, Axes Move: Riposte Type: Normal Frequency: Scene x2 AC: 2 Damage Base 12: 3d12+10 / 30 Class: Physical Range: WR, 1 Target, Reaction, Trigger Trigger: Your Target misses you with a melee Attack. Effect: None Limitations: Melee or Short-Ranged Weapons Only Weapon Suggestions: Rapiers, Swords, Daggers Move: Slice Type: Normal Frequency: Scene x2 AC: 2 Damage Base 10: 3d8+10 / 24 Class: Physical Range: Melee, Pass Effect: None. Limitation: Melee Weapons Only Weapon Suggestions: Axes, Swords Move: Sweeping Strike Type: Normal Frequency: Scene x2 AC: 3 Damage Base 9: 2d10+10 / 21 Class: Physical Range: WR, 1 Target Effect: You may attempt a Trip Maneuver against the target as a free action. Limitation: Short-Range Weapons or Weapons with the Reach Quality Only Weapon Suggestions: Whips, Chains, Staves Move: Titanic Slam Type: Normal Frequency: Scene x2 AC: 3 Damage Base 11: 3d10+10 / 27 Class: Physical Range: 1 Target, Melee Effect: On Even-Numbered Rolls, the target is Slowed for one full round. Limitation: Melee Weapons Only Weapon Suggestions: Blunt Weapons Move: Triple Threat Type: Normal Frequency: Scene x2 AC: 2 Damage Base 7: 3d8+10 / 17 Class: Physical Range: WR, 3 Targets Effect: None Limitation: Large Melee Weapons and Long-Range",
+    "price": ""
+  },
+  {
+    "name": "Weapon",
+    "category": "Poké Balls: All Poké Balls",
+    "effect": "Suggestions:",
+    "price": ""
+  },
+  {
+    "name": "Two-Handed",
+    "category": "Poké Balls: All Poké Balls",
+    "effect": "Swords, Two-Handed Axes, Bows",
+    "price": ""
+  },
+  {
+    "name": "Small Melee Weapon",
+    "category": "Poké Balls: All Poké Balls",
+    "effect": "Adept Move: Cheap Shot",
+    "price": ""
+  },
+  {
+    "name": "Quarterstaff",
+    "category": "Poké Balls: All Poké Balls",
+    "effect": "Large Melee Weapon, grants Reach for Weapon Attacks Adept Move: Backswing",
+    "price": ""
+  },
+  {
+    "name": "Short Range Weapon",
+    "category": "Poké Balls: All Poké Balls",
+    "effect": "Adept Move: Bash!",
+    "price": ""
+  },
+  {
+    "name": "Long Range Weapon",
+    "category": "Poké Balls: All Poké Balls",
+    "effect": "Adept Move: Pierce!",
+    "price": ""
+  },
+  {
+    "name": "Large Melee Weapon",
+    "category": "Poké Balls: All Poké Balls",
+    "effect": "Adept Move: Backswing Master Move: Titanic Slam",
+    "price": ""
+  },
+  {
+    "name": "Light Armor",
+    "category": "Body Equipment",
+    "effect": "Grants 5 Damage Reduction",
+    "price": "$8000"
+  },
+  {
+    "name": "Heavy Armor",
+    "category": "Body Equipment",
+    "effect": "Heavy Armor grants +10 Damage Reduction. Heavy Armor causes the wearer’s Speed’s Default Combat Stage to be -1.",
+    "price": "$12,000"
+  },
+  {
+    "name": "Fancy Clothes",
+    "category": "Body Equipment",
+    "effect": "Each set of Fancy Clothes is assigned a Contest Stat – either Beauty, Cool, Cute, Smart, or Tough. Trainers wearing these clothes may roll 2d6 during the Introduction Stage of a Contest to try to generate Contest Stat Dice for the assigned Stat.",
+    "price": "$5000"
+  },
+  {
+    "name": "Clothes",
+    "category": "Body Equipment",
+    "effect": "Whether it’s a dark cloak and hood, a ninja suit, or spy gear, these clothes help you blend in. This body-slot equipment raises your modifier to Stealth Checks made to remain unseen by +4, to a maximum total modifier of +4.",
+    "price": "$2000"
+  },
+  {
+    "name": "Goggles",
+    "category": "Head Equipment",
+    "effect": "These Goggles simply grant the Darkvision Capability while worn.",
+    "price": "$1,000"
+  },
+  {
+    "name": "Gas Mask",
+    "category": "Head Equipment",
+    "effect": "Gas Masks are invaluable equipment when trying to breathe in toxic environments or heavy smoke. They not only let you breathe through environmental toxins or smoke, but you become immune to the Moves Rage Powder, Poison Gas, Poisonpowder, Sleep Powder, Smog, Smokescreen, Spore, Stun Spore, and Sweet Scent.",
+    "price": "$1,500"
+  },
+  {
+    "name": "Helmet",
+    "category": "Head Equipment",
+    "effect": "The user gains 15 Damage Reduction against Critical Hits. The user resists the Moves Headbutt and Zen Headbutt and can’t be flinched by these Moves.",
+    "price": "$2250"
+  },
+  {
+    "name": "Re-Breather",
+    "category": "Head Equipment",
+    "effect": "This small partial face mask allows Trainers and Pokémon to breathe underwater as if they had the Gilled Capability for up to an hour. The Re-Breather is refilled automatically in 5 minutes while in open air.",
+    "price": "$4000"
+  },
+  {
+    "name": "Sunglasses",
+    "category": "Head Equipment",
+    "effect": "+1 to Charm, Guile, and Intimidate Checks, to a maximum total modifier of +3.",
+    "price": "$2000"
+  },
+  {
+    "name": "Snow Boots",
+    "category": "Feet Equipment",
+    "effect": "Snow Boots grant you the Naturewalk (Tundra) capability, but lower your Overland Speed by -1 while on ice or deep snow.",
+    "price": "$1500"
+  },
+  {
+    "name": "Shoes",
+    "category": "Feet Equipment",
+    "effect": "Running Shoes grant a +2 bonus to Athletics Checks, to a maximum total modifier of +3, and increase your Overland Speed by +1.",
+    "price": "$2000"
+  },
+  {
+    "name": "Flippers",
+    "category": "Feet Equipment",
+    "effect": "Flippers grant a +2 bonus to your Swim speed when fully submerged, and decrease your Overland speed by the same amount.",
+    "price": "$2000"
+  },
+  {
+    "name": "Jungle Boots",
+    "category": "Feet Equipment",
+    "effect": "Jungle Boots grant you the Naturewalk (Forest) capability",
+    "price": "$1500"
+  },
+  {
+    "name": "Fishing Rod",
+    "category": "Hand Equipment",
+    "effect": "Fishing Rods are used to Fish. They are two-handed items. They come in three varieties; Old Rods, Good Rods, and Super Rods. Old Rods cost $1000, Good Rods cost $5,000, and Super Rods cost $15,000.",
+    "price": ""
+  },
+  {
+    "name": "Cannon",
+    "category": "Hand Equipment",
+    "effect": "Glue Cannons are exactly what you expect; This two-handed Equipment piece is a hand-held cannon that launches globs of glue. Attacking with a Glue Cannon expends a charge, which must be purchased. The attack is an AC8 Status Attack. If it hits, the target is Slowed. On a critical hit, the target is instead Stuck and Trapped. The Glue Cannon and three charge packets cost",
+    "price": "$3000,"
+  },
+  {
+    "name": "Hand Net",
+    "category": "Hand Equipment",
+    "effect": "A long net, usually on the end of a long stick, these pieces of two-handed Equipment are usually used for bug catching or fishing. As an AC6 Status Attack, you may attempt to net a Small Pokémon using this item. If you hit, you manage to scoop up the Pokémon, trapping them. You may move with the Pokémon, dragging them with you. Pokémon may still attack from the Hand Net using long-range attacks, or try to attack the net itself, potentially breaking it and freeing themselves. Capture Rolls against Pokémon in a net receive a -20 bonus. Hand Nets with 50 Hit Points cost $100; 100 Hit Points cost $600; and 200 Hit Points cost $1500. Nets aren’t broken until all of their Hit Points are depleted.",
+    "price": ""
+  },
+  {
+    "name": "Nets",
+    "category": "Hand Equipment",
+    "effect": "Weighted Nets are foldable nets used for trapping Pokémon. These two-handed nets, when Equipped, can be thrown at a target as a Standard Action, as a Status Attack with an AC of 8. While a Pokémon is netted, you may pull on the rope attached to the Net to pull the Pokémon 1 Meter towards you as a Standard Action. Pokémon hit by a weighted net become Slowed as long as the net remains and cannot use Sky or Levitate Speeds except to safely lower themselves back to the ground. A Pokémon may attack the Net to attempt to break free. Capture Rolls against Pokémon in a net receive a -20 bonus. Weighted Nets with 50 Hit Points cost $500; 80 Hit Points cost $850; and 150 Hit Points cost $1200.",
+    "price": ""
+  },
+  {
+    "name": "Styler",
+    "category": "Hand Equipment",
+    "effect": "A Capture Styler is a Main-Hand specialized piece of equipment used by some certified Pokémon Rangers in a region. It emits a string of energy that is used in a similar fashion to a lasso but is too weak to physically restrain a target. Instead, the energy has a calming effect on Pokémon. Trainers using a Capture Styler may use Survival in place of Charm when raising the Disposition of Pokémon. Acquiring a Capture Styler is easy for those who become certified Pokémon Rangers; most qualified Rangers receive one as part of the job. They are not for sale to the general public and may cost upwards of $7500 on the black market due to their iconic nature – it’s easy to assume that someone who has a Capture Styler is a Ranger.",
+    "price": ""
+  },
+  {
+    "name": "Light Shield",
+    "category": "Hand Equipment",
+    "effect": "A Shield is an Off-Hand defensive item held in one hand or braced to an arm. Light Shields grant +2 Evasion. They may be readied as a Standard Action to instead grant +4 Evasion and 10 Damage Reduction until the end of your next turn, but also cause you to become Slowed for that duration. If used Two-Handed, light shields can also function as a Small Melee Weapon. Light Shields cost around $3000.",
+    "price": ""
+  },
+  {
+    "name": "Heavy Shield",
+    "category": "Hand Equipment",
+    "effect": "A Shield is an Off-Hand defensive item held in one hand or braced to an arm. Heavy Shields grnat +2 Evasion and may be readied as a Standard Action to grant +6 Evasion and 15 Damage Reduction until the end of your next turn, but also cause you to become Slowed for that duration. If used Two-Handed, shields can also function as a Small Melee Weapon. Heavy Shields cost around $4500.",
+    "price": ""
+  },
+  {
+    "name": "Launcher",
+    "category": "Hand Equipment",
+    "effect": "This strange and complicated two-handed machine can only be used by those that have an Expert-Level Medicine or Technology Education Skill. The wielder can spend 1 AP to activate it, and apply an X-Item at a Pokémon within 8 meters. X-Items applied through the Wonder Launcher do not cause the target to forfeit any actions. Items combined by a Researcher may be used in the Wonder Launcher, and do not cause the target to forfeit any actions even if they are also a Restorative. Wonder Launchers cost $10,000 or more.",
+    "price": ""
+  },
+  {
+    "name": "Focus",
+    "category": "Accessory Items",
+    "effect": "A Focus grants +5 Bonus to a Stat, chosen when crafted. This Bonus is applied AFTER Combat Stages. Focuses are often Accessory-Slot Items, but may be crafted as Head-Slot, Hand or Off- Hand Slot Items as well; a Trainer may only benefit from one Focus at a time, regardless of the Equipment Slot. Focuses are not usually found in stores, but may sometimes be found for $6000 at your GM’s discretion.",
+    "price": ""
+  },
+  {
+    "name": "Snag Machine",
+    "category": "Accessory Items",
+    "effect": "Snag Machines are extremely illegal machines that allow trainers to steal another Trainer’s Pokémon. They come in both large, immovable varieties and smaller portable varieties. The Portable Variety is an Accessory-Slot Item. Inserting a Poké Ball into a Large Snag Machine turns it into a Snag Ball permanently, but Large Snag Machines may only turn 5 Poké Balls into Snag Balls per day. Inserting a Poké Ball into a Portable Snag Machine, which is a Swift Action, turns it into a Snag Ball after one round, but only for that round. Snag Balls have the same properties as the Poké Ball type they were before being inserted into the machine, but receive a -2 penalty on all Poké Ball attack rolls, and are capable of capturing owned Pokémon. Snag Machines cannot be bought in stores, but may sell on the black market for prices of $30,000 or more.",
+    "price": ""
+  },
+  {
+    "name": "Mega Ring",
+    "category": "Accessory Items",
+    "effect": "Mega Rings are extraordinarily rare accessories that allow a Trainer’s Pokémon to Mega Evolve when used in conjunction with a Mega Stone. They cannot be bought in stores anywhere and must usually be earned through a trial of sorts, governed by a Gym Leader or other influential Pokémon Trainer. They can take the form of a bracelet, a necklace, or an actual ring. GM TIP: Creating Your Own Items You’re going to want to create your own equipment; don’t be afraid to do so! One way to provide trainers with useful and flavorful equipment is to provide gear that gives small bonuses to Skills; ranging from +1 to +4 at the maximum. Some Gear may provide these bonuses only in specific circumstances; that kind of gear can afford to give higher bonuses, or simply be cheaper. Feel free to tailor these items to your PCs or NPCs, and to your setting. A “Pokémon League Cap” could be a great item to include to grant +2 to Command Checks in a Standard Pokémon setting; a Pokémon War Setting might be better off with a “Officer’s Stripes” or similar. When creating Items, assign them to an equipment slot that makes sense; that +2 Intimidate Eyepatch obviously goes on the Head Slot, but that +2 Intimidate Studded Leather Jacket could be a Body or Accessory Slot Item. Don’t be afraid to experiment with more exotic effects! For example, some equipment items may allow a Trainer to use a Move, such as a fancy hat that lets a Trainer use the Move Swagger once a Scene. These items should allow Trainers to use Moves at a lower rate than their natural frequency. Be careful that you don’t give out effects that are too powerful or that step on the toes of some PC classes! Finally, you can afford to be a little flexible with which items go in which equipment slots. While it’d make no sense to wear a Gas Mask and Sunglasses simultaneously, if someone wears a Helmet in their Head Slot, you may let them wear Sunglasses as an Accessory Slot Item.",
+    "price": ""
+  },
+  {
+    "name": "Big Root",
+    "category": "Held Items",
+    "effect": "HP stealing moves restore double HP. Cannot be used by Trainers.",
+    "price": "$1000"
+  },
+  {
+    "name": "Bright Powder",
+    "category": "Held Items",
+    "effect": "+2 to Speed Evasion. Cannot be used by Trainers.",
+    "price": "$2000"
+  },
+  {
+    "name": "Choice Item",
+    "category": "Held Items",
+    "effect": "Choice Items are tied to a Specific Stat. While worn, the default state of the Stat is +2 Combat Stages instead of 0. However, the user is Suppressed and cannot be cured until the end of Combat, even if the item is removed. Cannot be used by Trainers.",
+    "price": "$3000"
+  },
+  {
+    "name": "Contest Accessory",
+    "category": "Held Items",
+    "effect": "The user rolls +2d6 during the Introduction Stage of a Contest. Cannot be used by Trainers.",
+    "price": "$1500"
+  },
+  {
+    "name": "Contest Fashion",
+    "category": "Held Items",
+    "effect": "These Items have a chosen Contest Stat; Beauty, Cool, Cute, Smart, or Tough. When held, once per Contest, the holder may re-roll any 1s made when using a Move of the chosen Type. Cannot be used by Trainers.",
+    "price": "$1000"
+  },
+  {
+    "name": "Everstone",
+    "category": "Held Items",
+    "effect": "Evolution is prevented for the holder. Cannot be used by Trainers.",
+    "price": "$1500"
+  },
+  {
+    "name": "Eviolite",
+    "category": "Held Items",
+    "effect": "Only affects not-fully-evolved Pokémon of a single family, decided when the Eviolite is made. Grants a +5 Bonus to two different Stats, after Combat Stages, decided when the Eviolite is made. Prevents Pokémon from evolving when held. Cannot be used by Trainers.",
+    "price": "$4000"
+  },
+  {
+    "name": "Expert Belt",
+    "category": "Held Items",
+    "effect": "Whenever the holder deals Super Effective Damage, they deal an additional 5 damage (this damage is not multiplied). Accessory Item for Trainers.",
+    "price": "$3500"
+  },
+  {
+    "name": "Flame Orb",
+    "category": "Held Items",
+    "effect": "Induces burn on holder. Off-Hand Item for Trainers. Standard Action to drop.",
+    "price": "$3800"
+  },
+  {
+    "name": "Focus Band",
+    "category": "Held Items",
+    "effect": "Whenever the user faints, roll 1d20. Once a Scene on a result of 16+, the holder does not faint, and is left with 1 Hit Point. Accessory Item for Trainers.",
+    "price": "$4700"
+  },
+  {
+    "name": "Focus Sash",
+    "category": "Held Items",
+    "effect": "Once a Scene, if damage from a Move would take Focus Sash’s holder’s Hit Points from Max to 0 or less, Focus Sash’s holder instead has 1 Hit Point remaining. Accessory Item for Trainers.",
+    "price": "$4700"
+  },
+  {
+    "name": "Full Incense",
+    "category": "Held Items",
+    "effect": "The holder gains the Stall ability. Cannot be used by Trainers.",
+    "price": "$900"
+  },
+  {
+    "name": "Go-Goggles",
+    "category": "Held Items",
+    "effect": "The user does not take damage from Sandstorm. Head Item for Trainers.",
+    "price": "$1500"
+  },
+  {
+    "name": "Iron Ball",
+    "category": "Held Items",
+    "effect": "The Holder’s Speed is halved, and any immunity to Ground Type is lost. Hand Item for Trainers. Standard Action to drop.",
+    "price": "$900"
+  },
+  {
+    "name": "Lagging Item",
+    "category": "Held Items",
+    "effect": "The Lagging Items are tied to a specific Stat. When held, they set that Stat to -4 Combat Stages. Cannot be used by Trainers. Standard Action to drop.",
+    "price": "$900"
+  },
+  {
+    "name": "Lax Incense",
+    "category": "Held Items",
+    "effect": "+1 to all Stat Evasions. Cannot be used by Trainers.",
+    "price": "$2000"
+  },
+  {
+    "name": "Life Orb",
+    "category": "Held Items",
+    "effect": "Whenever the holder deals direct damage, increase the damage by +5, and then the holder loses Hit Points equal to 1/16th of their Max Hit Points. Off-Hand Item for Trainers.",
+    "price": "$3700"
+  },
+  {
+    "name": "Luck Incense",
+    "category": "Held Items",
+    "effect": "Grants +1 Bonus to all Accuracy Rolls. A roll of 1 always misses. Cannot be used by Trainers.",
+    "price": "$1800"
+  },
+  {
+    "name": "Quick Claw",
+    "category": "Held Items",
+    "effect": "The user adds +10 to their Initiative. Accessory Item for Trainers.",
+    "price": "$4200"
+  },
+  {
+    "name": "Razor Claw",
+    "category": "Held Items",
+    "effect": "The holder’s damaging attacks have their Critical Hit Range extended by +1.",
+    "price": "$3000"
+  },
+  {
+    "name": "Razor Fang",
+    "category": "Held Items",
+    "effect": "The holder’s damaging attacks cause an Injury on a roll of 19+. Accessory Item for Trainers.",
+    "price": "$3000"
+  },
+  {
+    "name": "Safety Goggles",
+    "category": "Held Items",
+    "effect": "The holder is immune to Moves with the Powder Keyword. Accessory or Head Item for Trainers.",
+    "price": "$1500"
+  },
+  {
+    "name": "Shell Bell",
+    "category": "Held Items",
+    "effect": "Whenever the user damages a foe, they gain a Tick of Temporary Hit Points. Accessory Item for Trainers.",
+    "price": "$5200"
+  },
+  {
+    "name": "Shock Collar",
+    "category": "Held Items",
+    "effect": "Comes with a remote activator, which when pressed, causes the Pokémon or Trainer wearing the shock collar to lose Hit Points equal to 1/6th of their Max Hit Points. This may be used to activate the “Press” Feature. Collars that work on Ground Type Pokémon are available for an additional $500.",
+    "price": "$3500"
+  },
+  {
+    "name": "Stat Boosters",
+    "category": "Held Items",
+    "effect": "These items have a chosen Stat, either Attack, Defense, Special Attack, Special Defense, Speed, Evasion, or Accuracy. These items cause the default Stage of their linked Stat to be +1 Combat Stage instead of 0, or simply +1 for Accuracy and Evasion. Accessory Item for Trainers.",
+    "price": "$4000"
+  },
+  {
+    "name": "Toxic Orb",
+    "category": "Held Items",
+    "effect": "Induces Poison on holder. Off-Hand Item for Trainers. Standard Action to drop.",
+    "price": "$4800"
+  },
+  {
+    "name": "Type Boosters",
+    "category": "Held Items",
+    "effect": "These items come in a variety of each of the Elemental Types, and grants a +5 Damage Bonus to all direct damage Moves of its Specific Type when performed by the user. Accessory Item for Trainers.",
+    "price": "$1800"
+  },
+  {
+    "name": "Type Brace",
+    "category": "Held Items",
+    "effect": "These items come in a variety of each of the Elemental Types, and grant the holder 15 Damage Reduction against that specific Type. Accessory Item for Trainers.",
+    "price": "$2000"
+  },
+  {
+    "name": "Winter Cloak",
+    "category": "Held Items",
+    "effect": "The user does not take damage from Hail. Accessory Item for Trainers.",
+    "price": "$1500"
+  },
+  {
+    "name": "Type Gem",
+    "category": "Held Items",
+    "effect": "These items come in a variety of each of the Elemental Types, and are consumed as a Free Action to give a +3 Damage Base bonus to one attack of their Type. Off-hand or Accessory Slot Item for Trainers --",
+    "price": ""
+  },
+  {
+    "name": "Type Plate",
+    "category": "Held Items",
+    "effect": "These Rare items come in a variety of each of the Elemental Types, and act as both a Type Booster and a Type Brace. Accessory Slot Item for Trainers. --",
+    "price": ""
+  },
+  {
+    "name": "Mega Stone",
+    "category": "Held Items",
+    "effect": "An item that allows a Pokémon to Mega Evolve when used in conjunction with a Mega Ring. Each Mega Stone is specific to one species and Mega Evolved form. --",
+    "price": ""
+  },
+  {
+    "name": "Metal Powder",
+    "category": "Held Items",
+    "effect": "When held by an untransformed Ditto, increases both Defense and Special Defense by +2 Combat Stages. Cannot be used by Trainers. -- Rare Leek When held by a Farfetch’d, this rare Leek increase the holder’s critical range by 2. Rare Leeks are Wielded. Cannot be used by Trainers. --",
+    "price": ""
+  },
+  {
+    "name": "Thick Club",
+    "category": "Held Items",
+    "effect": "When held by a Cubone or Marowak, this rare, dense bone grants the Pure Power Ability. Thick Clubs are Wielded. Cannot be used by Trainers. --",
+    "price": ""
+  },
+  {
+    "name": "Pink Pearl",
+    "category": "Held Items",
+    "effect": "Acts as a Psychic Type Booster. If held by a Spoink, it also acts as a Special Attack Stat Booster. -- Pokémon Toolkits The following Items help with various tasks related to the raising of Pokémon. Egg Warmer: Egg Warmers are insulated cases that carry up to four Pokémon Eggs and protect them from harm. They also cause Pokémon to hatch twice as fast; each day spent in an Egg Warmer counts as 2 days for the purposes of Hatch Rate. Egg Warmers cost $2500. Groomer’s Kit: Used by Trainers with the Groomer Edge to clean their Pokémon. Costs $500. Reanimation Machine: Can be used to revive Fossils. Reanimation Machines also come in a smaller but more expensive Portable variety. Prices are up to GM discretion, often upwards of $10,000. See the Pokémon Fossils section for more details (page 216).",
+    "price": ""
+  },
+  {
+    "name": "Fire Stone",
+    "category": "Evolutionary Items",
+    "effect": "Evolves Vulpix, Growlithe, Eevee,",
+    "price": ""
+  },
+  {
+    "name": "Water Stone",
+    "category": "Evolutionary Items",
+    "effect": "Evolves Poliwhirl, Shellder, Staryu, Eevee, Lombre, Panpour Thunder Stone Evolves Pikachu, Eevee, Eelektrik",
+    "price": ""
+  },
+  {
+    "name": "Leaf Stone",
+    "category": "Evolutionary Items",
+    "effect": "Evolves Gloom, Weepinbell, Exeggcute, Eevee, Nuzleaf, Pansage",
+    "price": ""
+  },
+  {
+    "name": "Moon Stone",
+    "category": "Evolutionary Items",
+    "effect": "Evolves Nidorina, Nidorino, Clefairy, Jigglypuff, Eevee, Skitty,",
+    "price": ""
+  },
+  {
+    "name": "Sun Stone",
+    "category": "Evolutionary Items",
+    "effect": "Evolves Gloom, Sunkern, Cottonee, Petilil, Helioptile",
+    "price": ""
+  },
+  {
+    "name": "Shiny Stone",
+    "category": "Evolutionary Items",
+    "effect": "Evolves Eevee, Togetic, Roselia, Minccino, Floette",
+    "price": ""
+  },
+  {
+    "name": "Dusk Stone",
+    "category": "Evolutionary Items",
+    "effect": "Evolves Eevee, Murkrow, Misdreavus, Lampent, Doublade",
+    "price": ""
+  },
+  {
+    "name": "Dawn Stone",
+    "category": "Evolutionary Items",
+    "effect": "Evolves Eevee, Male Kirlia, Female",
+    "price": ""
+  },
+  {
+    "name": "Evolutionary Keepsakes",
+    "category": "Evolutionary Items",
+    "effect": "Deepseascale/",
+    "price": ""
+  },
+  {
+    "name": "Dubious Disc",
+    "category": "Evolutionary Items",
+    "effect": "Evolves Porygon2",
+    "price": ""
+  },
+  {
+    "name": "Evolves Electabuzz",
+    "category": "Evolutionary Items",
+    "effect": "King’s Rock Evolves Poliwhirl, Slowpoke",
+    "price": ""
+  },
+  {
+    "name": "Metal Coat",
+    "category": "Evolutionary Items",
+    "effect": "Evolves Onix, Scyther",
+    "price": ""
+  },
+  {
+    "name": "Vitamins",
+    "category": "Evolutionary Items",
+    "effect": "Vitamins are special nutritional drinks which can permanently improve aspects of your Pokémon. However, you may only get use out of up to five Vitamins per Pokémon. After you have used five Vitamins on a Pokémon, any Vitamins fed to a Pokémon afterwards will have no effect.",
+    "price": ""
+  },
+  {
+    "name": "Vitamin",
+    "category": "Evolutionary Items",
+    "effect": "HP Up Raise the user’s HP Base Stat 1.",
+    "price": "$4900"
+  },
+  {
+    "name": "Protein",
+    "category": "Evolutionary Items",
+    "effect": "Raise the user’s Attack Base Stat 1.",
+    "price": "$4900"
+  },
+  {
+    "name": "Iron",
+    "category": "Evolutionary Items",
+    "effect": "Raise the user’s Defense Base Stat 1.",
+    "price": "$4900"
+  },
+  {
+    "name": "Calcium",
+    "category": "Evolutionary Items",
+    "effect": "Raise the user’s Special Attack Base Stat 1.",
+    "price": "$4900"
+  },
+  {
+    "name": "Zinc",
+    "category": "Evolutionary Items",
+    "effect": "Raise the user’s Special Defense Base Stat 1.",
+    "price": "$4900"
+  },
+  {
+    "name": "Carbos",
+    "category": "Evolutionary Items",
+    "effect": "Raise the user’s Speed Base Stat 1.",
+    "price": "$4900"
+  },
+  {
+    "name": "Heart Booster",
+    "category": "Evolutionary Items",
+    "effect": "The Pokémon gains 2 Tutor Points. Use only one per Pokémon.",
+    "price": "$9800"
+  },
+  {
+    "name": "PP Up",
+    "category": "Evolutionary Items",
+    "effect": "Raise one of the user’s Move’s Frequency one level. Use only one per Pokémon.",
+    "price": "$9800"
+  }
+]

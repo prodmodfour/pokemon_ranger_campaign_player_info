@@ -1,9 +1,12 @@
 <script setup lang="ts">
 import type { Pokemon } from '~/composables/usePokedex'
+import itemsData from '~/data/items.json'
 
 const { searchQuery, filteredPokemon } = usePokedex()
 const { abilities, moves } = useDefinitions()
 const { edges, features, pokeEdges } = useGameData()
+
+const items = ref(itemsData)
 
 const selectedPokemon = ref<Pokemon | null>(null)
 const activeTab = ref('pokemon')
@@ -12,6 +15,7 @@ const tabs = computed(() => [
   { id: 'pokemon', label: 'Pokemon', count: filteredPokemon.value.length },
   { id: 'moves', label: 'Moves', count: moves.value.length },
   { id: 'abilities', label: 'Abilities', count: abilities.value.length },
+  { id: 'items', label: 'Items', count: items.value.length },
   { id: 'features', label: 'Trainer Features', count: features.value.length },
   { id: 'edges', label: 'Trainer Edges', count: edges.value.length },
   { id: 'poke-edges', label: 'Poke Edges', count: pokeEdges.value.length },
@@ -97,6 +101,11 @@ onMounted(() => {
       <!-- Abilities Tab -->
       <template v-else-if="activeTab === 'abilities'">
         <AbilitiesList :searchQuery="searchQuery" />
+      </template>
+
+      <!-- Items Tab -->
+      <template v-else-if="activeTab === 'items'">
+        <ItemsList :searchQuery="searchQuery" />
       </template>
 
       <!-- Trainer Features Tab -->
