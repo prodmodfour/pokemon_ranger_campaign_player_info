@@ -42,16 +42,6 @@ const filteredItems = computed(() => {
   return result.sort((a, b) => a.name.localeCompare(b.name))
 })
 
-const groupedItems = computed(() => {
-  const groups: Record<string, Item[]> = {}
-  filteredItems.value.forEach(item => {
-    const category = item.category || 'Other'
-    if (!groups[category]) groups[category] = []
-    groups[category].push(item)
-  })
-  return Object.entries(groups).sort(([a], [b]) => a.localeCompare(b))
-})
-
 const getCategoryColor = (category: string) => {
   if (category.includes('Restorative') || category.includes('Medicine')) return '#ec4899'
   if (category.includes('X-Item')) return '#ef4444'
@@ -64,16 +54,21 @@ const getCategoryColor = (category: string) => {
   return '#6b7280'
 }
 
-const getCategoryClass = (category: string) => {
-  if (category.includes('Restorative') || category.includes('Medicine')) return 'bg-pink-900/50 text-pink-300'
-  if (category.includes('X-Item')) return 'bg-red-900/50 text-red-300'
-  if (category.includes('Berry')) return 'bg-green-900/50 text-green-300'
-  if (category.includes('Held')) return 'bg-blue-900/50 text-red-300'
-  if (category.includes('Equipment') || category.includes('Armor') || category.includes('Gear')) return 'bg-gray-800 text-gray-200'
-  if (category.includes('Evolution')) return 'bg-purple-900/50 text-purple-300'
-  if (category.includes('Snack') || category.includes('Food')) return 'bg-yellow-900/50 text-yellow-300'
-  if (category.includes('Ball')) return 'bg-orange-900/50 text-orange-300'
-  return 'bg-zinc-900 text-gray-300'
+// Generate item sprite URL from item name
+const getItemSprite = (name: string) => {
+  const itemName = name
+    .toLowerCase()
+    .replace(/['']/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/[^a-z0-9-]/g, '')
+  return `https://play.pokemonshowdown.com/sprites/itemicons/${itemName}.png`
+}
+
+// Track failed images
+const failedImages = ref<Set<string>>(new Set())
+
+const handleImgError = (itemName: string) => {
+  failedImages.value.add(itemName)
 }
 </script>
 
@@ -105,33 +100,59 @@ const getCategoryClass = (category: string) => {
       {{ filteredItems.length }} items
     </div>
 
-    <!-- Grouped Items -->
-    <div class="space-y-6">
-      <div v-for="[category, categoryItems] in groupedItems" :key="category">
-        <div class="flex items-center gap-2 mb-3 sticky top-[41px] bg-black py-2 z-10">
-          <span
-            class="px-3 py-1 rounded text-sm font-semibold text-white"
-            :style="{ backgroundColor: getCategoryColor(category) }"
-          >{{ category }}</span>
-          <span class="text-sm text-gray-500">({{ categoryItems.length }})</span>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-2">
-          <div
-            v-for="item in categoryItems"
+    <!-- Items Table -->
+    <div class="overflow-x-auto">
+      <table class="w-full text-sm table-fixed">
+        <thead class="bg-zinc-900 text-gray-300 sticky top-[41px]">
+          <tr>
+            <th class="text-center px-2 py-2 font-medium w-12"></th>
+            <th class="text-left px-2 py-2 font-medium w-40">Name</th>
+            <th class="text-left px-2 py-2 font-medium w-32">Category</th>
+            <th class="text-left px-2 py-2 font-medium w-24">Price</th>
+            <th class="text-left px-2 py-2 font-medium">Effect</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-gray-700">
+          <tr
+            v-for="item in filteredItems"
             :key="item.name"
-            class="bg-zinc-900 rounded-lg p-4 hover:bg-gray-750 transition-colors border border-gray-800"
+            class="hover:bg-zinc-900/50 transition-colors align-top"
           >
-            <div class="flex items-start justify-between gap-2 mb-2">
-              <h3 class="font-semibold text-gray-100">{{ item.name }}</h3>
+            <td class="px-2 py-2 text-center">
+              <div class="w-8 h-8 flex items-center justify-center mx-auto">
+                <img
+                  v-if="!failedImages.has(item.name)"
+                  :src="getItemSprite(item.name)"
+                  :alt="item.name"
+                  class="max-w-full max-h-full object-contain"
+                  loading="lazy"
+                  @error="handleImgError(item.name)"
+                />
+                <div
+                  v-else
+                  class="w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold text-white"
+                  :style="{ backgroundColor: getCategoryColor(item.category) }"
+                >
+                  {{ item.name.charAt(0) }}
+                </div>
+              </div>
+            </td>
+            <td class="px-2 py-2 font-medium text-gray-100">
+              {{ item.name }}
+            </td>
+            <td class="px-2 py-2">
               <span
-                v-if="item.price"
-                class="px-2 py-0.5 rounded text-xs font-medium bg-emerald-900/50 text-emerald-300 flex-shrink-0"
-              >{{ item.price }}</span>
-            </div>
-            <p class="text-sm text-gray-300">{{ item.effect }}</p>
-          </div>
-        </div>
-      </div>
+                class="px-2 py-0.5 rounded text-xs font-semibold text-white"
+                :style="{ backgroundColor: getCategoryColor(item.category) }"
+              >{{ item.category }}</span>
+            </td>
+            <td class="px-2 py-2 text-emerald-400 font-medium text-xs">
+              {{ item.price || '-' }}
+            </td>
+            <td class="px-2 py-2 text-gray-300 text-sm">{{ item.effect }}</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
 
     <div v-if="!filteredItems.length" class="text-center py-8 text-gray-400">

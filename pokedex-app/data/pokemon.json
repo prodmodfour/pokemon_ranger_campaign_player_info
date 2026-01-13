@@ -518,7 +518,8 @@
       "Swim 4",
       "Jump 2",
       "Power 8",
-      "Naturewalk \n(Grassland, Forest)"
+      "Naturewalk \n(Grassland, Forest)",
+      "Alluring (while in Rain only)"
     ],
     "skills": {
       "athl": "5d6+3",
@@ -2644,7 +2645,8 @@
       "Swim 3",
       "Jump 1",
       "Power 7",
-      "Naturewalk (Grassland, Forest)"
+      "Naturewalk (Grassland, Forest)",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "4d6",
@@ -2880,6 +2882,7 @@
       "Jump 1",
       "Power 2",
       "Naturewalk \n(Grassland, Forest)",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -3095,6 +3098,7 @@
       "Jump 2",
       "Power 3",
       "Naturewalk \n(Grassland, Forest)",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -3309,7 +3313,8 @@
       "Swim 5",
       "Jump 3",
       "Power 5",
-      "Naturewalk \n(Grassland, Forest)"
+      "Naturewalk \n(Grassland, Forest)",
+      "Stealth"
     ],
     "skills": {
       "athl": "3d6",
@@ -4759,7 +4764,8 @@
       "Firestarter",
       "Glow",
       "Heater",
-      "Naturewalk (Mountain)"
+      "Naturewalk (Mountain)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -7222,6 +7228,7 @@
       "Power 2",
       "Firestarter",
       "Heater",
+      "Tracker",
       "Naturewalk (Grasslands)",
       "Underdog"
     ],
@@ -7442,6 +7449,7 @@
       "Power 4",
       "Firestarter",
       "Heater",
+      "Tracker",
       "Naturewalk (Grasslands)",
       "Underdog"
     ],
@@ -7678,7 +7686,8 @@
       "Power 8",
       "Firestarter",
       "Heater",
-      "Naturewalk (Grasslands)"
+      "Naturewalk (Grasslands)",
+      "Tracker"
     ],
     "skills": {
       "athl": "5d6+3",
@@ -7931,6 +7940,7 @@
       "Power 2",
       "Firestarter",
       "Naturewalk (Forest, Grasslands)",
+      "Tracker",
       "Underdog"
     ],
     "skills": {
@@ -8144,6 +8154,7 @@
       "Power 3",
       "Firestarter",
       "Naturewalk (Forest, Grasslands)",
+      "Tracker",
       "Underdog"
     ],
     "skills": {
@@ -8389,7 +8400,8 @@
       "Jump 2",
       "Power 4",
       "Firestarter",
-      "Naturewalk (Forest, Grasslands)"
+      "Naturewalk (Forest, Grasslands)",
+      "Tracker"
     ],
     "skills": {
       "athl": "3d6",
@@ -9124,7 +9136,8 @@
       "Jump 1",
       "Power 9",
       "Fountain",
-      "Naturewalk (Grassland)"
+      "Naturewalk (Grassland)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -10157,6 +10170,7 @@
       "Burrow 2",
       "Jump 1",
       "Power 2",
+      "Gilled",
       "Fountain",
       "Naturewalk (Wetlands)",
       "Underdog"
@@ -10377,6 +10391,7 @@
       "Burrow 2",
       "Jump 1",
       "Power 4",
+      "Gilled",
       "Fountain",
       "Naturewalk (Wetlands)",
       "Underdog"
@@ -10619,6 +10634,7 @@
       "Jump 2",
       "Power 7",
       "Fountain",
+      "Gilled",
       "Naturewalk (Wetlands)"
     ],
     "skills": {
@@ -12194,7 +12210,9 @@
       "Jump 2",
       "Power 2",
       "Fountain",
+      "Gilled",
       "Underdog",
+      "Wallclimber",
       "Naturewalk (Wet­\nlands)"
     ],
     "skills": {
@@ -12400,7 +12418,10 @@
       "Jump 2",
       "Power 2",
       "Fountain",
+      "Gilled",
       "Underdog",
+      "Stealth",
+      "Wallclimber",
       "Naturewalk \n(Wetlands)"
     ],
     "skills": {
@@ -12619,6 +12640,9 @@
       "Jump 3",
       "Power 3",
       "Fountain",
+      "Gilled",
+      "Stealth",
+      "Wallclimber",
       "Naturewalk (Wetlands)"
     ],
     "skills": {
@@ -12858,6 +12882,7 @@
       "Swim 2",
       "Jump 1",
       "Power 1",
+      "Wallclimber",
       "Threaded",
       "Underdog"
     ],
@@ -13054,6 +13079,7 @@
       "Swim 2",
       "Jump 1",
       "Power 2",
+      "Wallclimber",
       "Threaded",
       "Underdog"
     ],
@@ -13708,6 +13734,7 @@
       "Swim 2",
       "Jump 1",
       "Power 1",
+      "Wallclimber",
       "Threaded",
       "Underdog"
     ],
@@ -14242,7 +14269,8 @@
       "Swim 1",
       "Jump 2",
       "Power 1",
-      "Naturewalk (Grassland, Forest)"
+      "Naturewalk (Grassland, Forest)",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "3d6",
@@ -14617,7 +14645,8 @@
       "Swim 4",
       "Jump 2",
       "Power 6",
-      "Naturewalk (Grassland, Forest)"
+      "Naturewalk (Grassland, Forest)",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "4d6+3",
@@ -14844,6 +14873,7 @@
       "Power 1",
       "Naturewalk (Grassland, Forest)",
       "Threaded",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -15782,6 +15812,7 @@
       "Jump 1",
       "Power 1",
       "Threaded",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -16396,7 +16427,9 @@
       "Swim 3",
       "Sky 9",
       "Jump 3",
-      "Power 5"
+      "Power 5",
+      "Guster",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -17009,7 +17042,9 @@
       "Swim 3",
       "Sky 10",
       "Jump 3",
-      "Power 5"
+      "Power 5",
+      "Guster",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -17212,6 +17247,7 @@
       "Sky 5",
       "Jump 1",
       "Power 1",
+      "Guster",
       "Underdog"
     ],
     "skills": {
@@ -17417,6 +17453,7 @@
       "Sky 6",
       "Jump 2",
       "Power 3",
+      "Guster",
       "Underdog"
     ],
     "skills": {
@@ -17617,7 +17654,8 @@
       "Swim 4",
       "Sky 8",
       "Jump 3",
-      "Power 5"
+      "Power 5",
+      "Guster"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -17820,7 +17858,8 @@
       "Overland 3",
       "Sky 5",
       "Jump 1",
-      "Power 1"
+      "Power 1",
+      "Guster"
     ],
     "skills": {
       "athl": "2d6",
@@ -18009,6 +18048,7 @@
       "Jump 2",
       "Power 2",
       "Firestarter",
+      "Guster",
       "Underdog"
     ],
     "skills": {
@@ -18208,7 +18248,9 @@
       "Sky 8",
       "Jump 2",
       "Power 4",
-      "Firestarter"
+      "Firestarter",
+      "Guster",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6",
@@ -18832,7 +18874,9 @@
       "Burrow 2",
       "Jump 1",
       "Power 8",
-      "Naturewalk (Grassland)"
+      "Naturewalk (Grassland)",
+      "Pack Mon",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -19544,7 +19588,9 @@
       "Burrow 2",
       "Jump 1",
       "Power 9",
-      "Naturewalk (Grassland)"
+      "Naturewalk (Grassland)",
+      "Pack Mon",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+3",
@@ -19846,6 +19892,7 @@
       "Sky 5",
       "Jump 1",
       "Power 1",
+      "Tracker",
       "Underdog"
     ],
     "skills": {
@@ -20072,7 +20119,9 @@
       "Swim 2",
       "Sky 5",
       "Jump 1",
-      "Power 3"
+      "Power 3",
+      "Darkvision",
+      "Tracker"
     ],
     "skills": {
       "athl": "2d6+2",
@@ -20297,7 +20346,9 @@
       "Swim 2",
       "Sky 8",
       "Jump 1",
-      "Power 5"
+      "Power 5",
+      "Tracker",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "3d6+2",
@@ -22828,6 +22879,7 @@
       "Swim 3",
       "Jump 1",
       "Power 2",
+      "Tracker",
       "Naturewalk (Grassland, Urban)",
       "Underdog"
     ],
@@ -23040,6 +23092,7 @@
       "Swim 4",
       "Jump 1",
       "Power 4",
+      "Tracker",
       "Naturewalk (Grassland, Urban)",
       "Underdog"
     ],
@@ -23237,6 +23290,7 @@
       "Swim 5",
       "Jump 1",
       "Power 5",
+      "Tracker",
       "Naturewalk (Grassland, Urban)"
     ],
     "skills": {
@@ -24516,7 +24570,8 @@
       "Swim 4",
       "Jump 2",
       "Power 9",
-      "Naturewalk \n(Forest)"
+      "Naturewalk \n(Forest)",
+      "Pack Mon"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -25466,6 +25521,7 @@
       "Swim 3",
       "Jump 1",
       "Power 2",
+      "Alluring",
       "Naturewalk (Grassland, Forest)"
     ],
     "skills": {
@@ -27940,6 +27996,7 @@
       "Swim 3",
       "Jump 1",
       "Power 4",
+      "Darkvision",
       "Naturewalk (Grassland, Forest)",
       "Underdog"
     ],
@@ -29793,6 +29850,8 @@
       "Levitate 4",
       "Jump 1",
       "Power 2",
+      "Dead Silent",
+      "Magnetic",
       "Zapper",
       "Underdog"
     ],
@@ -30015,6 +30074,8 @@
       "Levitate 5",
       "Jump 1",
       "Power 4",
+      "Dead Silent",
+      "Magnetic",
       "Zapper"
     ],
     "skills": {
@@ -30267,7 +30328,9 @@
       "Swim 5",
       "Levitate 6",
       "Jump 1",
-      "Power 6"
+      "Power 6",
+      "Magnetic",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6",
@@ -31227,6 +31290,7 @@
       "Swim 3",
       "Jump 1",
       "Power 2",
+      "Tracker",
       "Zapper",
       "Naturewalk (Grassland, Cave)",
       "Underdog"
@@ -31430,6 +31494,7 @@
       "Swim 4",
       "Jump 1",
       "Power 4",
+      "Tracker",
       "Zapper",
       "Naturewalk (Grassland, Cave)",
       "Underdog"
@@ -31619,8 +31684,11 @@
       "Swim 5",
       "Jump 1",
       "Power 5",
+      "Pack Mon",
+      "Tracker",
       "Zapper",
-      "Naturewalk (Grassland, Cave)"
+      "Naturewalk (Grassland, Cave)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -31924,6 +31992,7 @@
       "Power 4",
       "Zapper",
       "Glow",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -32126,7 +32195,9 @@
       "Jump 1",
       "Power 6",
       "Zapper",
-      "Glow"
+      "Glow",
+      "Gilled",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -33767,6 +33838,7 @@
       "Jump 1",
       "Power 2",
       "Fountain",
+      "Gilled",
       "Naturewalk (Wetlands)",
       "Underdog"
     ],
@@ -33969,6 +34041,7 @@
       "Jump 1",
       "Power 4",
       "Fountain",
+      "Gilled",
       "Naturewalk (Wetlands)",
       "Underdog"
     ],
@@ -34186,6 +34259,7 @@
       "Jump 1",
       "Power 5",
       "Fountain",
+      "Gilled",
       "Naturewalk (Wetlands)"
     ],
     "skills": {
@@ -34448,7 +34522,9 @@
       "Jump 3",
       "Power 4",
       "Fountain",
-      "Naturewalk (Wetlands)"
+      "Gilled",
+      "Naturewalk (Wetlands)",
+      "Pack Mon"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -36026,6 +36102,7 @@
       "Jump 1",
       "Power 1",
       "Fountain",
+      "Gilled",
       "Naturewalk (Ocean)",
       "Underdog"
     ],
@@ -36220,6 +36297,7 @@
       "Jump 1",
       "Power 3",
       "Fountain",
+      "Gilled",
       "Naturewalk (Ocean)"
     ],
     "skills": {
@@ -36413,7 +36491,9 @@
       "Jump 2",
       "Power 6",
       "Fountain",
-      "Naturewalk (Ocean)"
+      "Gilled",
+      "Naturewalk (Ocean)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+1",
@@ -37046,7 +37126,8 @@
       "Jump 1",
       "Power 7",
       "Freezer",
-      "Naturewalk (Tundra)"
+      "Naturewalk (Tundra)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -37273,6 +37354,7 @@
       "Levitate 4",
       "Jump 1",
       "Power 1",
+      "Chilled",
       "Freezer",
       "Naturewalk (Tundra)",
       "Underdog"
@@ -37478,6 +37560,7 @@
       "Levitate 5",
       "Jump 1",
       "Power 2",
+      "Chilled",
       "Freezer",
       "Naturewalk (Tundra)",
       "Underdog"
@@ -37677,6 +37760,7 @@
       "Levitate 6",
       "Jump 1",
       "Power 3",
+      "Chilled",
       "Freezer",
       "Naturewalk (Tundra)"
     ],
@@ -38426,6 +38510,7 @@
       "Swim 4",
       "Jump 2",
       "Power 4",
+      "Aura",
       "Naturewalk (Forest, Urban)",
       "Telekinetic",
       "Telepath"
@@ -43991,7 +44076,9 @@
       "Jump 0",
       "Power 6",
       "Naturewalk \n(Mountain)",
-      "Underdog"
+      "Tracker",
+      "Underdog",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "3d6+3",
@@ -44233,7 +44320,9 @@
       "Swim 2",
       "Jump 1",
       "Power 8",
-      "Naturewalk \n(Mountain)"
+      "Naturewalk \n(Mountain)",
+      "Tracker",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+3",
@@ -44514,7 +44603,9 @@
       "Swim 2",
       "Jump 1",
       "Power 11",
-      "Naturewalk (Mountain)"
+      "Naturewalk (Mountain)",
+      "Tracker",
+      "Mountable \n1"
     ],
     "skills": {
       "athl": "5d6+3",
@@ -45250,8 +45341,10 @@
       "Swim 4",
       "Jump 1",
       "Power 10",
+      "Chilled",
       "Freezer",
-      "Naturewalk (Tundra)"
+      "Naturewalk (Tundra)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+1",
@@ -45490,6 +45583,8 @@
       "Jump 1",
       "Power 3",
       "Naturewalk (Desert)",
+      "Darkvision",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -45719,6 +45814,8 @@
       "Jump 1",
       "Power 5",
       "Naturewalk (Desert)",
+      "Darkvision",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -45953,7 +46050,9 @@
       "Burrow 2",
       "Jump 1",
       "Power 7",
-      "Naturewalk (Desert)"
+      "Naturewalk (Desert)",
+      "Darkvision",
+      "Stealth"
     ],
     "skills": {
       "athl": "4d6+3",
@@ -47613,6 +47712,7 @@
       "Power 2",
       "Phasing",
       "Invisibility",
+      "Dead Silent",
       "Underdog"
     ],
     "skills": {
@@ -47814,7 +47914,8 @@
       "Jump 0",
       "Power 2",
       "Phasing",
-      "Invisibility"
+      "Invisibility",
+      "Dead Silent"
     ],
     "skills": {
       "athl": "2d6",
@@ -48018,7 +48119,8 @@
       "Jump 1",
       "Power 5",
       "Phasing",
-      "Invisibility"
+      "Invisibility",
+      "Dead Silent"
     ],
     "skills": {
       "athl": "2d6",
@@ -48232,6 +48334,8 @@
       "Levitate 4",
       "Jump 1",
       "Power 1",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility",
       "Phasing"
     ],
@@ -48468,6 +48572,8 @@
       "Levitate 4",
       "Jump 1",
       "Power 3",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility",
       "Phasing"
     ],
@@ -48710,6 +48816,8 @@
       "Levitate 5",
       "Jump 2",
       "Power 4",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility",
       "Phasing"
     ],
@@ -48997,6 +49105,8 @@
       "Swim 1",
       "Jump 1",
       "Power 1",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility",
       "Phasing",
       "Underdog"
@@ -49217,6 +49327,8 @@
       "Levitate 4",
       "Jump 1",
       "Power 3",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility"
     ],
     "skills": {
@@ -49491,6 +49603,8 @@
       "Levitate 6",
       "Jump 1",
       "Power 5",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility"
     ],
     "skills": {
@@ -49771,11 +49885,14 @@
       "Levitate 5",
       "Jump 1",
       "Power 1",
+      "Darkvision",
+      "Dead Silent",
       "Phasing",
       "Glow",
       "Invisibility",
       "Firestarter",
       "Heater",
+      "Shrinkable",
       "Underdog"
     ],
     "skills": {
@@ -49999,11 +50116,14 @@
       "Jump 1",
       "Levitate 6",
       "Power 2",
+      "Darkvision",
+      "Dead Silent",
       "Phasing",
       "Glow",
       "Invisibility",
       "Firestarter",
-      "Heater"
+      "Heater",
+      "Shrinkable"
     ],
     "skills": {
       "athl": "1d6",
@@ -50217,11 +50337,14 @@
       "Jump 1",
       "Levitate 7",
       "Power 3",
+      "Darkvision",
+      "Dead Silent",
       "Phasing",
       "Glow",
       "Invisibility",
       "Firestarter",
-      "Heater"
+      "Heater",
+      "Shrinkable"
     ],
     "skills": {
       "athl": "2d6",
@@ -51890,7 +52013,8 @@
       "Swim 3",
       "Sky 8",
       "Jump 2",
-      "Power 6"
+      "Power 6",
+      "Guster"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -52288,6 +52412,7 @@
       "Levitate 6",
       "Jump 0",
       "Power 1",
+      "Alluring",
       "Naturewalk (Grassland, Forest)",
       "Underdog"
     ],
@@ -52497,6 +52622,7 @@
       "Levitate 6",
       "Jump 1",
       "Power 2",
+      "Alluring",
       "Naturewalk (Grassland, Forest)"
     ],
     "skills": {
@@ -53203,7 +53329,8 @@
       "Swim 4",
       "Sky 7",
       "Jump 3",
-      "Power 7"
+      "Power 7",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+1",
@@ -54157,6 +54284,7 @@
       "Swim 4",
       "Jump 2",
       "Power 1",
+      "Stealth",
       "Naturewalk (Grassland, Urban)",
       "Underdog"
     ],
@@ -54370,6 +54498,8 @@
       "Swim 6",
       "Jump 2",
       "Power 3",
+      "Tracker",
+      "Stealth",
       "Naturewalk (Grassland, Urban)",
       "Underdog"
     ],
@@ -54822,6 +54952,7 @@
       "Jump 2",
       "Power 3",
       "Naturewalk \n(Forest, Grassland)",
+      "Tracker",
       "Underdog"
     ],
     "skills": {
@@ -55293,6 +55424,7 @@
       "Swim 4",
       "Jump 2",
       "Power 3",
+      "Tracker",
       "Naturewalk (Forest, Grassland)",
       "Underdog"
     ],
@@ -55973,6 +56105,7 @@
       "Swim 3",
       "Jump 2",
       "Power 2",
+      "Tracker",
       "Naturewalk (Grassland)",
       "Underdog"
     ],
@@ -56175,6 +56308,7 @@
       "Swim 4",
       "Jump 3",
       "Power 3",
+      "Tracker",
       "Naturewalk (Grassland)",
       "Underdog"
     ],
@@ -56889,6 +57023,8 @@
       "Swim 2",
       "Jump 1",
       "Power 2",
+      "Tracker",
+      "Stealth",
       "Underdog",
       "Naturewalk (Urban)"
     ],
@@ -57118,6 +57254,9 @@
       "Swim 3",
       "Jump 2",
       "Power 3",
+      "Pack Mon",
+      "Tracker",
+      "Stealth",
       "Naturewalk (Urban)"
     ],
     "skills": {
@@ -57365,6 +57504,7 @@
       "Swim 3",
       "Jump 2",
       "Power 1",
+      "Tracker",
       "Naturewalk (Grassland)",
       "Underdog"
     ],
@@ -57613,6 +57753,7 @@
       "Swim 4",
       "Jump 2",
       "Power 2",
+      "Tracker",
       "Naturewalk (Grassland)",
       "Underdog"
     ],
@@ -57877,6 +58018,7 @@
       "Swim 3",
       "Jump 2",
       "Power 1",
+      "Stealth",
       "Naturewalk (Grassland)",
       "Underdog"
     ],
@@ -58091,6 +58233,7 @@
       "Swim 4",
       "Jump 2",
       "Power 2",
+      "Tracker",
       "Naturewalk (Grassland)",
       "Underdog"
     ],
@@ -59283,6 +59426,7 @@
       "Swim 3",
       "Jump 1",
       "Power 1",
+      "Tracker",
       "Naturewalk (Grassland)",
       "Underdog"
     ],
@@ -59512,7 +59656,8 @@
       "Overland 7",
       "Swim 3",
       "Jump 2",
-      "Power 5"
+      "Power 5",
+      "Tracker"
     ],
     "skills": {
       "athl": "4d6",
@@ -60264,6 +60409,7 @@
       "Swim 3",
       "Jump 2",
       "Power 2",
+      "Pack Mon",
       "Naturewalk (Grassland, Forest)"
     ],
     "skills": {
@@ -60465,6 +60611,8 @@
       "Swim 4",
       "Jump 2",
       "Power 5",
+      "Pack Mon",
+      "Mountable 1",
       "Naturewalk (Grassland, \nForest)"
     ],
     "skills": {
@@ -60674,8 +60822,11 @@
       "Swim 3",
       "Jump 2",
       "Power 1",
+      "Tracker",
+      "Stealth",
       "Naturewalk (Cave, Mountain)",
-      "Underdog"
+      "Underdog",
+      "Honey Gather"
     ],
     "skills": {
       "athl": "1d6",
@@ -60900,6 +61051,7 @@
       "Swim 4",
       "Jump 2",
       "Power 6",
+      "Tracker",
       "Naturewalk (Cave, Mountain)"
     ],
     "skills": {
@@ -61650,6 +61802,7 @@
       "Swim 2",
       "Jump 2",
       "Power 4",
+      "Tracker",
       "Naturewalk (Forest, Mountain)",
       "Underdog"
     ],
@@ -61895,7 +62048,8 @@
       "Overland 5",
       "Swim 1",
       "Jump 2",
-      "Power 12"
+      "Power 12",
+      "Tracker"
     ],
     "skills": {
       "athl": "6d6",
@@ -63119,7 +63273,8 @@
       "Swim 3",
       "Sky 8",
       "Jump 2",
-      "Power 1"
+      "Power 1",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "3d6+3",
@@ -63329,7 +63484,10 @@
       "Sky 5",
       "Jump 2",
       "Power 1",
-      "Naturewalk (Grassland, Forest)"
+      "Naturewalk (Grassland, Forest)",
+      "Darkvision",
+      "Soulless",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "2d6",
@@ -63526,7 +63684,9 @@
       "Burrow 2",
       "Jump 1",
       "Power 1",
+      "Darkvision",
       "Naturewalk (Grass­\nland, Forest)",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -63736,6 +63896,7 @@
       "Burrow 3",
       "Jump 1",
       "Power 3",
+      "Darkvision",
       "Naturewalk (Grass­\nland, Forest)",
       "Underdog"
     ],
@@ -64370,6 +64531,7 @@
       "Sky 3",
       "Jump 1",
       "Power 2",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -64581,6 +64743,7 @@
       "Sky 6",
       "Jump 2",
       "Power 4",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -64806,7 +64969,8 @@
       "Jump 1",
       "Power 1",
       "Naturewalk \n(Grassland, Forest)",
-      "Threaded"
+      "Threaded",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "1d6",
@@ -65019,7 +65183,8 @@
       "Jump 2",
       "Power 3",
       "Naturewalk \n(Grassland, Forest)",
-      "Threaded"
+      "Threaded",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "2d6",
@@ -65440,7 +65605,8 @@
       "Swim 3",
       "Sky 7",
       "Jump 1",
-      "Power 5"
+      "Power 5",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6",
@@ -66137,7 +66303,8 @@
       "Power 1",
       "Threaded",
       "Naturewalk (Wetlands)",
-      "Underdog"
+      "Underdog",
+      "Honey Gather"
     ],
     "skills": {
       "athl": "2d6",
@@ -66836,7 +67003,8 @@
       "Swim 1",
       "Sky 4",
       "Jump 1",
-      "Power 1"
+      "Power 1",
+      "Honey Gather"
     ],
     "skills": {
       "athl": "1d6",
@@ -66942,7 +67110,8 @@
       "Swim 3",
       "Sky 5",
       "Jump 1",
-      "Power 3"
+      "Power 3",
+      "Honey Gather"
     ],
     "skills": {
       "athl": "2d6+3",
@@ -68383,6 +68552,7 @@
       "Naturewalk \n(Grassland, Forest)",
       "Zapper",
       "Threaded",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -68592,7 +68762,8 @@
       "Power 2",
       "Naturewalk \n(Grassland, Forest)",
       "Zapper",
-      "Threaded"
+      "Threaded",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "3d6+2",
@@ -69863,6 +70034,7 @@
       "Sky 8",
       "Jump 3",
       "Power 5",
+      "Mountable 1",
       "Underdog"
     ],
     "skills": {
@@ -70256,7 +70428,8 @@
       "Swim 4",
       "Sky 2",
       "Jump 5",
-      "Power 6"
+      "Power 6",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6",
@@ -71734,6 +71907,7 @@
       "Sky 5",
       "Jump 1",
       "Power 1",
+      "Guster",
       "Underdog"
     ],
     "skills": {
@@ -71960,7 +72134,8 @@
       "Swim 2",
       "Sky 6",
       "Jump 2",
-      "Power 4"
+      "Power 4",
+      "Guster"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -72446,7 +72621,8 @@
       "Swim 3",
       "Sky 8",
       "Jump 2",
-      "Power 6"
+      "Power 6",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6",
@@ -72689,6 +72865,8 @@
       "Swim 3",
       "Jump 1",
       "Power 1",
+      "Darkvision",
+      "Stealth",
       "Naturewalk (Grassland)",
       "Underdog"
     ],
@@ -72911,6 +73089,8 @@
       "Swim 4",
       "Jump 1",
       "Power 3",
+      "Darkvision",
+      "Stealth",
       "Naturewalk (Grassland)",
       "Underdog"
     ],
@@ -73144,6 +73324,7 @@
       "Swim 2",
       "Jump 1",
       "Power 2",
+      "Darkvision",
       "Naturewalk (Grassland, Forest)",
       "Underdog"
     ],
@@ -73348,6 +73529,7 @@
       "Swim 3",
       "Jump 1",
       "Power 6",
+      "Darkvision",
       "Naturewalk (Grassland, Forest)"
     ],
     "skills": {
@@ -73556,6 +73738,8 @@
       "Swim 3",
       "Jump 1",
       "Power 2",
+      "Dead Silent",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -73780,7 +73964,9 @@
       "Overland 5",
       "Swim 4",
       "Jump 1",
-      "Power 6"
+      "Power 6",
+      "Dead Silent",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "4d6+1",
@@ -74427,6 +74613,7 @@
       "Jump 1",
       "Power 1",
       "Inflatable",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -74652,7 +74839,8 @@
       "Swim 2",
       "Jump 1",
       "Power 3",
-      "Inflatable"
+      "Inflatable",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "3d6",
@@ -75561,7 +75749,8 @@
       "Swim 3",
       "Jump 1",
       "Power 7",
-      "Naturewalk \n(Forest)"
+      "Naturewalk \n(Forest)",
+      "Darkvision"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -76309,6 +76498,8 @@
       "Jump 0",
       "Power 1",
       "Fountain",
+      "Gilled",
+      "Stealth",
       "Naturewalk (Ocean)",
       "Underdog"
     ],
@@ -76511,7 +76702,10 @@
       "Jump 1",
       "Power 6",
       "Fountain",
-      "Naturewalk (Ocean)"
+      "Gilled",
+      "Stealth",
+      "Naturewalk (Ocean)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6",
@@ -77631,6 +77825,7 @@
       "Swim 2",
       "Jump 1",
       "Power 2",
+      "Darkvision",
       "Underdog",
       "Naturewalk (Cave, Mountain)"
     ],
@@ -77863,6 +78058,7 @@
       "Swim 3",
       "Jump 1",
       "Power 4",
+      "Darkvision",
       "Naturewalk (Cave, Mountain)",
       "Underdog"
     ],
@@ -78600,6 +78796,7 @@
       "Swim 3",
       "Jump 1",
       "Power 4",
+      "Tracker",
       "Naturewalk (Forest, Mountain)",
       "Underdog"
     ],
@@ -78798,7 +78995,9 @@
       "Swim 4",
       "Jump 1",
       "Power 7",
-      "Naturewalk (Forest, Mountain)"
+      "Tracker",
+      "Naturewalk (Forest, Mountain)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -79021,6 +79220,7 @@
       "Levitate 1",
       "Jump 1",
       "Power 5",
+      "Dead Silent",
       "Underdog",
       "Volatile"
     ],
@@ -79278,6 +79478,7 @@
       "Levitate 3",
       "Jump 1",
       "Power 6",
+      "Dead Silent",
       "Volatile"
     ],
     "skills": {
@@ -80297,6 +80498,7 @@
       "Swim 2",
       "Jump 1",
       "Power 7",
+      "Darkvision",
       "Underdog"
     ],
     "skills": {
@@ -80506,7 +80708,8 @@
       "Swim 3",
       "Sky 5",
       "Jump 2",
-      "Power 14"
+      "Power 14",
+      "Darkvision"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -80952,6 +81155,7 @@
       "Swim 3",
       "Jump 1",
       "Power 5",
+      "Stealth",
       "Naturewalk (Forest)",
       "Underdog"
     ],
@@ -81201,6 +81405,7 @@
       "Swim 2",
       "Jump 0",
       "Power 7",
+      "Magnetic",
       "Underdog"
     ],
     "skills": {
@@ -81428,7 +81633,8 @@
       "Swim 3",
       "Levitate 5",
       "Jump 1",
-      "Power 11"
+      "Power 11",
+      "Magnetic"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -81678,6 +81884,7 @@
       "Jump 2",
       "Power 10",
       "Reach 3",
+      "Mountable 5",
       "Underdog"
     ],
     "skills": {
@@ -81928,7 +82135,8 @@
       "Burrow 7",
       "Jump 2",
       "Power 14",
-      "Reach 3"
+      "Reach 3",
+      "Mountable 5"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -82199,6 +82407,7 @@
       "Swim 4",
       "Jump 1",
       "Power 2",
+      "Gilled",
       "Fountain",
       "Underdog"
     ],
@@ -82425,6 +82634,7 @@
       "Swim 5",
       "Jump 2",
       "Power 6",
+      "Gilled",
       "Fountain"
     ],
     "skills": {
@@ -82683,6 +82893,7 @@
       "Levitate 4",
       "Jump 1",
       "Power 4",
+      "Dead Silent",
       "Underdog"
     ],
     "skills": {
@@ -82913,7 +83124,8 @@
       "Swim 3",
       "Levitate 4",
       "Jump 1",
-      "Power 8"
+      "Power 8",
+      "Dead Silent"
     ],
     "skills": {
       "athl": "3d6+1",
@@ -84445,6 +84657,7 @@
       "Jump 5",
       "Power 1",
       "Inflatable",
+      "Shrinkable",
       "Underdog"
     ],
     "skills": {
@@ -84656,6 +84869,7 @@
       "Sky 7",
       "Jump 6",
       "Power 2",
+      "Shrinkable",
       "Inflatable"
     ],
     "skills": {
@@ -85345,6 +85559,7 @@
       "Jump 1",
       "Power 2",
       "Naturewalk \n(Grassland, Forest)",
+      "Shrinkable",
       "Underdog"
     ],
     "skills": {
@@ -85545,7 +85760,8 @@
       "Swim 1",
       "Jump 1",
       "Power 4",
-      "Naturewalk \n(Grassland, Forest)"
+      "Naturewalk \n(Grassland, Forest)",
+      "Shrinkable"
     ],
     "skills": {
       "athl": "3d6+1",
@@ -86845,7 +87061,9 @@
       "Swim 3",
       "Jump 1",
       "Power 5",
-      "Naturewalk (Desert)"
+      "Darkvision",
+      "Naturewalk (Desert)",
+      "Stealth"
     ],
     "skills": {
       "athl": "3d6+1",
@@ -87585,6 +87803,7 @@
       "Swim 2",
       "Jump 1",
       "Power 2",
+      "Chilled",
       "Naturewalk (Grassland, Forest, Tundra)",
       "Underdog"
     ],
@@ -87780,6 +87999,7 @@
       "Swim 3",
       "Jump 1",
       "Power 6",
+      "Chilled",
       "Freezer",
       "Naturewalk (Grassland, Forest, Tundra)"
     ],
@@ -88012,7 +88232,8 @@
       "Jump 2",
       "Power 3",
       "Naturewalk \n(Grassland, Forest)",
-      "Underdog"
+      "Underdog",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "3d6+2",
@@ -88209,7 +88430,8 @@
       "Swim 5",
       "Jump 3",
       "Power 6",
-      "Naturewalk \n(Grassland, Forest)"
+      "Naturewalk \n(Grassland, Forest)",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "6d6+2",
@@ -88436,6 +88658,7 @@
       "Swim 2",
       "Jump 1",
       "Power 2",
+      "Tracker",
       "Naturewalk (Forest, Mountain)",
       "Underdog"
     ],
@@ -88678,6 +88901,7 @@
       "Jump 1",
       "Power 4",
       "Firestarter",
+      "Tracker",
       "Naturewalk (Forest, Mountain)"
     ],
     "skills": {
@@ -88945,6 +89169,7 @@
       "Swim 2",
       "Jump 1",
       "Power 3",
+      "Tracker",
       "Naturewalk (Grassland, Mountain)",
       "Underdog"
     ],
@@ -89172,6 +89397,7 @@
       "Jump 2",
       "Power 8",
       "Firestarter",
+      "Tracker",
       "Naturewalk (Grassland, Mountain)"
     ],
     "skills": {
@@ -89420,6 +89646,7 @@
       "Glow",
       "Heater",
       "Naturewalk (Grassland)",
+      "Mountable 1",
       "Underdog"
     ],
     "skills": {
@@ -89618,7 +89845,8 @@
       "Firestarter",
       "Glow",
       "Heater",
-      "Naturewalk (Grassland)"
+      "Naturewalk (Grassland)",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "6d6+4",
@@ -89829,6 +90057,7 @@
       "Power 3",
       "Amorphous",
       "Firestarter",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -90045,6 +90274,7 @@
       "Power 4",
       "Firestarter",
       "Heater",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -90492,7 +90722,8 @@
       "Power 10",
       "Firestarter",
       "Heater",
-      "Naturewalk (Desert, \nMountain)"
+      "Naturewalk (Desert, \nMountain)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -91142,6 +91373,7 @@
       "Jump 1",
       "Power 2",
       "Firestarter",
+      "Tracker",
       "Naturewalk (Grassland)",
       "Underdog"
     ],
@@ -91345,7 +91577,9 @@
       "Jump 2",
       "Power 6",
       "Firestarter",
-      "Naturewalk (Grassland)"
+      "Pack Mon",
+      "Naturewalk (Grassland)",
+      "Tracker"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -91578,6 +91812,7 @@
       "Swim 4",
       "Jump 2",
       "Power 2",
+      "Gilled",
       "Naturewalk (Ocean)"
     ],
     "skills": {
@@ -91720,6 +91955,7 @@
       "Swim 6",
       "Jump 2",
       "Power 3",
+      "Gilled",
       "Fountain",
       "Naturewalk (Ocean)"
     ],
@@ -92471,6 +92707,7 @@
       "Jump 1",
       "Power 5",
       "Fountain",
+      "Pack Mon",
       "Telepath",
       "Naturewalk (Wetlands)"
     ],
@@ -92762,6 +92999,7 @@
       "Swim 5",
       "Jump 3",
       "Power 1",
+      "Gilled",
       "Fountain",
       "Naturewalk (Ocean)",
       "Underdog"
@@ -92960,6 +93198,7 @@
       "Swim 6",
       "Jump 3",
       "Power 3",
+      "Gilled",
       "Fountain",
       "Naturewalk (Ocean)"
     ],
@@ -93160,6 +93399,7 @@
       "Swim 4",
       "Jump 2",
       "Power 1",
+      "Gilled",
       "Fountain",
       "Underdog",
       "Naturewalk (Wetlands)"
@@ -93365,6 +93605,7 @@
       "Swim 5",
       "Jump 3",
       "Power 3",
+      "Gilled",
       "Fountain",
       "Naturewalk (Wet­\nlands)"
     ],
@@ -93576,6 +93817,7 @@
       "Swim 5",
       "Jump 2",
       "Power 1",
+      "Gilled",
       "Fountain",
       "Naturewalk (Ocean)",
       "Underdog"
@@ -93777,6 +94019,7 @@
       "Swim 7",
       "Jump 2",
       "Power 2",
+      "Gilled",
       "Fountain",
       "Naturewalk (Ocean)"
     ],
@@ -93987,6 +94230,7 @@
       "Swim 5",
       "Jump 2",
       "Power 1",
+      "Gilled",
       "Fountain",
       "Zapper",
       "Naturewalk (Ocean)",
@@ -94201,6 +94445,7 @@
       "Swim 7",
       "Jump 3",
       "Power 2",
+      "Gilled",
       "Fountain",
       "Zapper",
       "Naturewalk (Ocean)",
@@ -94434,6 +94679,8 @@
       "Swim 6",
       "Jump 2",
       "Power 2",
+      "Darkvision",
+      "Gilled",
       "Fountain",
       "Naturewalk (Ocean)",
       "Underdog"
@@ -94638,8 +94885,10 @@
       "Swim 9",
       "Jump 4",
       "Power 5",
+      "Darkvision",
       "Fountain",
-      "Naturewalk (Ocean)"
+      "Naturewalk (Ocean)",
+      "Gilled"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -95546,7 +95795,8 @@
       "Sky 7",
       "Jump 2",
       "Power 2",
-      "Fountain"
+      "Fountain",
+      "Guster"
     ],
     "skills": {
       "athl": "2d6",
@@ -95741,6 +95991,7 @@
       "Swim 5",
       "Jump 1",
       "Power 2",
+      "Gilled",
       "Fountain",
       "Naturewalk (Ocean)",
       "Underdog"
@@ -95966,6 +96217,7 @@
       "Swim 7",
       "Jump 1",
       "Power 6",
+      "Gilled",
       "Fountain",
       "Naturewalk (Ocean)",
       "Reach"
@@ -96190,6 +96442,8 @@
       "Swim 4",
       "Jump 2",
       "Power 1",
+      "Darkvision",
+      "Dead Silent",
       "Fountain",
       "Naturewalk (Ocean)",
       "Underdog"
@@ -96395,6 +96649,8 @@
       "Swim 6",
       "Jump 2",
       "Power 3",
+      "Darkvision",
+      "Dead Silent",
       "Fountain",
       "Naturewalk (Ocean)"
     ],
@@ -96598,6 +96854,7 @@
       "Swim 3",
       "Jump 0",
       "Power 1",
+      "Gilled",
       "Fountain",
       "Naturewalk (Ocean)",
       "Underdog"
@@ -96803,7 +97060,8 @@
       "Power 4",
       "Fountain",
       "Freezer",
-      "Naturewalk (Ocean)"
+      "Naturewalk (Ocean)",
+      "Gilled"
     ],
     "skills": {
       "athl": "2d6+1",
@@ -96967,6 +97225,7 @@
       "Burrow 1",
       "Jump 1",
       "Power 3",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -97183,7 +97442,8 @@
       "Swim 4",
       "Burrow 1",
       "Jump 1",
-      "Power 6"
+      "Power 6",
+      "Gilled"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -97395,6 +97655,7 @@
       "Swim 3",
       "Jump 1",
       "Power 2",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -97617,7 +97878,9 @@
       "Burrow 1",
       "Swim 5",
       "Jump 1",
-      "Power 5"
+      "Power 5",
+      "Darkvision",
+      "Gilled"
     ],
     "skills": {
       "athl": "4d6+1",
@@ -97866,6 +98129,7 @@
       "Jump 2",
       "Power 2",
       "Fountain",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -98108,7 +98372,8 @@
       "Sky 6",
       "Jump 2",
       "Power 3",
-      "Fountain"
+      "Fountain",
+      "Gilled"
     ],
     "skills": {
       "athl": "2d6",
@@ -98873,6 +99138,7 @@
       "Jump 3",
       "Power 1",
       "Fountain",
+      "Gilled",
       "Naturewalk (Wetlands)",
       "Underdog"
     ],
@@ -99091,6 +99357,7 @@
       "Jump 3",
       "Power 3",
       "Fountain",
+      "Gilled",
       "Naturewalk (Wetlands)"
     ],
     "skills": {
@@ -99771,6 +100038,8 @@
       "Swim 4",
       "Jump 1",
       "Power 1",
+      "Gilled",
+      "Wallclimber",
       "Naturewalk (Wetlands)",
       "Underdog"
     ],
@@ -99951,6 +100220,8 @@
       "Swim 6",
       "Jump 1",
       "Power 3",
+      "Gilled",
+      "Wallclimber",
       "Naturewalk (Wetlands)"
     ],
     "skills": {
@@ -100569,6 +100840,7 @@
       "Swim 6",
       "Jump 1",
       "Power 1",
+      "Gilled",
       "Fountain",
       "Underdog"
     ],
@@ -100776,7 +101048,8 @@
       "Jump 1",
       "Power 4",
       "Naturewalk (Ocean)",
-      "Fountain"
+      "Fountain",
+      "Gilled"
     ],
     "skills": {
       "athl": "4d6+1",
@@ -101000,6 +101273,7 @@
       "Swim 5",
       "Jump 2",
       "Power 2",
+      "Gilled",
       "Fountain",
       "Underdog"
     ],
@@ -101208,8 +101482,10 @@
       "Sky 8",
       "Jump 3",
       "Power 5",
+      "Gilled",
       "Naturewalk (Ocean)",
-      "Fountain"
+      "Fountain",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6",
@@ -101433,6 +101709,7 @@
       "Swim 5",
       "Jump 3",
       "Power 1",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -101528,9 +101805,11 @@
       "Swim 6",
       "Jump 4",
       "Power 13",
+      "Gilled",
       "Naturewalk (Ocean)",
       "Fountain",
-      "Reach"
+      "Reach",
+      "Mountable 4"
     ],
     "skills": {
       "athl": "6d6+1",
@@ -101764,6 +102043,7 @@
       "Power 1",
       "Naturewalk \n(Ocean)",
       "Fountain",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -101906,7 +102186,9 @@
       "Swim 6",
       "Jump 4",
       "Power 8",
-      "Fountain"
+      "Gilled",
+      "Fountain",
+      "Mountable 4"
     ],
     "skills": {
       "athl": "4d6",
@@ -102136,7 +102418,8 @@
       "Power 5",
       "Fountain",
       "Naturewalk (Ocean)",
-      "Underdog"
+      "Underdog",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "4d6",
@@ -102349,7 +102632,8 @@
       "Swim 7",
       "Jump 3",
       "Power 12",
-      "Fountain"
+      "Fountain",
+      "Mountable 20"
     ],
     "skills": {
       "athl": "5d6",
@@ -102564,6 +102848,7 @@
       "Swim 4",
       "Jump 1",
       "Power 2",
+      "Gilled",
       "Fountain",
       "Underdog"
     ],
@@ -102752,6 +103037,7 @@
       "Swim 6",
       "Jump 1",
       "Power 4",
+      "Gilled",
       "Fountain"
     ],
     "skills": {
@@ -102980,6 +103266,7 @@
       "Swim 2",
       "Jump 1",
       "Power 1",
+      "Chilled",
       "Glow",
       "Naturewalk (Tundra)",
       "Underdog"
@@ -103170,6 +103457,8 @@
       "Levitate 5",
       "Jump 2",
       "Power 5",
+      "Chilled",
+      "Dead Silent",
       "Freezer"
     ],
     "skills": {
@@ -103402,7 +103691,11 @@
       "Levitate 6",
       "Jump 1",
       "Power 3",
-      "Freezer"
+      "Chilled",
+      "Darkvision",
+      "Dead Silent",
+      "Freezer",
+      "Stealth"
     ],
     "skills": {
       "athl": "2d6+1",
@@ -103630,6 +103923,7 @@
       "Jump 1",
       "Power 2",
       "Freezer",
+      "Chilled",
       "Naturewalk (Tundra)",
       "Underdog"
     ],
@@ -103843,6 +104137,7 @@
       "Jump 1",
       "Power 7",
       "Freezer",
+      "Chilled",
       "Naturewalk (Tundra)"
     ],
     "skills": {
@@ -104270,7 +104565,8 @@
       "Jump 0",
       "Power 8",
       "Freezer",
-      "Naturewalk (Tundra)"
+      "Naturewalk (Tundra)",
+      "Mountable 3"
     ],
     "skills": {
       "athl": "6d6+2",
@@ -104496,6 +104792,7 @@
       "Swim 3",
       "Jump 1",
       "Power 2",
+      "Shrinkable",
       "Volatile",
       "Underdog",
       "Zapper"
@@ -104714,6 +105011,7 @@
       "Swim 3",
       "Jump 1",
       "Power 4",
+      "Shrinkable",
       "Volatile",
       "Zapper"
     ],
@@ -104930,6 +105228,7 @@
       "Swim 3",
       "Jump 1",
       "Power 2",
+      "Tracker",
       "Naturewalk (Grassland)",
       "Underdog",
       "Zapper"
@@ -105137,6 +105436,7 @@
       "Swim 3",
       "Jump 2",
       "Power 4",
+      "Tracker",
       "Naturewalk (Grassland)",
       "Zapper"
     ],
@@ -105549,7 +105849,8 @@
       "Power 7",
       "Zapper",
       "Naturewalk (Grassland)",
-      "Glow"
+      "Glow",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "6d6+3",
@@ -106658,6 +106959,7 @@
       "Sky 4",
       "Jump 2",
       "Power 1",
+      "Tracker",
       "Underdog"
     ],
     "skills": {
@@ -106887,6 +107189,7 @@
       "Sky 6",
       "Jump 2",
       "Power 3",
+      "Tracker",
       "Telekinetic",
       "Underdog"
     ],
@@ -113411,6 +113714,7 @@
       "Swim 3",
       "Jump 2",
       "Power 6",
+      "Aura",
       "Underdog"
     ],
     "skills": {
@@ -113917,7 +114221,8 @@
       "Overland 8",
       "Swim 2",
       "Jump 2",
-      "Power 7"
+      "Power 7",
+      "Aura"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -114681,6 +114986,7 @@
       "Sky 6",
       "Jump 2",
       "Power 1",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -114913,7 +115219,9 @@
       "Swim 2",
       "Sky 8",
       "Jump 2",
-      "Power 4"
+      "Power 4",
+      "Guster",
+      "Pack Mon"
     ],
     "skills": {
       "athl": "3d6+2",
@@ -115193,6 +115501,7 @@
       "Sky 5",
       "Jump 1",
       "Power 1",
+      "Guster",
       "Underdog"
     ],
     "skills": {
@@ -115405,7 +115714,8 @@
       "Swim 2",
       "Sky 7",
       "Jump 1",
-      "Power 3"
+      "Power 3",
+      "Guster"
     ],
     "skills": {
       "athl": "4d6+1",
@@ -115638,6 +115948,8 @@
       "Swim 2",
       "Jump 1",
       "Power 1",
+      "Darkvision",
+      "Stealth",
       "Naturewalk (Grassland, Urban)",
       "Underdog"
     ],
@@ -115863,6 +116175,8 @@
       "Swim 4",
       "Jump 1",
       "Power 4",
+      "Darkvision",
+      "Stealth",
       "Naturewalk (Grassland, Urban)",
       "Underdog"
     ],
@@ -116093,6 +116407,8 @@
       "Swim 3",
       "Jump 1",
       "Power 2",
+      "Darkvision",
+      "Tracker",
       "Naturewalk (Mountain)",
       "Underdog"
     ],
@@ -116325,6 +116641,8 @@
       "Swim 4",
       "Jump 1",
       "Power 5",
+      "Darkvision",
+      "Tracker",
       "Naturewalk (Mountain)"
     ],
     "skills": {
@@ -116575,6 +116893,8 @@
       "Swim 3",
       "Jump 1",
       "Power 2",
+      "Darkvision",
+      "Tracker",
       "Naturewalk (Grassland, Forest)",
       "Underdog"
     ],
@@ -116787,6 +117107,9 @@
       "Swim 4",
       "Jump 1",
       "Power 6",
+      "Darkvision",
+      "Pack Mon",
+      "Tracker",
       "Naturewalk (Grassland, Forest)",
       "Underdog"
     ],
@@ -117012,6 +117335,9 @@
       "Swim 2",
       "Jump 1",
       "Power 3",
+      "Darkvision",
+      "Stealth",
+      "Pack Mon",
       "Naturewalk (Desert, Mountain)",
       "Underdog"
     ],
@@ -117258,7 +117584,10 @@
       "Swim 3",
       "Jump 1",
       "Power 6",
-      "Naturewalk (Desert, Mountain)"
+      "Darkvision",
+      "Stealth",
+      "Naturewalk (Desert, Mountain)",
+      "Pack Mon"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -117502,7 +117831,9 @@
       "Swim 3",
       "Jump 2",
       "Power 2",
-      "Naturewalk (Cave, Tundra)"
+      "Darkvision",
+      "Naturewalk (Cave, Tundra)",
+      "Stealth"
     ],
     "skills": {
       "athl": "2d6+2",
@@ -117754,7 +118085,9 @@
       "Swim 4",
       "Jump 2",
       "Power 3",
-      "Naturewalk (Cave, Tundra)"
+      "Darkvision",
+      "Naturewalk (Cave, Tundra)",
+      "Stealth"
     ],
     "skills": {
       "athl": "3d6+2",
@@ -117996,6 +118329,10 @@
       "Swim 2",
       "Jump 1",
       "Power 2",
+      "Darkvision",
+      "Tracker",
+      "Stealth",
+      "Pack Mon",
       "Underdog"
     ],
     "skills": {
@@ -118223,7 +118560,11 @@
       "Overland 7",
       "Swim 4",
       "Jump 1",
-      "Power 7"
+      "Power 7",
+      "Darkvision",
+      "Tracker",
+      "Stealth",
+      "Pack Mon"
     ],
     "skills": {
       "athl": "4d6+1",
@@ -118466,6 +118807,10 @@
       "Swim 2",
       "Jump 1",
       "Power 1",
+      "Darkvision",
+      "Stealth",
+      "Tracker",
+      "Pack Mon",
       "Naturewalk (Forest, Grassland)",
       "Underdog"
     ],
@@ -118684,6 +119029,9 @@
       "Swim 4",
       "Jump 2",
       "Power 4",
+      "Stealth",
+      "Tracker",
+      "Pack Mon",
       "Naturewalk (Forest, Grassland)"
     ],
     "skills": {
@@ -118917,7 +119265,9 @@
       "Levitate 4",
       "Jump 0",
       "Power 1",
+      "Gilled",
       "Glow",
+      "Mindlock",
       "Telekinetic",
       "Telepath"
     ],
@@ -119139,7 +119489,9 @@
       "Levitate 6",
       "Jump 0",
       "Power 1",
+      "Gilled",
       "Glow",
+      "Mindlock",
       "Telekinetic",
       "Telepath"
     ],
@@ -119378,6 +119730,8 @@
       "Jump 1",
       "Levitate 3",
       "Power 2",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility",
       "Phasing"
     ],
@@ -119604,6 +119958,8 @@
       "Jump 1",
       "Levitate 4",
       "Power 3",
+      "Darkvision",
+      "Dead Silent",
       "Phasing"
     ],
     "skills": {
@@ -119860,8 +120216,10 @@
       "Levitate 5",
       "Jump 1",
       "Power 1",
+      "Dead Silent",
       "Invisibility",
       "Phasing",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -120090,8 +120448,10 @@
       "Levitate 6",
       "Jump 1",
       "Power 2",
+      "Dead Silent",
       "Invisibility",
-      "Phasing"
+      "Phasing",
+      "Stealth"
     ],
     "skills": {
       "athl": "3d6+1",
@@ -120358,7 +120718,9 @@
       "Sky 4",
       "Jump 2",
       "Power 1",
+      "Dead Silent",
       "Inflatable",
+      "Shrinkable",
       "Underdog"
     ],
     "skills": {
@@ -120586,7 +120948,9 @@
       "Sky 6",
       "Jump 3",
       "Power 5",
-      "Inflatable"
+      "Dead Silent",
+      "Inflatable",
+      "Shrinkable"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -121048,6 +121412,8 @@
       "Levitate 5",
       "Jump 1",
       "Power 7",
+      "Darkvision",
+      "Dead Silent",
       "Phasing",
       "Invisibility"
     ],
@@ -121271,6 +121637,7 @@
       "Naturewalk (Grassland, Forest)",
       "Phasing",
       "Invisibility",
+      "Dead Silent",
       "Underdog"
     ],
     "skills": {
@@ -121697,6 +122064,7 @@
       "Naturewalk (Grassland, Forest)",
       "Phasing",
       "Invisibility",
+      "Dead Silent",
       "Underdog"
     ],
     "skills": {
@@ -121940,7 +122308,8 @@
       "Power 3",
       "Naturewalk (Grassland, Forest)",
       "Phasing",
-      "Invisibility"
+      "Invisibility",
+      "Dead Silent"
     ],
     "skills": {
       "athl": "4d6",
@@ -122675,6 +123044,7 @@
       "Swim 2",
       "Jump 1",
       "Power 1",
+      "Alluring",
       "Underdog"
     ],
     "skills": {
@@ -122875,7 +123245,8 @@
       "Overland 7",
       "Swim 3",
       "Jump 1",
-      "Power 2"
+      "Power 2",
+      "Alluring"
     ],
     "skills": {
       "athl": "3d6",
@@ -124825,6 +125196,7 @@
       "Burrow 6",
       "Jump 1",
       "Power 1",
+      "Darkvision",
       "Underdog"
     ],
     "skills": {
@@ -125301,7 +125673,9 @@
       "Overland 8",
       "Swim 4",
       "Jump 1",
-      "Power 8"
+      "Power 8",
+      "Mountable \n1",
+      "Pack Mon"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -125527,7 +125901,9 @@
       "Overland 7",
       "Swim 4",
       "Jump 1",
-      "Power 7"
+      "Power 7",
+      "Mountable \n1",
+      "Pack Mon"
     ],
     "skills": {
       "athl": "4d6+4",
@@ -125725,7 +126101,8 @@
       "Overland 7",
       "Swim 3",
       "Jump 2",
-      "Power 4"
+      "Power 4",
+      "Tracker"
     ],
     "skills": {
       "athl": "3d6+2",
@@ -126445,6 +126822,7 @@
       "Swim 2",
       "Jump 2",
       "Power 2",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -126711,6 +127089,7 @@
       "Swim 2",
       "Jump 2",
       "Power 1",
+      "Guster",
       "Underdog"
     ],
     "skills": {
@@ -126915,6 +127294,7 @@
       "Swim 3",
       "Jump 1",
       "Power 3",
+      "Tracker",
       "Naturewalk (Forest, Urban)",
       "Underdog"
     ],
@@ -127288,7 +127668,8 @@
       "Overland 6",
       "Swim 4",
       "Jump 1",
-      "Power 4"
+      "Power 4",
+      "Tracker"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -129259,7 +129640,9 @@
       "Sky 4",
       "Jump 3",
       "Power 8",
-      "Naturewalk (Grassland, Forest)"
+      "Guster",
+      "Naturewalk (Grassland, Forest)",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "5d6+3",
@@ -129944,7 +130327,8 @@
       "Swim 7",
       "Jump 1",
       "Power 2",
-      "Naturewalk \n(Ocean)"
+      "Naturewalk \n(Ocean)",
+      "Gilled"
     ],
     "skills": {
       "athl": "3d6+2",
@@ -130385,7 +130769,9 @@
       "Swim 5",
       "Jump 1",
       "Power 2",
-      "Naturewalk (Ocean)"
+      "Darkvision",
+      "Naturewalk (Ocean)",
+      "Gilled"
     ],
     "skills": {
       "athl": "2d6",
@@ -130599,6 +130985,7 @@
       "Swim 4",
       "Jump 1",
       "Power 3",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -130841,6 +131228,7 @@
       "Swim 5",
       "Jump 2",
       "Power 1",
+      "Gilled",
       "Naturewalk (Ocean)",
       "Underdog"
     ],
@@ -131245,7 +131633,9 @@
       "Jump 0",
       "Power 8",
       "Fountain",
-      "Naturewalk (Ocean, Tundra)"
+      "Gilled",
+      "Naturewalk (Ocean, Tundra)",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "4d6+1",
@@ -131470,6 +131860,7 @@
       "Sky 8",
       "Jump 3",
       "Power 4",
+      "Chilled",
       "Naturewalk (Tundra)",
       "Underdog"
     ],
@@ -131618,6 +132009,7 @@
       "Jump 1",
       "Power 6",
       "Freezer",
+      "Chilled",
       "Naturewalk (Tundra)"
     ],
     "skills": {
@@ -132687,7 +133079,8 @@
       "Overland 6",
       "Swim 4",
       "Jump 2",
-      "Power 4"
+      "Power 4",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "3d6",
@@ -132917,7 +133310,8 @@
       "Jump 1",
       "Power 3",
       "Telekinetic",
-      "Invisibility"
+      "Invisibility",
+      "Guster"
     ],
     "skills": {
       "athl": "2d6",
@@ -133405,7 +133799,8 @@
       "Swim 3",
       "Sky 9",
       "Jump 1",
-      "Power 5"
+      "Power 5",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "3d6+2",
@@ -133626,7 +134021,8 @@
       "Swim 1",
       "Levitate 6",
       "Jump 0",
-      "Power 1"
+      "Power 1",
+      "Dead Silent"
     ],
     "skills": {
       "athl": "2d6",
@@ -133830,6 +134226,9 @@
       "Swim 4",
       "Jump 2",
       "Power 3",
+      "Darkvision",
+      "Stealth",
+      "Tracker",
       "Naturewalk (Grassland, \nForest)"
     ],
     "skills": {
@@ -134104,7 +134503,10 @@
       "Jump 2",
       "Power 1",
       "Amorphous",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -134388,6 +134790,8 @@
       "Levitate 5",
       "Jump 0",
       "Power 2",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility",
       "Phasing"
     ],
@@ -134587,7 +134991,9 @@
       "Swim 4",
       "Jump 2",
       "Power 8",
-      "Naturewalk \n(Cave)"
+      "Naturewalk \n(Cave)",
+      "Darkvision",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6",
@@ -135300,6 +135706,7 @@
       "Jump 2",
       "Power 3",
       "Glow",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -135523,6 +135930,7 @@
       "Jump 2",
       "Power 2",
       "Glow",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -135745,6 +136153,7 @@
       "Levitate 3",
       "Jump 1",
       "Power 10",
+      "Dead Silent",
       "Telekinetic"
     ],
     "skills": {
@@ -136001,6 +136410,7 @@
       "Levitate 3",
       "Jump 1",
       "Power 10",
+      "Dead Silent",
       "Telekinetic"
     ],
     "skills": {
@@ -136873,7 +137283,8 @@
       "Swim 2",
       "Sky 8",
       "Jump 2",
-      "Power 4"
+      "Power 4",
+      "Guster"
     ],
     "skills": {
       "athl": "4d6",
@@ -137111,6 +137522,8 @@
       "Swim 4",
       "Jump 1",
       "Power 1",
+      "Wallclimber",
+      "Shapeshifter",
       "Underdog"
     ],
     "skills": {
@@ -137300,6 +137713,7 @@
       "Overland 4",
       "Jump 1",
       "Power 2",
+      "Tracker",
       "Underdog"
     ],
     "skills": {
@@ -137501,7 +137915,9 @@
       "Swim 8",
       "Jump 1",
       "Power 3",
-      "Fountain"
+      "Gilled",
+      "Fountain",
+      "Tracker"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -137706,6 +138122,7 @@
       "Swim 5",
       "Jump 2",
       "Power 3",
+      "Tracker",
       "Zapper"
     ],
     "skills": {
@@ -137910,7 +138327,8 @@
       "Swim 3",
       "Jump 1",
       "Power 3",
-      "Firestarter"
+      "Firestarter",
+      "Tracker"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -138111,7 +138529,8 @@
       "Jump 1",
       "Power 3",
       "Telepath",
-      "Telekinetic"
+      "Telekinetic",
+      "Tracker"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -138327,7 +138746,10 @@
       "Overland 6",
       "Swim 4",
       "Jump 1",
-      "Power 3"
+      "Power 3",
+      "Darkvision",
+      "Tracker",
+      "Stealth"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -138537,7 +138959,8 @@
       "Swim 4",
       "Jump 1",
       "Power 3",
-      "Naturewalk \n(Grassland, Forest)"
+      "Naturewalk \n(Grassland, Forest)",
+      "Tracker"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -138744,7 +139167,8 @@
       "Jump 1",
       "Power 3",
       "Freezer",
-      "Naturewalk (Tundra)"
+      "Naturewalk (Tundra)",
+      "Tracker"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -138938,7 +139362,8 @@
       "Overland 6",
       "Swim 4",
       "Jump 1",
-      "Power 3"
+      "Power 3",
+      "Tracker"
     ],
     "skills": {
       "athl": "3d6+2",
@@ -139147,6 +139572,7 @@
       "Swim 5",
       "Jump 1",
       "Power 1",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -139359,6 +139785,7 @@
       "Swim 7",
       "Jump 1",
       "Power 4",
+      "Gilled",
       "Naturewalk (Ocean)"
     ],
     "skills": {
@@ -139576,6 +140003,7 @@
       "Burrow 2",
       "Jump 0",
       "Power 2",
+      "Gilled",
       "Naturewalk (Ocean, Cave)",
       "Underdog"
     ],
@@ -139776,6 +140204,7 @@
       "Swim 6",
       "Jump 1",
       "Power 2",
+      "Gilled",
       "Naturewalk (Ocean, Cave)"
     ],
     "skills": {
@@ -140006,7 +140435,8 @@
       "Overland 2",
       "Swim 1",
       "Jump 0",
-      "Power 4"
+      "Power 4",
+      "Gilled"
     ],
     "skills": {
       "athl": "2d6",
@@ -140217,7 +140647,8 @@
       "Overland 3",
       "Swim 1",
       "Jump 0",
-      "Power 8"
+      "Power 8",
+      "Gilled"
     ],
     "skills": {
       "athl": "2d6+2",
@@ -140451,6 +140882,7 @@
       "Burrow 2",
       "Jump 1",
       "Power 2",
+      "Gilled",
       "Naturewalk (Cave)",
       "Underdog"
     ],
@@ -140661,6 +141093,7 @@
       "Swim 6",
       "Jump 1",
       "Power 6",
+      "Gilled",
       "Naturewalk (Cave, Ocean)"
     ],
     "skills": {
@@ -141103,7 +141536,8 @@
       "Overland 7",
       "Jump 1",
       "Power 10",
-      "Naturewalk \n(Mountain)"
+      "Naturewalk \n(Mountain)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -141539,7 +141973,8 @@
       "Swim 3",
       "Jump 0",
       "Power 8",
-      "Naturewalk \n(Mountain, Cave)"
+      "Naturewalk \n(Mountain, Cave)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+3",
@@ -141977,7 +142412,8 @@
       "Jump 2",
       "Power 7",
       "Fountain",
-      "Naturewalk (Ocean)"
+      "Naturewalk (Ocean)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -142429,7 +142865,8 @@
       "Swim 3",
       "Sky 5",
       "Jump 4",
-      "Power 4"
+      "Power 4",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "3d6+1",
@@ -142875,7 +143312,8 @@
       "Overland 6",
       "Swim 4",
       "Jump 1",
-      "Power 10"
+      "Power 10",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "6d6+2",
@@ -143107,6 +143545,7 @@
       "Swim 3",
       "Jump 1",
       "Power 2",
+      "Chilled",
       "Freezer",
       "Naturewalk (Tundra)",
       "Underdog"
@@ -143347,7 +143786,8 @@
       "Jump 1",
       "Power 8",
       "Freezer",
-      "Naturewalk (Tundra)"
+      "Naturewalk (Tundra)",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "5d6",
@@ -143601,7 +144041,8 @@
       "Swim 3",
       "Sky 10",
       "Jump 2",
-      "Power 8"
+      "Power 8",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -144261,7 +144702,9 @@
       "Swim 6",
       "Sky 8",
       "Jump 3",
-      "Power 8"
+      "Power 8",
+      "Aura",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+3",
@@ -144984,7 +145427,8 @@
       "Overland 6",
       "Swim 3",
       "Jump 1",
-      "Power 11"
+      "Power 11",
+      "Darkvision"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -145698,7 +146142,8 @@
       "Swim 4",
       "Sky 9",
       "Jump 2",
-      "Power 8"
+      "Power 8",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -145975,6 +146420,7 @@
       "Levitate 4",
       "Jump 1",
       "Power 5",
+      "Magnetic",
       "Underdog"
     ],
     "skills": {
@@ -146064,7 +146510,9 @@
       "Levitate 5",
       "Jump 1",
       "Power 9",
-      "Underdog"
+      "Magnetic",
+      "Underdog",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -146300,7 +146748,9 @@
       "Swim 3",
       "Levitate 6",
       "Jump 1",
-      "Power 14"
+      "Power 14",
+      "Magnetic",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "5d6+3",
@@ -146981,7 +147431,8 @@
       "Burrow 8",
       "Jump 3",
       "Power 6",
-      "Naturewalk (Desert)"
+      "Naturewalk (Desert)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -147659,7 +148110,8 @@
       "Sky 7",
       "Levitate 5",
       "Jump 2",
-      "Power 6"
+      "Power 6",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -148494,10 +148946,12 @@
       "Sky 6",
       "Jump 2",
       "Power 3",
+      "Aura",
       "Glow",
       "Invisibility",
       "Telekinetic",
-      "Telepath"
+      "Telepath",
+      "Shapeshifter"
     ],
     "skills": {
       "athl": "3d6",
@@ -148641,6 +149095,7 @@
       "Sky 8",
       "Jump 3",
       "Power 7",
+      "Aura",
       "Glow",
       "Invisibility",
       "Telekinetic",
@@ -149224,7 +149679,8 @@
       "Firestarter",
       "Glow",
       "Heater",
-      "Naturewalk \n(Cave, Mountain)"
+      "Naturewalk \n(Cave, Mountain)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -149447,7 +149903,9 @@
       "Jump 2",
       "Power 7",
       "Freezer",
-      "Glow"
+      "Glow",
+      "Guster",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -149672,7 +150130,9 @@
       "Jump 2",
       "Power 7",
       "Glow",
-      "Zapper"
+      "Guster",
+      "Zapper",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6",
@@ -149901,7 +150361,9 @@
       "Power 7",
       "Firestarter",
       "Glow",
-      "Heater"
+      "Guster",
+      "Heater",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -150114,8 +150576,10 @@
       "Swim 6",
       "Jump 3",
       "Power 8",
+      "Tracker",
       "Zapper",
-      "Naturewalk (Grassland)"
+      "Naturewalk (Grassland)",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "4d6+3",
@@ -150337,7 +150801,9 @@
       "Power 9",
       "Firestarter",
       "Heater",
-      "Naturewalk (Grassland, Mountain)"
+      "Tracker",
+      "Naturewalk (Grassland, Mountain)",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "5d6+3",
@@ -150561,7 +151027,10 @@
       "Jump 3",
       "Power 8",
       "Naturewalk (Grassland, Wetlands)",
-      "Fountain"
+      "Fountain",
+      "Guster",
+      "Tracker",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -151279,7 +151748,8 @@
       "Burrow 3",
       "Jump 1",
       "Power 11",
-      "Naturewalk (Urban)"
+      "Naturewalk (Urban)",
+      "Magnetic"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -151536,7 +152006,8 @@
       "Swim 4",
       "Burrow 3",
       "Jump 1",
-      "Power 13"
+      "Power 13",
+      "Magnetic"
     ],
     "skills": {
       "athl": "6d6",
@@ -151767,7 +152238,8 @@
       "Swim 6",
       "Jump 3",
       "Power 7",
-      "Naturewalk (Mountain)"
+      "Naturewalk (Mountain)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "6d6+6",
@@ -151986,7 +152458,8 @@
       "Burrow 7",
       "Jump 2",
       "Power 7",
-      "Naturewalk (Mountain)"
+      "Naturewalk (Mountain)",
+      "Mountable \n1"
     ],
     "skills": {
       "athl": "6d6+3",
@@ -152198,7 +152671,8 @@
       "Swim 5",
       "Jump 3",
       "Power 7",
-      "Naturewalk (Grassland, Forest)"
+      "Naturewalk (Grassland, Forest)",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6+3",
@@ -152417,7 +152891,8 @@
       "Jump 3",
       "Power 4",
       "Naturewalk (Grassland)",
-      "Fountain"
+      "Fountain",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6",
@@ -152622,6 +153097,7 @@
       "Sky 7",
       "Jump 1",
       "Power 2",
+      "Aura",
       "Telekinetic",
       "Telepath"
     ],
@@ -152863,6 +153339,7 @@
       "Sky 7",
       "Jump 1",
       "Power 2",
+      "Aura",
       "Telekinetic",
       "Telepath"
     ],
@@ -153141,6 +153618,7 @@
       "Sky 7",
       "Jump 1",
       "Power 2",
+      "Aura",
       "Telekinetic",
       "Telepath"
     ],
@@ -154129,11 +154607,15 @@
       "Sky 8",
       "Jump 3",
       "Power 7",
+      "Aura",
       "Fountain",
+      "Gilled",
       "Glow",
+      "Guster",
       "Naturewalk \n(Ocean)",
       "Telekinetic",
-      "Telepath"
+      "Telepath",
+      "Mountable 3"
     ],
     "skills": {
       "athl": "4d6",
@@ -154403,10 +154885,13 @@
       "Sky 8",
       "Jump 3",
       "Power 7",
+      "Aura",
       "Firestarter",
       "Glow",
+      "Guster",
       "Heater",
-      "Telepath"
+      "Telepath",
+      "Mountable 3"
     ],
     "skills": {
       "athl": "4d6",
@@ -154658,8 +155143,11 @@
       "Sky 8",
       "Jump 2",
       "Power 4",
+      "Aura",
+      "Guster",
       "Telekinetic",
-      "Telepath"
+      "Telepath",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "3d6",
@@ -154969,8 +155457,11 @@
       "Sky 8",
       "Jump 2",
       "Power 4",
+      "Aura",
+      "Guster",
       "Telekinetic",
-      "Telepath"
+      "Telepath",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "3d6",
@@ -155273,7 +155764,8 @@
       "Power 1",
       "Naturewalk \n(Ocean)",
       "Amorphous",
-      "Fountain"
+      "Fountain",
+      "Gilled"
     ],
     "skills": {
       "athl": "3d6+2",
@@ -155467,6 +155959,7 @@
       "Naturewalk \n(Ocean)",
       "Amorphous",
       "Fountain",
+      "Gilled",
       "Telepath"
     ],
     "skills": {
@@ -155684,6 +156177,7 @@
       "Sky 6",
       "Jump 2",
       "Power 2",
+      "Aura",
       "Glow",
       "Naturewalk (Grassland, Forest)",
       "Telekinetic",
@@ -155941,6 +156435,7 @@
       "Sky 7",
       "Jump 2",
       "Power 2",
+      "Aura",
       "Glow",
       "Telekinetic",
       "Telepath"
@@ -156223,6 +156718,7 @@
       "Sky 6",
       "Jump 2",
       "Power 3",
+      "Aura",
       "Glow",
       "Heater",
       "Telekinetic",
@@ -157898,6 +158394,8 @@
       "Sky 8",
       "Jump 2",
       "Power 7",
+      "Aura",
+      "Darkvision",
       "Invisibility",
       "Phasing",
       "Telepath"
@@ -158142,6 +158640,7 @@
       "Sky 7",
       "Jump 1",
       "Power 8",
+      "Aura",
       "Glow",
       "Telekinetic",
       "Telepath"
@@ -158365,8 +158864,10 @@
       "Jump 1",
       "Power 12",
       "Fountain",
+      "Gilled",
       "Glow",
-      "Naturewalk (Ocean)"
+      "Naturewalk (Ocean)",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -158598,6 +159099,7 @@
       "Firestarter",
       "Glow",
       "Heater",
+      "Mountable 1",
       "Naturewalk (Mountain, \nCave)"
     ],
     "skills": {
@@ -158863,8 +159365,11 @@
       "Burrow 6",
       "Jump 6",
       "Power 11",
+      "Aura",
       "Glow",
-      "Telepath"
+      "Guster",
+      "Telepath",
+      "Mountable 3"
     ],
     "skills": {
       "athl": "4d6",
@@ -159127,7 +159632,8 @@
       "Power \n10",
       "Heater",
       "Firestarter",
-      "Telepath"
+      "Telepath",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "4d6",
@@ -159353,7 +159859,8 @@
       "Power 12",
       "Glow",
       "Zapper",
-      "Telepath"
+      "Telepath",
+      "Mountable 1"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -159601,8 +160108,11 @@
       "Sky 6",
       "Jump 2",
       "Power 10",
+      "Aura",
+      "Chilled",
       "Freezer",
-      "Telepath"
+      "Telepath",
+      "Mountable \n1"
     ],
     "skills": {
       "athl": "6d6",
@@ -160082,8 +160592,10 @@
       "Sky 9",
       "Jump 3",
       "Power \n10",
+      "Aura",
       "Telekinetic",
-      "Telepath"
+      "Telepath",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "3d6",
@@ -160333,8 +160845,10 @@
       "Sky 7",
       "Jump 4",
       "Power 10",
+      "Aura",
       "Telekinetic",
-      "Telepath"
+      "Telepath",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "5d6",
@@ -160851,7 +161365,8 @@
       "Jump 3",
       "Power 9",
       "Naturewalk \n(Grassland, Forest)",
-      "Telepath"
+      "Telepath",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -161072,7 +161587,11 @@
       "Swim 5",
       "Sky 8",
       "Jump 2",
-      "Power 8"
+      "Power 8",
+      "Guster",
+      "Darkvision",
+      "Mindlock",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "4d6",
@@ -161296,7 +161815,9 @@
       "Swim 5",
       "Burrow 9",
       "Jump 2",
-      "Power 9"
+      "Power 9",
+      "Darkvision",
+      "Mountable \n4"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -161534,10 +162055,13 @@
       "Sky 4",
       "Jump 2",
       "Power \n10",
+      "Aura",
+      "Darkvision",
       "Glow",
       "Invisibility",
       "Telekinetic",
-      "Telepath"
+      "Telepath",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "4d6+3",
@@ -162141,6 +162665,8 @@
       "Sky 4",
       "Jump 1",
       "Power 1",
+      "Darkvision",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -162352,6 +162878,8 @@
       "Sky 6",
       "Jump 2",
       "Power 2",
+      "Darkvision",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -162556,7 +163084,10 @@
       "Swim 3",
       "Sky 8",
       "Jump 3",
-      "Power 4"
+      "Power 4",
+      "Darkvision",
+      "Dead Silent",
+      "Stealth"
     ],
     "skills": {
       "athl": "3d6",
@@ -162789,6 +163320,7 @@
       "Jump 2",
       "Power 2",
       "Firestarter",
+      "Tracker",
       "Underdog"
     ],
     "skills": {
@@ -162998,6 +163530,7 @@
       "Jump 2",
       "Power 6",
       "Firestarter",
+      "Tracker",
       "Underdog"
     ],
     "skills": {
@@ -163201,7 +163734,9 @@
       "Swim 4",
       "Jump 3",
       "Power 10",
-      "Firestarter"
+      "Darkvision",
+      "Firestarter",
+      "Tracker"
     ],
     "skills": {
       "athl": "5d6+3",
@@ -164088,6 +164623,7 @@
       "Sky 5",
       "Jump 1",
       "Power 1",
+      "Guster",
       "Underdog"
     ],
     "skills": {
@@ -164278,6 +164814,7 @@
       "Sky 7",
       "Jump 2",
       "Power 2",
+      "Guster",
       "Underdog"
     ],
     "skills": {
@@ -164470,7 +165007,8 @@
       "Swim 3",
       "Sky 8",
       "Jump 3",
-      "Power 4"
+      "Power 4",
+      "Guster"
     ],
     "skills": {
       "athl": "3d6+2",
@@ -164858,6 +165396,7 @@
       "Jump 2",
       "Power 3",
       "Naturewalk \n(Grassland)",
+      "Tracker",
       "Underdog"
     ],
     "skills": {
@@ -165076,7 +165615,8 @@
       "Power 1",
       "Naturewalk (Forest)",
       "Threaded",
-      "Underdog"
+      "Underdog",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "2d6",
@@ -165248,7 +165788,8 @@
       "Power 1",
       "Naturewalk (Forest)",
       "Threaded",
-      "Underdog"
+      "Underdog",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "3d6",
@@ -165620,6 +166161,7 @@
       "Swim 2",
       "Jump 1",
       "Power 2",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -165812,6 +166354,7 @@
       "Swim 3",
       "Jump 1",
       "Power 6",
+      "Gilled",
       "Naturewalk (Tundra)"
     ],
     "skills": {
@@ -166229,7 +166772,10 @@
       "Sky 4",
       "Jump 1",
       "Power 1",
-      "Underdog"
+      "Aura",
+      "Honey Gather",
+      "Underdog",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "1d6",
@@ -166419,7 +166965,10 @@
       "Swim 3",
       "Sky 6",
       "Jump 1",
-      "Power 1"
+      "Power 1",
+      "Aura",
+      "Honey Gather",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "2d6",
@@ -166684,6 +167233,7 @@
       "Jump 2",
       "Power 2",
       "Naturewalk \n(Mountain)",
+      "Tracker",
       "Underdog"
     ],
     "skills": {
@@ -166879,6 +167429,7 @@
       "Swim 4",
       "Jump 1",
       "Power 1",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -167072,7 +167623,8 @@
       "Overland 4",
       "Swim 6",
       "Jump 1",
-      "Power 4"
+      "Power 4",
+      "Gilled"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -167278,6 +167830,7 @@
       "Swim 2",
       "Jump 0",
       "Power 8",
+      "Mountable \n1",
       "Naturewalk (Cave, Mountain)",
       "Underdog"
     ],
@@ -167464,6 +168017,7 @@
       "Swim 3",
       "Jump 0",
       "Power 13",
+      "Mountable 2",
       "Naturewalk (Cave, \nMountain)"
     ],
     "skills": {
@@ -167655,6 +168209,7 @@
       "Swim 3",
       "Jump 2",
       "Power 1",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -167845,6 +168400,7 @@
       "Swim 5",
       "Jump 2",
       "Power 4",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -168048,6 +168604,7 @@
       "Swim 2",
       "Jump 1",
       "Power 2",
+      "Alluring",
       "Naturewalk (Forest)",
       "Underdog"
     ],
@@ -168227,6 +168784,7 @@
       "Swim 3",
       "Jump 2",
       "Power 4",
+      "Alluring",
       "Naturewalk (Forest)"
     ],
     "skills": {
@@ -168822,6 +169380,7 @@
       "Swim 3",
       "Jump 1",
       "Power 3",
+      "Alluring",
       "Naturewalk (Mountain)",
       "Underdog"
     ],
@@ -169020,7 +169579,9 @@
       "Swim 4",
       "Jump 2",
       "Power 4",
-      "Naturewalk (Mountain)"
+      "Alluring",
+      "Naturewalk (Mountain)",
+      "Pack Mon"
     ],
     "skills": {
       "athl": "3d6+1",
@@ -169626,6 +170187,7 @@
       "Swim 1",
       "Jump 2",
       "Power 1",
+      "Alluring",
       "Naturewalk (Forest)",
       "Underdog"
     ],
@@ -169798,6 +170360,7 @@
       "Swim 3",
       "Jump 3",
       "Power 3",
+      "Alluring",
       "Naturewalk (Forest)",
       "Underdog"
     ],
@@ -169989,6 +170552,7 @@
       "Swim 5",
       "Jump 3",
       "Power 5",
+      "Alluring",
       "Naturewalk (Forest)"
     ],
     "skills": {
@@ -170195,6 +170759,7 @@
       "Levitate 6",
       "Jump 1",
       "Power 2",
+      "Alluring",
       "Threaded"
     ],
     "skills": {
@@ -170636,7 +171201,8 @@
       "Swim 5",
       "Jump 3",
       "Power 7",
-      "Naturewalk \n(Forest)"
+      "Naturewalk \n(Forest)",
+      "Pack Mon"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -170857,6 +171423,7 @@
       "Swim 6",
       "Jump 1",
       "Power 1",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -170973,7 +171540,8 @@
       "Overland 7",
       "Swim 7",
       "Jump 2",
-      "Power 8"
+      "Power 8",
+      "Gilled"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -171193,6 +171761,8 @@
       "Jump 0",
       "Power 1",
       "Amorphous",
+      "Darkvision",
+      "Dead Silent",
       "Naturewalk \n(Desert)",
       "Underdog"
     ],
@@ -171393,6 +171963,8 @@
       "Jump 0",
       "Power 4",
       "Amorphous",
+      "Darkvision",
+      "Dead Silent",
       "Naturewalk (Desert)"
     ],
     "skills": {
@@ -171601,6 +172173,7 @@
       "Jump 1",
       "Power 2",
       "Amorphous",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -171802,7 +172375,9 @@
       "Overland 8",
       "Swim 4",
       "Jump 1",
-      "Power 8"
+      "Power 8",
+      "Mountable \n1",
+      "Tracker"
     ],
     "skills": {
       "athl": "5d6+1",
@@ -172876,6 +173451,7 @@
       "Jump 1",
       "Power 2",
       "Amorphous",
+      "Darkvision",
       "Reach"
     ],
     "skills": {
@@ -173082,7 +173658,8 @@
       "Overland 1",
       "Swim 6",
       "Jump 2",
-      "Power 5"
+      "Power 5",
+      "Gilled"
     ],
     "skills": {
       "athl": "4d6+1",
@@ -173276,6 +173853,7 @@
       "Sky 4",
       "Jump 2",
       "Power 6",
+      "Mountable 2",
       "Reach"
     ],
     "skills": {
@@ -173499,7 +174077,10 @@
       "Swim 5",
       "Levitate 4",
       "Jump 1",
-      "Power 7"
+      "Power 7",
+      "Darkvision",
+      "Dead Silent",
+      "Gilled"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -174794,6 +175375,7 @@
       "Sky 10",
       "Jump 3",
       "Power 6",
+      "Aura",
       "Zapper"
     ],
     "skills": {
@@ -175008,6 +175590,7 @@
       "Sky 8",
       "Jump 2",
       "Power 4",
+      "Aura",
       "Telekinetic"
     ],
     "skills": {
@@ -175212,7 +175795,8 @@
       "Swim 5",
       "Sky 6",
       "Jump 1",
-      "Power 9"
+      "Power 9",
+      "Aura"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -175429,6 +176013,7 @@
       "Sky 8",
       "Jump 1",
       "Power 4",
+      "Aura",
       "Fountain"
     ],
     "skills": {
@@ -175832,7 +176417,9 @@
       "Swim 5",
       "Jump 3",
       "Power 14",
-      "Glow"
+      "Darkvision",
+      "Glow",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "5d6+4",
@@ -176060,8 +176647,11 @@
       "Sky 10",
       "Jump 2",
       "Power 8",
+      "Darkvision",
       "Invisibility",
-      "Phasing"
+      "Phasing",
+      "Stealth",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "3d6",
@@ -176318,7 +176908,10 @@
       "Swim 3",
       "Sky 10",
       "Jump 2",
-      "Power 9"
+      "Power 9",
+      "Darkvision",
+      "Dead Silent",
+      "Mindlock"
     ],
     "skills": {
       "athl": "4d6",
@@ -177424,7 +178017,9 @@
       "Swim 5",
       "Levitate 6",
       "Jump 1",
-      "Power 2"
+      "Power 2",
+      "Dead Silent",
+      "Chilled"
     ],
     "skills": {
       "athl": "3d6+2",
@@ -177880,7 +178475,8 @@
       "Overland 12",
       "Swim 6",
       "Jump 2",
-      "Power 6"
+      "Power 6",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "3d6",
@@ -178753,6 +179349,7 @@
       "Burrow 8",
       "Jump 0",
       "Power 12",
+      "Darkvision",
       "Reach"
     ],
     "skills": {
@@ -179375,6 +179972,7 @@
       "Swim 2",
       "Jump 1",
       "Power 10",
+      "Mindlock",
       "Reach"
     ],
     "skills": {
@@ -179782,6 +180380,8 @@
       "Swim 3",
       "Jump 1",
       "Power 6",
+      "Aura",
+      "Dead Silent",
       "Telepath"
     ],
     "skills": {
@@ -180005,8 +180605,11 @@
       "Swim 3",
       "Jump 1",
       "Power 7",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility",
-      "Phasing"
+      "Phasing",
+      "Stealth"
     ],
     "skills": {
       "athl": "4d6+1",
@@ -180552,6 +181155,7 @@
       "Jump 2",
       "Power 2",
       "Naturewalk \n(Forest)",
+      "Pack Mon",
       "Underdog"
     ],
     "skills": {
@@ -180716,6 +181320,7 @@
       "Jump 3",
       "Power 3",
       "Naturewalk \n(Forest)",
+      "Pack Mon",
       "Underdog"
     ],
     "skills": {
@@ -180863,7 +181468,8 @@
       "Swim 5",
       "Jump 3",
       "Power 8",
-      "Naturewalk \n(Forest)"
+      "Naturewalk \n(Forest)",
+      "Pack Mon"
     ],
     "skills": {
       "athl": "6d6",
@@ -181499,6 +182105,7 @@
       "Jump 2",
       "Power 2",
       "Fountain",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -181661,6 +182268,8 @@
       "Jump 2",
       "Power 4",
       "Fountain",
+      "Gilled",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -181805,7 +182414,10 @@
       "Swim 6",
       "Jump 3",
       "Power 5",
-      "Fountain"
+      "Fountain",
+      "Gilled",
+      "Stealth",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "3d6+1",
@@ -182268,6 +182880,7 @@
       "Sky 4",
       "Jump 2",
       "Power 1",
+      "Guster",
       "Underdog"
     ],
     "skills": {
@@ -182426,6 +183039,7 @@
       "Sky 6",
       "Jump 3",
       "Power 3",
+      "Guster",
       "Underdog"
     ],
     "skills": {
@@ -182567,7 +183181,9 @@
       "Swim 2",
       "Sky 8",
       "Jump 4",
-      "Power 7"
+      "Power 7",
+      "Guster",
+      "Mountable 2"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -182715,6 +183331,7 @@
       "Power 1",
       "Naturewalk \n(Grassland)",
       "Threaded",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -182811,6 +183428,7 @@
       "Naturewalk (Grassland)",
       "Telepath",
       "Threaded",
+      "Wallclimber",
       "Underdog"
     ],
     "skills": {
@@ -182908,7 +183526,8 @@
       "Glow",
       "Naturewalk (Grassland)",
       "Telepath",
-      "Threaded"
+      "Threaded",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "2d6",
@@ -183064,7 +183683,9 @@
       "Swim 3",
       "Jump 1",
       "Power 2",
+      "Darkvision",
       "Naturewalk (Forest, Urban)",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -183208,7 +183829,10 @@
       "Swim 4",
       "Jump 2",
       "Power 5",
-      "Naturewalk (Forest, Urban)"
+      "Darkvision",
+      "Naturewalk (Forest, Urban)",
+      "Stealth",
+      "Tracker"
     ],
     "skills": {
       "athl": "3d6",
@@ -183347,6 +183971,7 @@
       "Levitate 4",
       "Jump 1",
       "Power 1",
+      "Alluring",
       "Underdog"
     ],
     "skills": {
@@ -183493,7 +184118,8 @@
       "Swim 2",
       "Levitate 6",
       "Jump 1",
-      "Power 1"
+      "Power 1",
+      "Alluring"
     ],
     "skills": {
       "athl": "2d6",
@@ -183915,6 +184541,7 @@
       "Jump 0",
       "Power 4",
       "Fountain",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -184049,6 +184676,7 @@
       "Jump 0",
       "Power 8",
       "Fountain",
+      "Gilled",
       "Reach"
     ],
     "skills": {
@@ -184185,6 +184813,8 @@
       "Swim 4",
       "Jump 1",
       "Power 2",
+      "Pack Mon",
+      "Tracker",
       "Underdog",
       "Zapper"
     ],
@@ -184327,6 +184957,8 @@
       "Swim 5",
       "Jump 2",
       "Power 5",
+      "Pack Mon",
+      "Tracker",
       "Zapper"
     ],
     "skills": {
@@ -184472,6 +185104,7 @@
       "Swim 1",
       "Jump 0",
       "Power 3",
+      "Darkvision",
       "Naturewalk (Cave)",
       "Underdog"
     ],
@@ -184622,6 +185255,7 @@
       "Swim 3",
       "Jump 0",
       "Power 5",
+      "Darkvision",
       "Firestarter",
       "Glow",
       "Heater",
@@ -184769,6 +185403,7 @@
       "Swim 4",
       "Jump 1",
       "Power 10",
+      "Darkvision",
       "Firestarter",
       "Glow",
       "Heater",
@@ -184927,6 +185562,7 @@
       "Jump 1",
       "Power 1",
       "Naturewalk \n(Forest, Grassland)",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -185028,7 +185664,9 @@
       "Sky 6",
       "Jump 2",
       "Power 1",
-      "Naturewalk (Forest, Grassland)"
+      "Guster",
+      "Naturewalk (Forest, Grassland)",
+      "Stealth"
     ],
     "skills": {
       "athl": "2d6",
@@ -185183,6 +185821,7 @@
       "Swim 4",
       "Jump 1",
       "Power 2",
+      "Alluring",
       "Naturewalk (Forest, Grassland)"
     ],
     "skills": {
@@ -185625,7 +186264,8 @@
       "Swim 5",
       "Sky 6",
       "Jump 2",
-      "Power 3"
+      "Power 3",
+      "Guster"
     ],
     "skills": {
       "athl": "3d6",
@@ -185779,6 +186419,7 @@
       "Jump 2",
       "Power 1",
       "Fountain",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -185922,7 +186563,8 @@
       "Swim 8",
       "Jump 3",
       "Power 4",
-      "Fountain"
+      "Fountain",
+      "Gilled"
     ],
     "skills": {
       "athl": "5d6",
@@ -186344,7 +186986,8 @@
       "Firestarter",
       "Heater",
       "Naturewalk (Forest)",
-      "Underdog"
+      "Underdog",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "3d6",
@@ -186502,7 +187145,9 @@
       "Power 7",
       "Firestarter",
       "Heater",
-      "Naturewalk (Forest)"
+      "Mountable 2",
+      "Naturewalk (Forest)",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "5d6",
@@ -186654,6 +187299,7 @@
       "Swim 5",
       "Jump 1",
       "Power 4",
+      "Gilled",
       "Underdog"
     ],
     "skills": {
@@ -186805,7 +187451,8 @@
       "Overland 6",
       "Swim 7",
       "Jump 2",
-      "Power 7"
+      "Power 7",
+      "Gilled"
     ],
     "skills": {
       "athl": "4d6+3",
@@ -186951,6 +187598,8 @@
       "Levitate 4",
       "Jump 0",
       "Power 1",
+      "Darkvision",
+      "Dead Silent",
       "Fountain",
       "Phasing",
       "Underdog"
@@ -187106,6 +187755,8 @@
       "Levitate 6",
       "Jump 0",
       "Power 1",
+      "Darkvision",
+      "Dead Silent",
       "Fountain",
       "Phasing"
     ],
@@ -187694,7 +188345,9 @@
       "Swim 3",
       "Jump 1",
       "Power 1",
+      "Darkvision",
       "Naturewalk (Forest)",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -187857,7 +188510,9 @@
       "Swim 4",
       "Jump 2",
       "Power 3",
+      "Darkvision",
       "Naturewalk (Forest)",
+      "Stealth",
       "Underdog"
     ],
     "skills": {
@@ -188011,7 +188666,9 @@
       "Swim 5",
       "Jump 3",
       "Power 8",
-      "Naturewalk (Forest)"
+      "Darkvision",
+      "Naturewalk (Forest)",
+      "Stealth"
     ],
     "skills": {
       "athl": "6d6",
@@ -188174,6 +188831,7 @@
       "Levitate 4",
       "Jump 1",
       "Power 1",
+      "Alluring",
       "Amorphous",
       "Underdog"
     ],
@@ -188325,6 +188983,7 @@
       "Levitate 6",
       "Jump 2",
       "Power 2",
+      "Alluring",
       "Amorphous"
     ],
     "skills": {
@@ -188458,7 +189117,9 @@
       "Overland 7",
       "Swim 4",
       "Jump 2",
-      "Power 9"
+      "Power 9",
+      "Mindlock",
+      "Pack Mon"
     ],
     "skills": {
       "athl": "5d6",
@@ -188610,6 +189271,7 @@
       "Jump 0",
       "Power 1",
       "Amorphous",
+      "Gilled",
       "Glow",
       "Underdog",
       "Zapper"
@@ -188770,10 +189432,12 @@
       "Swim 2",
       "Jump 1",
       "Power 1",
+      "Chilled",
       "Freezer",
       "Naturewalk (Tundra)",
       "Threaded",
-      "Underdog"
+      "Underdog",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "2d6",
@@ -188869,9 +189533,11 @@
       "Sky 7",
       "Jump 2",
       "Power 3",
+      "Chilled",
       "Freezer",
       "Naturewalk (Tundra)",
-      "Threaded"
+      "Threaded",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "2d6",
@@ -189465,6 +190131,7 @@
       "Swim 4",
       "Jump 1",
       "Power 4",
+      "Darkvision",
       "Naturewalk (Forest)",
       "Underdog",
       "Zapper"
@@ -189636,6 +190303,7 @@
       "Swim 2",
       "Jump 0",
       "Power 8",
+      "Mountable 1",
       "Naturewalk \n(Mountain)",
       "Underdog"
     ],
@@ -189804,6 +190472,7 @@
       "Swim 3",
       "Jump 0",
       "Power 12",
+      "Mountable 2",
       "Naturewalk (Mountain)"
     ],
     "skills": {
@@ -189953,6 +190622,7 @@
       "Swim 3",
       "Jump 2",
       "Power 7",
+      "Mountable \n1",
       "Naturewalk (Forest, Grassland)",
       "Zapper"
     ],
@@ -190106,7 +190776,9 @@
       "Swim 6",
       "Jump 2",
       "Power 6",
+      "Chilled",
       "Freezer",
+      "Mountable 1",
       "Naturewalk (Tundra)",
       "Zapper"
     ],
@@ -190262,6 +190934,8 @@
       "Jump 2",
       "Power 6",
       "Fountain",
+      "Gilled",
+      "Mountable 1",
       "Naturewalk (Ocean)"
     ],
     "skills": {
@@ -190420,7 +191094,10 @@
       "Swim 7",
       "Jump 3",
       "Power 7",
+      "Chilled",
       "Freezer",
+      "Gilled",
+      "Mountable 2",
       "Naturewalk (Tundra)"
     ],
     "skills": {
@@ -190743,6 +191420,8 @@
       "Sky 4",
       "Jump 1",
       "Power 1",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility",
       "Phasing",
       "Underdog"
@@ -190864,6 +191543,8 @@
       "Sky 6",
       "Jump 2",
       "Power 3",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility",
       "Phasing",
       "Underdog"
@@ -191048,7 +191729,10 @@
       "Sky 8",
       "Jump 3",
       "Power 6",
+      "Darkvision",
+      "Dead Silent",
       "Invisibility",
+      "Mountable 3",
       "Phasing"
     ],
     "skills": {
@@ -191411,6 +192095,7 @@
       "Jump 1",
       "Power 4",
       "Naturewalk (Forest)",
+      "Tracker",
       "Underdog"
     ],
     "skills": {
@@ -192168,6 +192853,9 @@
       "Levitate 6",
       "Jump 1",
       "Power 1",
+      "Darkvision",
+      "Dead Silent",
+      "Gilled",
       "Naturewalk (Ocean)",
       "Invisibility",
       "Phasing"
@@ -192531,7 +193219,9 @@
       "Swim 5",
       "Jump 2",
       "Power 6",
-      "Naturewalk (Forest, Grassland)"
+      "Darkvision",
+      "Naturewalk (Forest, Grassland)",
+      "Tracker"
     ],
     "skills": {
       "athl": "5d6+1",
@@ -193121,6 +193811,8 @@
       "Levitate 5",
       "Jump 1",
       "Power 7",
+      "Darkvision",
+      "Dead Silent",
       "Phasing",
       "Invisibility"
     ],
@@ -193854,7 +194546,10 @@
       "Sky 12",
       "Jump 4",
       "Power 15",
+      "Aura",
+      "Dead Silent",
       "Glow",
+      "Mountable 10",
       "Reach",
       "Telepath"
     ],
@@ -194013,7 +194708,10 @@
       "Jump 1",
       "Power 2",
       "Amorphous",
+      "Dead Silent",
+      "Magnetic",
       "Underdog",
+      "Wallclimber",
       "Zapper"
     ],
     "skills": {
@@ -194130,6 +194828,9 @@
       "Jump 2",
       "Power 11",
       "Amorphous",
+      "Dead Silent",
+      "Magnetic",
+      "Wallclimber",
       "Zapper"
     ],
     "skills": {
@@ -194660,8 +195361,10 @@
       "Swim 5",
       "Jump 3",
       "Power 6",
+      "Darkvision",
       "Naturewalk (Forest)",
       "Reach",
+      "Stealth",
       "Threaded"
     ],
     "skills": {
@@ -195423,7 +196126,9 @@
       "Swim 8",
       "Jump 2",
       "Power 14",
+      "Chilled",
       "Freezer",
+      "Mountable 2",
       "Naturewalk (Ocean, Taiga, \nTundra)"
     ],
     "skills": {
@@ -195585,7 +196290,9 @@
       "Levitate 8",
       "Jump 2",
       "Power 10",
+      "Dead Silent",
       "Invisibility",
+      "Mountable 2",
       "Phasing"
     ],
     "skills": {
@@ -196582,7 +197289,10 @@
       "Swim 8",
       "Jump 2",
       "Power 4",
+      "Darkvision",
+      "Gilled",
       "Inflatable",
+      "Mountable 1",
       "Naturewalk (Ocean)"
     ],
     "skills": {
@@ -196867,7 +197577,8 @@
       "Swim 4",
       "Jump 3",
       "Power 3",
-      "Naturewalk \n(Mountain, Tundra)"
+      "Naturewalk \n(Mountain, Tundra)",
+      "Wallclimber"
     ],
     "skills": {
       "athl": "5d6+2",
@@ -197304,7 +198015,9 @@
       "Swim 3",
       "Jump 2",
       "Power 5",
-      "Telekinetic"
+      "Mountable \n1",
+      "Telekinetic",
+      "Tracker"
     ],
     "skills": {
       "athl": "4d6+2",
@@ -197635,7 +198348,9 @@
       "Swim 4",
       "Jump 2",
       "Power 8",
-      "Naturewalk (Wetland)"
+      "Mountable 1",
+      "Naturewalk (Wetland)",
+      "Tracker"
     ],
     "skills": {
       "athl": "4d6+2",

@@ -24,8 +24,20 @@
     "description": "Naturewalk (Wetland)"
   },
   {
+    "name": "Alluring",
+    "description": "Alluring"
+  },
+  {
     "name": "Burrow",
     "description": "Burrow 3"
+  },
+  {
+    "name": "Mountable",
+    "description": "Mountable 1"
+  },
+  {
+    "name": "Stealth",
+    "description": "Stealth"
   },
   {
     "name": "Firestarter",
@@ -44,12 +56,36 @@
     "description": "Heater"
   },
   {
+    "name": "Tracker",
+    "description": "Tracker"
+  },
+  {
     "name": "Fountain",
     "description": "Fountain"
   },
   {
+    "name": "Gilled",
+    "description": "Gilled"
+  },
+  {
+    "name": "Wallclimber",
+    "description": "Wallclimber"
+  },
+  {
     "name": "Threaded",
     "description": "Threaded"
+  },
+  {
+    "name": "Guster",
+    "description": "Guster"
+  },
+  {
+    "name": "Pack",
+    "description": "Pack Mon"
+  },
+  {
+    "name": "Darkvision",
+    "description": "Darkvision"
   },
   {
     "name": "Inflatable",
@@ -64,8 +100,20 @@
     "description": "Zapper"
   },
   {
+    "name": "Dead",
+    "description": "Dead Silent"
+  },
+  {
+    "name": "Magnetic",
+    "description": "Magnetic"
+  },
+  {
     "name": "Freezer",
     "description": "Freezer"
+  },
+  {
+    "name": "Chilled",
+    "description": "Chilled"
   },
   {
     "name": "Telepath",
@@ -74,6 +122,10 @@
   {
     "name": "Telekinetic",
     "description": "Telekinetic"
+  },
+  {
+    "name": "Aura",
+    "description": "Aura"
   },
   {
     "name": "Volatile",
@@ -88,11 +140,31 @@
     "description": "Invisibility"
   },
   {
+    "name": "Shrinkable",
+    "description": "Shrinkable"
+  },
+  {
+    "name": "Honey",
+    "description": "Honey Gather"
+  },
+  {
     "name": "Reach",
     "description": "Reach"
   },
   {
+    "name": "Soulless",
+    "description": "Soulless"
+  },
+  {
     "name": "Amorphous",
     "description": "Amorphous"
+  },
+  {
+    "name": "Mindlock",
+    "description": "Mindlock"
+  },
+  {
+    "name": "Shapeshifter",
+    "description": "Shapeshifter"
   }
 ]

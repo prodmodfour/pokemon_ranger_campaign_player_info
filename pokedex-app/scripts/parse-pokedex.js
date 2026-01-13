@@ -1,5 +1,9 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const MARKDOWN_PATH = path.join(__dirname, '../../books/markdown/Combined_Pokedex.md');
 const OUTPUT_DIR = path.join(__dirname, '../data');
@@ -159,8 +163,8 @@ function parseBreedingInfo(lines) {
 
 function parseCapabilities(text) {
   const caps = [];
-  // Common capabilities pattern
-  const capPattern = /(?:Overland|Swim|Jump|Power|Sky|Levitate|Burrow|Naturewalk|Underdog|Sinker|Glow|Heater|Freezer|Zapper|Telekinetic|Telepath|Invisibility|Threaded|Amorphous|Inflatable|Firestarter|Reach|Fountain|Volatile|Weathered|Phasing)\s*(?:\d+|\([^)]+\))?/gi;
+  // Common capabilities pattern - comprehensive list
+  const capPattern = /(?:Overland|Swim|Jump|Power|Sky|Levitate|Burrow|Naturewalk|Underdog|Sinker|Glow|Heater|Freezer|Zapper|Telekinetic|Telepath|Invisibility|Threaded|Amorphous|Inflatable|Firestarter|Reach|Fountain|Volatile|Weathered|Phasing|Mountable|Darkvision|Gilled|Tracker|Dead Silent|Pack Mon|Aura|Guster|Wallclimber|Chilled|Magnetic|Magnet Rise|Alluring|Blessed|Shrinkable|Mindlock|Legendary|Honey Gather|Shapeshifter|Waddler|Dusker|X-Ray Vision|Earthshaper|Clone|Fairy Mist|Warper|Stealth|Soulless|Mindreader|Venom)\s*(?:\d+|\([^)]+\))?/gi;
   const matches = text.match(capPattern);
   if (matches) {
     for (const cap of matches) {
